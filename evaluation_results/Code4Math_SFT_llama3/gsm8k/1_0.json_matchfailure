@@ -1,0 +1,1319 @@
+null
+null
+{"version": "fail_grading_match", "details": [["10000"], "70000", ["10000"], "Josh buys a house for $80,000 and then puts in $50,000 in repairs, increasing the value of the house by 150%.\nTo find the increase in value, we need to calculate 150% of the initial value of the house, which is $80,000.\n150% of $80,000 is 1.5 * $80,000 = $120,000.\nSo, the increase in value is $120,000 - $80,000 = $40,000.\nJosh's profit is the increase in value minus the cost of the house and the cost of repairs, which is $40,000 - $80,000 - $50,000 = $10,000.\nTherefore, Josh made a profit of $10,000.\nThe answer is 10000"]}
+null
+null
+{"version": "fail_grading_match", "details": [["40"], "64", ["40"], "Half of the glasses will cost 5 * 0.6 = $3.\nSo for 16 glasses, Kylar needs to pay 8 * 5 + 8 * 3 = $40.\nThe answer is 40"]}
+null
+null
+{"version": "fail_grading_match", "details": [["515"], "45", ["515"], "John drives for 3 hours at a speed of 60 mph, so he covers a distance of 3 * 60 = 180 miles.\nHe then turns around and tries to get home in 4 hours, but spends the first 2 hours in standstill traffic, so he covers a distance of 2 * 0 = 0 miles.\nHe then spends the next half-hour driving at a speed of 30 mph, so he covers a distance of 0.5 * 30 = 15 miles.\nFinally, he drives the remaining time of the 4 hours at a speed of 80 mph, so he covers a distance of 4 * 80 = 320 miles.\nIn total, he covers a distance of 180 + 0 + 15 + 320 = 515 miles.\nTherefore, he is 515 miles from home at the end of those 4 hours.\nThe answer is 515"]}
+null
+null
+null
+{"version": "fail_grading_match", "details": [["12"], "13", ["12"], "Carlos will earn 7 * $1.5 = $10.5 each year from selling the lemons.\nHe will spend $3 each year to water and feed the tree.\nSo, his net earnings each year will be $10.5 - $3 = $7.5.\nTo earn back the initial cost of $90, it will take $90 / $7.5 = 12 years.\nTherefore, it will take Carlos 12 years before he starts earning money on the lemon tree.\nThe answer is 12"]}
+{"version": "fail_grading_match", "details": [["13"], "18", ["13"], "Melanie sold 5 / 2 = 2.5 vacuum cleaners at the orange house.\nShe sold 2.5 + 2 = 4.5 vacuum cleaners at the red and orange houses.\nShe started with 4.5 * 3 = 13.5 vacuum cleaners.\nThe answer is 13"]}
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["21"], "7", ["21"], "There are 7 days in a week, so in 4 weeks, there are 7 * 4 = 28 days.\nClaire makes a 3 egg omelet every morning, so in 28 days, she will make 3 * 28 = 84 omelets.\nSince each omelet requires 3 eggs, Claire will eat a total of 84 * 3 = 252 eggs.\nSince there are 12 eggs in a dozen, Claire will eat 252 / 12 = 21 dozens of eggs.\nThe answer is 21"]}
+{"version": "fail_grading_match", "details": [["4"], "6", ["4"], "Marissa has already walked 4 + 2 = 6 miles.\nShe has 12 - 6 = 6 miles left to walk.\nShe wants her average speed to be 4 miles per hour, so she needs to walk the remaining 6 miles in 6 / 4 = 1.5 hours.\nTo find the speed she needs to walk the remaining distance, we divide the distance by the time: 6 miles / 1.5 hours = 4 miles per hour.\nTherefore, Marissa needs to walk the remaining distance at a speed of 4 miles per hour.\nThe answer is 4"]}
+{"version": "fail_grading_match", "details": [["28"], "15", ["28"], "There are 10 liters of orange drink, and two-thirds of it is water, so there are 10 * 2/3 = 20/3 liters of water in the orange drink.\nThere are 15 liters of pineapple drink, and three-fifths of it is water, so there are 15 * 3/5 = 9 liters of water in the pineapple drink.\nWhen we add the two drinks together, we have 20/3 + 9 = 29/3 liters of water.\nHowever, we spill one liter of the orange drink, so we subtract 1 from the total amount of water, which gives us 29/3 - 1 = 28/3 liters of water remaining.\nThe answer is 28"]}
+{"version": "fail_grading_match", "details": [["2"], "14", ["2"], "If Samantha is now 31, and Raymond was born 6 years before Samantha, then Raymond is 31 - 6 = 25 years old.\nIf Raymond had a son at the age of 23, then his son is 25 - 23 = 2 years old.\nTherefore, Raymond's son was born 2 years ago.\nThe answer is 2"]}
+null
+null
+null
+{"version": "fail_grading_match", "details": [["3"], "2", ["3"], "Marie ordered 5 packs of milk that cost $3 each, so she spent 5 * $3 = $15 on milk.\nShe also ordered 4 apples that cost $1.50 each, so she spent 4 * $1.50 = $6 on apples.\nMarie spent a total of $15 + $6 = $21 on milk and apples.\nShe paid a total of $50, so the remaining amount she spent on pizza is $50 - $21 = $29.\nIf each box of pizza costs $8.50, then Marie ordered $29 / $8.50 = 3.41 boxes of pizza.\nSince we can't have a fraction of a box, Marie must have ordered 3 boxes of pizza.\nThe answer is 3"]}
+null
+null
+{"version": "fail_grading_match", "details": [["35"], "25", ["35"], "Henry traveled 20 miles to his first stop.\nHe then traveled 15 miles to his second stop.\nSo, he traveled a total of 20 + 15 = 35 miles between his first and second stops.\nThe answer is 35"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["13"], "10", ["13"], "John runs 60 miles a week, and he runs 3 days a week, so he runs 60/3 = 20 miles per day.\nHe runs 3 hours the first day, so he runs 20 miles in 3 hours.\nHe runs half as much the other two days, so he runs 20/2 = 10 miles each of those days.\nIn total, he runs 20 + 10 + 10 = 40 miles in a week.\nTo find his speed, we divide the total distance by the total time.\nHe runs 40 miles in a week, and there are 3 days in a week, so he runs 40/3 = 13.33 miles per day.\nTherefore, John runs at a speed of 13.33 miles per day.\nThe answer is 13"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["55"], "40", ["55"], "If Trixie has had 12 kittens, and Patchy has had thrice the number of adopted kittens, then Patchy has had 12*3 = 36 kittens.\nThe total number of kittens the Doubtfire family has now is 36+12+7 = 55 kittens.\nThe answer is 55"]}
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["3000000"], "25000", ["3000000"], "Marcy works for the company for 40 years, so she will receive a total of $50,000/year x 40 years = $2,000,000 in annual pension.\nStarting after 20 years, she becomes entitled to 5% of the value of the pension per year, so she will receive an additional $2,000,000 x 5% = $100,000 per year.\nIf she quits after 30 years, she will receive the full amount of $2,000,000 plus the additional $100,000 per year for the remaining 10 years, so her annual pension will be $2,000,000 + ($100,000/year x 10 years) = $2,000,000 + $1,000,000 = $3,000,000.\nThe answer is 3000000"]}
+null
+{"version": "fail_grading_match", "details": [["200"], "300", ["200"], "Since Sophia's tank holds 12 gallons of gas, and she needs to put in 4 gallons to fill it up again, she has 12 - 4 = 8 gallons of gas left in her tank.\nSince she has traveled 100 miles on 4 gallons of gas, she can drive 100/4 = 25 miles per gallon.\nTherefore, Sophia can drive 25 miles per gallon x 8 gallons = 200 miles on a single tank of gas.\nThe answer is 200"]}
+{"version": "fail_grading_match", "details": [["12"], "36", ["12"], "Jim spends 2 hours watching TV and then reads for half as long, so he spends 2/2 = 1 hour reading.\nHe does this 3 times a week, so in one week he spends 2 + 1 = 3 hours on TV and reading.\nIn 4 weeks, he would spend 4 * 3 = 12 hours on TV and reading.\nThe answer is 12"]}
+null
+{"version": "fail_grading_match", "details": [["495"], "595", ["495"], "There were 175 diamonds.\nThere were 35 fewer rubies than diamonds, so there were 175 - 35 = 140 rubies.\nThere were twice the number of emeralds than the rubies, so there were 140 * 2 = 280 emeralds.\nIn total, there were 175 + 140 + 280 = 495 gems in the chest.\nThe answer is 495"]}
+null
+null
+{"version": "fail_grading_match", "details": [["7575"], "7425", ["7575"], "Judy teaches 5 dance classes every day on weekdays, so she teaches 5 x 5 = 25 classes in total on weekdays.\nShe also teaches 8 classes on Saturday.\nSo, in total, she teaches 25 + 8 = 33 classes in 1 week.\nEach class has 15 students, so she has a total of 33 x 15 = 495 students in 1 week.\nShe charges $15.00 per student, so she makes 495 x $15.00 = $7,575.00 in 1 week.\nThe answer is 7575"]}
+null
+null
+{"version": "fail_grading_match", "details": [["250"], "255", ["250"], "Shiela bought 5 cell phones for $150 each, so the total cost of the cell phones is 5 * $150 = $750.\nA 2% interest will be charged for each unit, so the total interest charged is 2% * 5 = 0.10 * 5 = $0.50.\nThe total amount that Shiela will pay each month for 3 months is $750 + $0.50 = $750.50.\nTo find out how much she will pay each month, we divide the total amount by the number of months, so $750.50 / 3 = $250.\nTherefore, Shiela will pay $250 each month for 3 months.\nThe answer is 250"]}
+{"version": "fail_grading_match", "details": [["86"], "88", ["86"], "If Artie sells 12 pots of marigolds at $2.74 per pot, he will make 12 * $2.74 = $33.48\nIf he sells 9 pots of petunias at $1.87 per pot, he will make 9 * $1.87 = $16.73\nIf he sells 17 pots of begonias at $2.12 per pot, he will make 17 * $2.12 = $35.64\nIn total, Artie will make $33.48 + $16.73 + $35.64 = $85.85\nSince he has decided to round all his prices to the nearest dollar, he will make $86\nThe answer is 86"]}
+{"version": "fail_grading_match", "details": [["7"], "60", ["7"], "If the top level has a square footage of 16, then the second level will have a square footage of 16/2 = 8.\nThe third level will have a square footage of 8/2 = 4.\nAnd the fourth level will have a square footage of 4/2 = 2.\nTo find the average square footage of a level, we add up the square footage of all the levels and divide by the number of levels.\nSo, the total square footage is 16 + 8 + 4 + 2 = 30.\nAnd since there are 4 levels, the average square footage of a level is 30/4 = 7.5.\nThe answer is 7"]}
+null
+null
+{"version": "fail_grading_match", "details": [["5"], "6", ["5"], "If Vincent buys flowers in packages of 3 for $2.50, then the price per flower is $2.50/3 = $0.83\nIf Vincent buys flowers in packages of 2 for $1, then the price per flower is $1/2 = $0.50\nBy buying 18 flowers at the better price, Vincent saves $0.83 - $0.50 = $0.33 per flower\nSo, Vincent saves $0.33 x 18 = $5.94 in total\nThe answer is 5"]}
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["780"], "9360", ["780"], "If Sylvie just clocked 5 years in the company last December, she will receive a 10% increase on her salary for each of the next three years.\nSo, her annual salary after three more years of service will be $600 + ($600 * 10%) * 3 = $600 + ($600 * 0.10) * 3 = $600 + $180 = $780.\nThe answer is 780"]}
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["44"], "36", ["44"], "If Lee runs the 400-meter hurdles in 38 seconds, and he used to be able to run it two seconds faster than Gerald, then Gerald would run it in 38 + 2 = 40 seconds.\nIf Gerald's speed improved by 10%, then his new speed is 100% + 10% = 110% of his original speed.\nSo, Gerald's new speed is 110% of 40 seconds, which is 110/100 * 40 = 44 seconds.\nTherefore, Gerald, with his improved diet, can run the 400-meter hurdles in 44 seconds.\nThe answer is 44"]}
+null
+null
+null
+{"version": "fail_grading_match", "details": [["28"], "12", ["28"], "If each can of tomatoes contains three tomatoes, then each 16 ounce can contains 16/3 = 5.33 tomatoes.\nSince Freda's last batch of tomato sauce made 32 ounces of sauce, she used 32/5.33 = 9.5 cans of tomatoes.\nSince each can contains three tomatoes, Freda used 9.5 x 3 = 28 tomatoes.\nThe answer is 28"]}
+{"version": "fail_grading_match", "details": [["20"], "5", ["20"], "There were originally 30 cars on the motorway.\n5 cars from the line took an exit, so there are now 30 - 5 = 25 cars remaining.\nIn the first 15 minutes, 20 cars drove through the remaining 15 minutes of the jam.\nSo, in the first 15 minutes, 20 cars drove through the traffic jam.\nThe answer is 20"]}
+null
+null
+{"version": "fail_grading_match", "details": [["10"], "6", ["10"], "He has to read 4 + 20 + 7 + 8 = 39 pages in total.\nHe has 4 more days to complete all his reading, so he needs to read 39 / 4 = 9.75 pages per day.\nSince he cannot read a fraction of a page, he needs to read at least 10 pages per day.\nThe answer is 10"]}
+{"version": "fail_grading_match", "details": [["17"], "26", ["17"], "John drinks 3 glasses of water a day for 5 days for a total of 3*5 = 15 glasses\nHe drinks 1 glass of water a day for 2 days for a total of 1*2 = 2 glasses\nHe drinks 15+2 = 17 glasses of water in a week\nThe answer is 17"]}
+null
+null
+null
+{"version": "fail_grading_match", "details": [["354"], "72", ["354"], "Each box has an inner volume of 5*6*4=120 cubic inches\nThe walls take away 2*1=2 cubic inches from each box\nSo each box has an inner volume of 120-2=118 cubic inches\nSo the total volume is 118*3=354 cubic inches\nThe answer is 354"]}
+null
+{"version": "fail_grading_match", "details": [["52"], "50", ["52"], "Henry baked 110 cookies - 5 cookies = 105 cookies.\nHe made 105 cookies / 2 = 52.5 cookies last year.\nThe answer is 52"]}
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["45"], "90", ["45"], "She bought the first ten boards for $10 each, so she spent 10 * $10 = $100 on them.\nShe bought the next five boards for $16 each, so she spent 5 * $16 = $80 on them.\nThe total cost of the boards is $100 + $80 = $180.\nShe sells each board for $10 + 50% of $10 = $10 + $5 = $15.\nShe sells ten boards for $15 each, so she earns 10 * $15 = $150 from them.\nShe sells five boards for $15 each, so she earns 5 * $15 = $75 from them.\nThe total amount she earns is $150 + $75 = $225.\nHer profit is the total amount she earns minus the total cost, so her profit is $225 - $180 = $45.\nThe answer is 45"]}
+null
+null
+null
+{"version": "fail_grading_match", "details": [["99118"], "95200", ["99118"], "If Adrien's salary was 30% higher than Lylah's, and he earned $40000 four years ago, Lylah was earning $40000/1.3 = $30769.23 four years ago.\nFour years later, Adrien's salary had increased by 40/100*$40000 = $16000\nHis total salary four years later was $40000+$16000 = $56000\nAt the same time, Lylah's salary had increased by 40/100*$30769.23 = $12348.92\nHer total salary four years later was $30769.23+$12348.92 = $43118.15\nTogether, the two were earning $56000+$43118.15 = $99118.15 four years later.\nThe answer is 99118"]}
+null
+null
+{"version": "fail_grading_match", "details": [["55"], "48", ["55"], "Sadie slept 8 hours on Monday.\nFor the next two days, she slept 2 hours less, each, so she slept 8 - 2 = 6 hours each day.\nThe total hours she slept for the next two days is 6 + 6 = 12 hours.\nFor the rest of the week, she slept 1 hour more than those two days, so she slept 6 + 1 = 7 hours each day.\nThe total hours she slept for the rest of the week is 7 x 5 = 35 hours.\nIn total, Sadie slept 8 + 12 + 35 = 55 hours throughout the week.\nThe answer is 55"]}
+null
+{"version": "fail_grading_match", "details": [["70"], "10", ["70"], "Jennie puts stamps on one-third of the letters needing stamps, so she puts stamps on 60/3 = 20 letters.\nAfter putting stamps on 20 letters, there are now 60 - 20 = 40 letters in the pile of letters needing stamps.\nIf there are now 30 letters in the pile of already-stamped letters, then there were 30 + 40 = 70 letters in that pile when Jennie began.\nThe answer is 70"]}
+{"version": "fail_grading_match", "details": [["14"], "10", ["14"], "Julia had 12 spoons in total, and she used 3 of them to sample her stew, so she had 12 - 3 = 9 spoons left.\nHer husband gave her 5 new spoons, so she had 9 + 5 = 14 spoons in total.\nTherefore, the package that Julia bought had 14 spoons.\nThe answer is 14"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["21"], "105", ["21"], "Mark completed the first test at a rate of 5 questions per hour, so he took 75/5 = 15 hours to complete the first test.\nHe had 8 hours to complete the first test, so he left 15 - 8 = 7 questions incomplete.\nMark completed the second test at a rate of 5 questions per hour, so he took 100/5 = 20 hours to complete the second test.\nHe had 6 hours to complete the second test, so he left 20 - 6 = 14 questions incomplete.\nTherefore, Mark left a total of 7 + 14 = 21 questions incomplete.\nThe answer is 21"]}
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["18"], "16", ["18"], "John buys milk for 2 dollars, eggs for 3 dollars, light bulbs for 3 dollars, cups for 3 dollars, and roach traps for 4 dollars.\nThe total cost of the milk, eggs, light bulbs, cups, and roach traps is 2 + 3 + 3 + 3 + 4 = 17 dollars.\nThere is a 10% tax on all nonfood items, so the tax on the milk, eggs, light bulbs, cups, and roach traps is 17 * 0.10 = 1.7 dollars.\nTherefore, the total cost of everything, including the tax, is 17 + 1.7 = 18.7 dollars.\nThe answer is 18"]}
+null
+null
+{"version": "fail_grading_match", "details": [[], "2125", [], "Johnny has a lego boxed set with 500 pieces.\nHe also has another one that has 3 times more pieces, so it has 500 * 3 = 1500 pieces.\nHe also has another one that has 1/4 the number of pieces, so it has 500 * 1/4 = 125 pieces.\nIn total, Johnny has 500 + 1500 + 125 = 2125 pieces.\nTherefore, Johnny picks up 2125 blocks if he picks up all the legos.\nThe answer is 2125"]}
+{"version": "fail_grading_match", "details": [["105"], "75", ["105"], "Debra sees 30 bees leave the hive in the first 6 hours.\nIn the next 6 hours, she sees 1/2 that many bees return, so she sees 30/2 = 15 bees return.\nIn the next 6 hours, she sees two times as many bees as she saw first leave the hive fly from the hive and leave, so she sees 30*2 = 60 bees leave.\nIn the last 6 hours, every bee that left before that hadn't already returned returns to the hive, so she sees 30+15+60 = 105 bees return.\nTherefore, Debra sees 105 bees return to the hive in the last 6 hours of the day.\nThe answer is 105"]}
+{"version": "fail_grading_match", "details": [["14"], "30", ["14"], "Brittany's mom gives the cashier money for 1 child ticket and 1 adult ticket, so she gives $10 + $12 = $22 in total.\nIf she received $8 in change, then she gave the cashier $22 - $8 = $14.\nThe answer is 14"]}
+null
+{"version": "fail_grading_match", "details": [["0"], "4", ["0"], "To find out who finishes the race first, we need to calculate the time it takes for each person to get home.\nSteve lives 3 miles away and can bike at 440 feet per minute, so it will take him 3 miles / 440 feet per minute = 0.0683 minutes to get home.\nTim lives 2 miles away and can ride his skateboard at 264 feet per minute, so it will take him 2 miles / 264 feet per minute = 0.075 minutes to get home.\nTherefore, Tim will finish the race first, and Steve will be waiting at his house for 0.0683 minutes - 0.075 minutes = -0.0067 minutes.\nSince the time cannot be negative, we can say that Steve will be waiting at his house for 0 minutes.\nThe answer is 0"]}
+null
+null
+{"version": "fail_grading_match", "details": [["45"], "48", ["45"], "Let's assume the number of french fries in the pack when Dave bought it is x.\nDave ate 14 fries, so there were x - 14 fries left.\nThe seagull ate half the amount of fries that Dave ate, so it ate 14/2 = 7 fries.\nAfter the seagull ate, there were x - 14 - 7 = x - 21 fries left.\nThe three pigeons ate 3 fries each, so they ate a total of 3 * 3 = 9 fries.\nAfter the pigeons ate, there were x - 21 - 9 = x - 30 fries left.\nThe raccoon ate two thirds of the remaining fries, so it ate 2/3 * (x - 30) = 2/3 * x - 20 fries.\nAfter the raccoon ate, there were x - 30 - (2/3 * x - 20) = x - 30 - 2/3 * x + 20 = (1/3 * x) - 10 fries left.\nFinally, the ants carried off a french fry, leaving 5 fries behind.\nSo, (1/3 * x) - 10 = 5.\nAdding 10 to both sides, we get (1/3 * x) = 15.\nMultiplying both sides by 3, we get x = 45.\nTherefore, there were 45 french fries in the pack when Dave bought it.\nThe answer is 45"]}
+{"version": "fail_grading_match", "details": [["256"], "272", ["256"], "On Mondays, Wednesdays, and Fridays, Kimo has three 1-hour classes each day, so he spends 3 * 1 = 3 hours attending classes each day.\nOn Tuesdays and Thursdays, he has two 2-hour classes each day, so he spends 2 * 2 = 4 hours attending classes each day.\nIn one week, he spends a total of 3 + 3 + 3 + 4 + 4 = 16 hours attending classes.\nIn one semester, there are 16 weeks of school, so he spends a total of 16 * 16 = 256 hours attending classes.\nThe answer is 256"]}
+{"version": "fail_grading_match", "details": [["290"], "280", ["290"], "First find the total length of the rolls: 300 rolls * 4 inches/roll = 1200 inches\nThen find the total length of the croissants: 120 croissants * 6 inches/croissant = 720 inches\nThen find the total length of the baguettes: 60 baguettes * 2 feet/baguette = 120 feet\nThen add the length of each type of pastry to find the total length: 1200 inches + 720 inches + 120 feet = 2040 inches + 120 feet\nThen divide the length in inches by 12 to convert it to feet: 2040 inches / 12 inches/foot = 170 feet\nThen add the length in feet to find the total length: 170 feet + 120 feet = 290 feet\nThe answer is 290"]}
+null
+{"version": "fail_grading_match", "details": [["52"], "80", ["52"], "Blake runs back and forth 15 times, so he runs a total of 15 * 2 = 30 yards.\nKelly runs back and forth once, so she runs a total of 1 * 2 = 2 yards.\nKelly then runs to the 40-yard line and back, so she runs a total of 40 * 2 = 80 yards.\nIn total, Kelly runs 2 + 80 = 82 yards.\nThe winner runs 82 yards, while the loser runs 30 yards.\nTherefore, the winner runs 82 - 30 = 52 yards farther than the loser.\nThe answer is 52"]}
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["526"], "92", ["526"], "After 2 months, the price of the marbles increases by 20% of $20, which is $20 * 0.20 = $4.\nSo, the new price of the marbles after 2 months is $20 + $4 = $24.\nAfter 4 months, the price of the marbles increases by 20% of $24, which is $24 * 0.20 = $4.80.\nSo, the new price of the marbles after 4 months is $24 + $4.80 = $28.80.\nAfter 6 months, the price of the marbles increases by 20% of $28.80, which is $28.80 * 0.20 = $5.76.\nSo, the new price of the marbles after 6 months is $28.80 + $5.76 = $34.56.\nAfter 8 months, the price of the marbles increases by 20% of $34.56, which is $34.56 * 0.20 = $6.912.\nSo, the new price of the marbles after 8 months is $34.56 + $6.912 = $41.472.\nAfter 10 months, the price of the marbles increases by 20% of $41.472, which is $41.472 * 0.20 = $8.2944.\nSo, the new price of the marbles after 10 months is $41.472 + $8.2944 = $49.7664.\nAfter 12 months, the price of the marbles increases by 20% of $49.7664, which is $49.7664 * 0.20 = $9.95328.\nSo, the new price of the marbles after 12 months is $49.7664 + $9.95328 = $59.71968.\nAfter 14 months, the price of the marbles increases by 20% of $59.71968, which is $59.71968 * 0.20 = $11.97336.\nSo, the new price of the marbles after 14 months is $59.71968 + $11.97336 = $71.69296.\nAfter 16 months, the price of the marbles increases by 20% of $71.69296, which is $71.69296 * 0.20 = $14.3384.\nSo, the new price of the marbles after 16 months is $71.69296 + $14.3384 = $85.03136.\nAfter 18 months, the price of the marbles increases by 20% of $85.03136, which is $85.03136 * 0.20 = $17.006272.\nSo, the new price of the marbles after 18 months is $85.03136 + $17.006272 = $102.037232.\nAfter 20 months, the price of the marbles increases by 20% of $102.037232, which is $102.037232 * 0.20 = $20.4074368.\nSo, the new price of the marbles after 20 months is $102.037232 + $20.4074368 = $122.4446688.\nAfter 22 months, the price of the marbles increases by 20% of $122.4446688, which is $122.4446688 * 0.20 = $24.4889344.\nSo, the new price of the marbles after 22 months is $122.4446688 + $24.4889344 = $146.9336024.\nAfter 24 months, the price of the marbles increases by 20% of $146.9336024, which is $146.9336024 * 0.20 = $29.38672048.\nSo, the new price of the marbles after 24 months is $146.9336024 + $29.38672048 = $176.3203232.\nAfter 26 months, the price of the marbles increases by 20% of $176.3203232, which is $176.3203232 * 0.20 = $35.26406464.\nSo, the new price of the marbles after 26 months is $176.3203232 + $35.26406464 = $211.5843888.\nAfter 28 months, the price of the marbles increases by 20% of $211.5843888, which is $211.5843888 * 0.20 = $42.3167776.\nSo, the new price of the marbles after 28 months is $211.5843888 + $42.3167776 = $253.9011664.\nAfter 30 months, the price of the marbles increases by 20% of $253.9011664, which is $253.9011664 * 0.20 = $50.78033232.\nSo, the new price of the marbles after 30 months is $253.9011664 + $50.78033232 = $304.6814984.\nAfter 32 months, the price of the marbles increases by 20% of $304.6814984, which is $304.6814984 * 0.20 = $60.93629968.\nSo, the new price of the marbles after 32 months is $304.6814984 + $60.93629968 = $365.61779808.\nAfter 34 months, the price of the marbles increases by 20% of $365.61779808, which is $365.61779808 * 0.20 = $73.1215592.\nSo, the new price of the marbles after 34 months is $365.61779808 + $73.1215592 = $438.73935928.\nAfter 36 months, the price of the marbles increases by 20% of $438.73935928, which is $438.73935928 * 0.20 = $87.58787184.\nSo, the new price of the marbles after 36 months is $438.73935928 + $87.58787184 = $526.32723072.\nThe answer is 526"]}
+null
+null
+{"version": "fail_grading_match", "details": [["3"], "77", ["3"], "Elvira has a budget of \u20ac1500 and she spends \u20ac1090 on a computer, \u20ac157 on a scanner, \u20ac74 on a CD burner, and \u20ac102 on a printer.\nThe total amount she spends is \u20ac1090 + \u20ac157 + \u20ac74 + \u20ac102 = \u20ac1503.\nTo find out how much money she has left for her clothing, we subtract the total amount she spent from her budget.\n\u20ac1500 - \u20ac1503 = \u20ac-3.\nSince she spent more than her budget, she will have \u20ac-3 left for her clothing.\nThe answer is 3"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["2"], "15", ["2"], "They make 20 glasses per gallon and sell each glass for $0.50, so they make 20 * $0.50 = $10 per gallon.\nThey made $25 in profit, so their total revenue is $25 + $10 = $35.\nFor each gallon they make, it costs $3 for lemons and $2 for sugar, so their total cost per gallon is $3 + $2 = $5.\nTo find out how much they spent on lemons, we need to find the number of gallons they made.\nTheir total revenue is $35, and their cost per gallon is $5, so their profit per gallon is $35 - $5 = $30.\nSince their profit per gallon is $30, and they made $25 in total profit, they made $25 / $30 = 5/6 gallons.\nSince they made 5/6 gallons, and each gallon costs $3 for lemons, they spent 5/6 * $3 = $2.50 on lemons.\nThe answer is 2"]}
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["17"], "23", ["17"], "Two years ago, Mark was 5 years older than half of Jan's age, so Mark was 5 + (30/2) = 15 years old.\nSince Jean is two years older than Mark, Jean was 15 + 2 = 17 years old.\nTherefore, Jean is 17 years old.\nThe answer is 17"]}
+null
+{"version": "fail_grading_match", "details": [["30"], "25", ["30"], "There are 3 numbers greater than 3 (4, 5, and 6) and 3 even numbers (2, 4, and 6).\nThe probability of rolling a number greater than 3 is 3/6 = 1/2.\nThe probability of rolling two even numbers in a row is 3/6 * 2/5 = 1/5.\nTo find the difference in probability, we subtract the probability of rolling two even numbers in a row from the probability of rolling a number greater than 3: 1/2 - 1/5 = 5/10 - 2/10 = 3/10.\nTo express this as a percentage, we multiply the fraction by 100: 3/10 * 100 = 30%.\nSo, it is 30% more likely that Jerry rolls a number greater than 3 than that he rolls two even numbers in a row.\nThe answer is 30"]}
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["63"], "91", ["63"], "He plants 10 trees a year and chops down 2 trees a year so he has 10-2 = 8 trees per year\nHe starts with 50 trees and after 10 years he has 50+8*10 = 90 trees\n30% of the trees die so that leaves 90*.3 = 27 trees\nHe had 90 trees and 27 die so he has 90-27 = 63 trees left\nThe answer is 63"]}
+{"version": "fail_grading_match", "details": [["30"], "24", ["30"], "On Friday morning, the neighbors placed 18 pink plastic flamingos out on Sue's front yard.\nOn Saturday morning, they took back one third of the flamingos, which is 18/3 = 6 flamingos.\nThey painted these 6 flamingos white and put them back out on Sue's front yard.\nSo, there are now 18 - 6 = 12 pink plastic flamingos out on Sue's front yard.\nOn Sunday morning, they added another 18 pink plastic flamingos to the collection.\nSo, there are now 12 + 18 = 30 pink plastic flamingos out on Sue's front yard.\nAt noon on Sunday, there are 30 pink plastic flamingos out on Sue's front yard.\nThere are no white plastic flamingos out on Sue's front yard.\nTherefore, there are 30 - 0 = 30 more pink plastic flamingos out than white plastic flamingos.\nThe answer is 30"]}
+null
+null
+null
+{"version": "fail_grading_match", "details": [["6263"], "6277", ["6263"], "There are 8417 men and 9092 women, so the total number of men and women is 8417 + 9092 = 17509.\nThe rest of the population is made up of children, so the number of children is 23786 - 17509 = 6263.\nTherefore, there are 6263 kids in Soda.\nThe answer is 6263"]}
+{"version": "fail_grading_match", "details": [["240"], "320", ["240"], "In the first month, Elaine collected 3 * 20 = 60 cards.\nIn the second month, she collected 60 - 20 = 40 cards.\nIn the third month, she collected 2 * (20 + 40) = 120 cards.\nIn total, Elaine now has 20 + 60 + 40 + 120 = 240 cards.\nThe answer is 240"]}
+{"version": "fail_grading_match", "details": [["15000"], "7500", ["15000"], "Mark edits a total of 1000 sentences each week.\nPublisher A pays him 5 cents per sentence, so he earns 1000 * 5 = 5000 cents from Publisher A.\nPublisher B pays him twice what Publisher A pays, so he earns 2 * 5 = 10 cents per sentence from Publisher B.\nSince he edits an equal number of sentences for both publishers, he earns 1000 * 10 = 10000 cents from Publisher B.\nIn total, Mark makes 5000 + 10000 = 15000 cents in a week.\nThe answer is 15000"]}
+null
+{"version": "fail_grading_match", "details": [["115000"], "114200", ["115000"], "John's weekly salary is $2000.\nHe received a 5% raise, so his new salary is $2000 + ($2000 * 0.05) = $2000 + $100 = $2100.\nHe received a one-time monetary reward of $5000.\nTo calculate his total earnings for the year, we need to multiply his weekly salary by the number of weeks in a year.\nThere are 52 weeks in a year, so his total earnings for the year are $2100 * 52 = $110,000.\nAdding the one-time monetary reward, his total earnings for the year are $110,000 + $5000 = $115,000.\nThe answer is 115000"]}
+null
+null
+null
+{"version": "fail_grading_match", "details": [["120"], "98", ["120"], "To find the average, we add up all the scores and divide by the number of tests.\nThe sum of Brinley's scores on the first five tests is 89 + 71 + 92 + 100 + 86 = 438.\nTo get an average of 93, the sum of all six scores should be 93 * 6 = 558.\nTherefore, Brinley needs to score 558 - 438 = 120 on the sixth test.\nThe answer is 120"]}
+null
+null
+null
+{"version": "fail_grading_match", "details": [["45"], "145", ["45"], "If half a dozen plates cost $6000 each, then a dozen plates would cost $6000 * 2 = $12000.\nIf twenty dozen cups cost $1200 less than the total cost of half a dozen plates, then the total cost of twenty dozen cups is $12000 - $1200 = $10800.\nSince there are 12 cups in a dozen, then twenty dozen cups is equal to 20 * 12 = 240 cups.\nTo find the total cost of buying each cup, we divide the total cost of twenty dozen cups by the number of cups, so $10800 / 240 = $45.\nTherefore, the total cost of buying each cup is $45.\nThe answer is 45"]}
+{"version": "fail_grading_match", "details": [["11"], "10", ["11"], "First find the total cost of the shoes: $20/pair * 2 pairs = $40\nThen add that amount to the cost of the jacket to find the total cost: $40 + $30 = $70\nThen find how much money Sara makes from babysitting: $5/time * 4 times = $20\nThen find how much money Sara makes from mowing the lawn: $4/time * 1 time = $4\nThen add the money from both jobs to find how much money Sara has saved: $20 + $4 = $24\nThen subtract the money Sara has from the total cost of the jacket and shoes to find how much more money she needs: $70 - $24 = $46\nThen divide the remaining amount of money Sara needs by the amount of money she makes from mowing the lawn to find how many times she needs to mow the lawn: $46 / $4 = 11.5 times\nThe answer is 11"]}
+null
+null
+null
+{"version": "fail_grading_match", "details": [["0"], "8", ["0"], "Let's assume the amount of water in the small pool is x gallons.\n4 minutes ago, the big pool had twice as much water as the small pool, so it had 2x gallons.\nNow, the big pool has four times as much water as the small pool, so it has 4x gallons.\nThe amount of water that has leaked out of both pools is 4 gallons/minute x 4 minutes = 16 gallons.\nSo, the amount of water in the small pool now is x - 16 gallons.\nAnd the amount of water in the big pool now is 4x - 16 gallons.\nSince the big pool has four times as much water as the small pool, we can set up the equation 4x - 16 = 4(x - 16).\nSimplifying the equation, we get 4x - 16 = 4x - 64.\nSubtracting 4x from both sides, we get -16 = -64.\nAdding 64 to both sides, we get 48 = 0.\nSince this equation is not true, we can conclude that the initial assumption that the big pool had twice as much water as the small pool is incorrect.\nTherefore, the small pool does not have a specific amount of water now.\nThe answer is 0"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["36"], "33", ["36"], "First find the total number of cards James has: 30 fire cards + 20 grass cards + 40 water cards = 90 cards\nThen subtract the 8 water cards he lost from the original number: 40 water cards - 8 water cards = 32 water cards\nThen add the 14 grass cards he bought to the original number: 20 grass cards + 14 grass cards = 34 grass cards\nThen add the number of water cards to the number of grass cards to find the total number of cards that aren't water cards: 32 water cards + 34 grass cards = 66 cards\nThen divide the number of water cards by the total number of cards and multiply by 100% to find the percentage chance of getting a water card: 32 water cards / 90 cards * 100% = 35.56 which rounds down to 36%\nThe answer is 36"]}
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["7"], "21", ["7"], "Steve eats 6 tomatoes per day, so he eats 6 * 7 = 42 tomatoes per week.\nSince he eats twice as much as his girlfriend, his girlfriend eats 42 / 2 = 21 tomatoes per week.\nIf a vine can produce 3 tomatoes per week, then Steve needs 21 / 3 = 7 vines.\nThe answer is 7"]}
+null
+{"version": "fail_grading_match", "details": [["9"], "31", ["9"], "Ram can save money by mixing the ink from five empty pens to make one full pen.\nSo, for every five empty pens, he can make one full pen.\nIf he buys 25 pens, he can make 25/5 = 5 full pens.\nSince each full pen is made from five empty pens, he will have 25 - 5 = 20 empty pens left.\nHe can use these 20 empty pens to make 20/5 = 4 more full pens.\nTherefore, Ram will have a total of 5 + 4 = 9 full pens.\nThe answer is 9"]}
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["3"], "6", ["3"], "If Dolly has two books and she reads both of them, she will read a total of 2 books.\nIf Pandora has one book and she reads it, she will read a total of 1 book.\nIf they both read each other's books as well, they will read a total of 2 + 1 = 3 books.\nTherefore, they will collectively read 3 books by the end.\nThe answer is 3"]}
+null
+null
+null
+{"version": "fail_grading_match", "details": [["16"], "7", ["16"], "There are 32-4=28 more snails in the second aquarium.\nThe total number of snails in both aquariums is 28+4=32\nThe number of fish in both aquariums is 32/2=16\nThe answer is 16"]}
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["82"], "73", ["82"], "Last night Rick killed 10 wolves and 15 cougars, for a total of 10 + 15 = 25 animals.\nToday Rick killed three times as many wolves as cougars, so he killed 3 * 15 = 45 wolves.\nToday Rick also killed three fewer cougars than the previous night, so he killed 15 - 3 = 12 cougars.\nIn total, Rick killed 45 + 12 = 57 animals today.\nTherefore, Rick killed a total of 25 + 57 = 82 animals.\nThe answer is 82"]}
+null
+null
+{"version": "fail_grading_match", "details": [["176"], "192", ["176"], "There are 10 stalls with 20 cows each, so there are a total of 10 * 20 = 200 cows.\nMr. Sylas buys 40 cows and divides them equally among the 20 stalls, so each stall now has 20 + 40/20 = 20 + 2 = 22 cows.\nIf we want to know how many cows are in 8 of the stalls, we can multiply the number of cows in one stall (22) by the number of stalls (8).\nSo, there are 22 * 8 = 176 cows in 8 of the stalls.\nThe answer is 176"]}
+null
+null
+null
+{"version": "fail_grading_match", "details": [["76"], "168", ["76"], "If Andrea has 8 more apples than Jamal, then Jamal has 52 - 8 = 44 apples.\nIf Jamal has 4 more bananas than apples, then Jamal has 44 + 4 = 48 bananas.\nAndrea has half as many bananas as Jamal, so Andrea has 48 / 2 = 24 bananas.\nIn total, Andrea has 52 apples + 24 bananas = 76 fruits.\nThe answer is 76"]}
+{"version": "fail_grading_match", "details": [["66"], "11", ["66"], "Carla is making 36 cookies today and 30 cookies tomorrow, so she is making a total of 36 + 30 = 66 cookies.\nTwo cups of flour are needed to make a dozen cookies, so Carla will need 66/12 = 5.5 dozen cups of flour.\nSince there are 12 cookies in a dozen, Carla will need 5.5 x 12 = 66 cups of flour.\nTherefore, Carla will need 66 cups of flour to bake the cookies today and tomorrow.\nThe answer is 66"]}
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["51"], "91", ["51"], "It takes 20 minutes for the oil to heat up to 300 degrees.\nIt then takes 40% longer for the oil to heat up to the desired temperature of 400 degrees.\n40% of 20 minutes is 0.4 * 20 = 8 minutes.\nSo, it takes an additional 8 minutes for the oil to heat up to 400 degrees.\nAfter warming the oil, it takes 5 minutes less time to cook than it took to warm up the oil.\nSo, it takes 20 + 8 - 5 = 23 minutes to cook the chicken.\nTherefore, the total time that passes from starting the oil to having cooked chicken is 20 + 8 + 23 = 51 minutes.\nThe answer is 51"]}
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["765"], "315", ["765"], "First find the number of stitches the collar takes: 900 stitches / 10 = 90 stitches\nThen find the number of stitches the rosette takes: 90 stitches * 2 = 180 stitches\nThen subtract the number of stitches the collar and rosette take from the total number of stitches to find the number of stitches the sleeves take: 1800 stitches - 90 stitches - 180 stitches = 1530 stitches\nThen divide the number of stitches the sleeves take by the number of sleeves to find the number of stitches per sleeve: 1530 stitches / 2 sleeves = 765 stitches/sleeve\nThe answer is 765"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["90"], "75", ["90"], "There are 3 hours between 8 a.m. and 11 a.m., which is equal to 3 x 60 = 180 minutes.\nSusan earns $5 every 10 minutes, so in 180 minutes, she earns 180/10 = 18 sets of $5.\nEach set of $5 is equal to $5 x 1 = $5.\nTherefore, Susan earns a total of $5 x 18 = $90 for the online task.\nThe answer is 90"]}
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["400"], "500", ["400"], "At first, Carmen bids $200.\nThen the bids rise by $50 each time, so the next bid is $200 + $50 = $250.\nCarmen bids after each of the 3 other people, so the bids continue to rise by $50 each time.\nThe total number of bids is 3 + 1 (Carmen's bid) = 4.\nSo the final bid is $250 + ($50 * 3) = $250 + $150 = $400.\nTherefore, the desk costs Carmen $400.\nThe answer is 400"]}
+null
+null
+{"version": "fail_grading_match", "details": [["65536"], "8", ["65536"], "Each fold creates two pieces of paper. Since there are 32 pages, there are 16 folds. Thus, there are $2^{16} = \\boxed{65536}$ pieces of paper."]}
+null
+{"version": "fail_grading_match", "details": [["900"], "1300", ["900"], "If she sold twice as many books in the first year as she has sold in the current year, then she sold 2*45 = 90 books in the first year.\nThe total number of books she sold in the first and second year is 90+45 = 135\nIf she sold 135 books in the first and second year, then she sold 250-135 = 115 books in the third year.\nThe total amount of money she earned in the second year is 20*45 = $900\nThe answer is 900"]}
+{"version": "fail_grading_match", "details": [["1400"], "3200", ["1400"], "In a week, Watson earns 10 * 5 = $50.\nIn April, he would earn 4 * 50 = $200.\nIf the company performs very well, he gets a bonus of 300 * 4 = $1200.\nIn total, Watson would make 200 + 1200 = $1400 in April.\nThe answer is 1400"]}
+null
+null
+{"version": "fail_grading_match", "details": [["8"], "16", ["8"], "If Joey loses 8 pounds in 4 weeks, then he loses 8/4 = 2 pounds per week.\nSince Sandy needs 4 weeks to lose the same amount of weight that Joey loses in a single week, it will take Sandy 4 * 2 = 8 weeks to lose the same amount of weight.\nThe answer is 8"]}
+null
+null
+{"version": "fail_grading_match", "details": [["450"], "2050", ["450"], "He spends 6 * $100 = $600 on business suits.\nHe spends 3 * $50 = $150 on suitcases.\nThe flight ticket costs 5 * $100 + $700 = $5700.\nHe spends $600 + $150 + $5700 = $6450 on the business suits, suitcases, and flight ticket.\nHe has $6000 - $6450 = $-450 left for buying gifts for his business partners in South Africa.\nThe answer is 450"]}
+null
+null
+null
+{"version": "fail_grading_match", "details": [["42"], "30", ["42"], "Let's assume the number of players on the defense is D.\nSince there are twice as many players on the offense as there is on the defense, the number of players on the offense is 2D.\nSince there is half the number of players on the special teams as there is on the defense, the number of players on the special teams is D/2.\nThe total number of players on the team is the sum of the players on the offense, defense, and special teams, which is 2D + D + D/2 = 105.\nCombining like terms, we have 2.5D = 105.\nDividing both sides by 2.5, we have D = 42.\nTherefore, there are 42 players on the defense.\nThe answer is 42"]}
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["8"], "9", ["8"], "Jam has 3 boxes full of pencils, so she has 3 x 10 = 30 pencils in the boxes.\nShe also has 2 loose pencils, so in total, she has 30 + 2 = 32 pencils.\nMeg has 46 pencils.\nTo store all their pencils, they need 32 + 46 = 78 pencils.\nSince each box can hold 10 pencils, they will need 78 / 10 = 7.8 boxes.\nSince they cannot have a fraction of a box, they will need to round up to the nearest whole number.\nTherefore, Jam and Meg will need 8 boxes to store all their pencils.\nThe answer is 8"]}
+{"version": "fail_grading_match", "details": [["15"], "75", ["15"], "First find the total number of ice cubes Shannon adds: 65 degrees / 13 degrees/ice cube = 5 ice cubes\nThen multiply that number by the number of milliliters per ice cube to find the total amount of water she adds: 5 ice cubes * 12 milliliters/ice cube = 60 milliliters\nThen add the 15 milliliters of cream to find the total amount of liquid she adds: 60 milliliters + 15 milliliters = 75 milliliters\nThen multiply the number of milliliters of coffee by the number of milliliters per ice cube to find the total amount of coffee: 5 ice cubes * 12 milliliters/ice cube = 60 milliliters\nThen subtract the amount of coffee from the amount of liquid to find how much weaker the coffee is: 75 milliliters - 60 milliliters = 15 milliliters\nThe answer is 15"]}
+{"version": "fail_grading_match", "details": [["10"], "14", ["10"], "If 5 people come in with old records and leave with 7 new records, then they must have traded 5 x 2 = 10 old records for the 7 new records.\nSo, the 5 people brought in a total of 10 old records.\nThe answer is 10"]}
+{"version": "fail_grading_match", "details": [["184000"], "224000", ["184000"], "If the number of junior programmers is 2/5 of the total number of employees, then there are 2/5 * 100 = 40 junior programmers.\nSince senior programmers are paid $400 more than junior programmers, they are each paid $2000 + $400 = $2400 per month.\nThe total amount of money the company pays to all the junior programmers per month is 40 * $2000 = $80000.\nThe total amount of money the company pays to all the senior programmers per month is 60 * $2400 = $144000.\nTherefore, the total amount of money the company pays to all the programmers per month is $80000 + $144000 = $184000.\nThe answer is 184000"]}
+{"version": "fail_grading_match", "details": [["16"], "14", ["16"], "At the first bus stop, 5 more people got in, so the total number of people on the bus became 20 - 5 = 15.\nAt the second bus stop, 7 people got down, so the total number of people on the bus became 15 - 7 = 8.\nThen, 8 more people got in, so the total number of people on the bus became 8 + 8 = 16.\nTherefore, 16 people got on the bus at the terminal.\nThe answer is 16"]}
+null
+{"version": "fail_grading_match", "details": [["0"], "2", ["0"], "To fully charge the phone, we need to increase the charge by 60% - 60% = 0%.\nSince the phone recharges at a rate of 1 percentage-point of charge per 3 minutes, it will take 0% / 1% * 3 minutes = 3 minutes to fully charge.\nSince there are 60 minutes in an hour, it will take 3 minutes / 60 minutes = 0.05 hours to fully charge.\nThe answer is 0"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["3"], "4", ["3"], "Josh starts off practicing juggling 3 balls.\nAfter the first week, he adds 1 ball to his juggling act, so he has 3 + 1 = 4 balls.\nAfter the second week, he adds another 1 ball, so he has 4 + 1 = 5 balls.\nAfter the third week, he adds another 1 ball, so he has 5 + 1 = 6 balls.\nAfter the fourth week, he adds another 1 ball, so he has 6 + 1 = 7 balls.\nHowever, when Josh walks on stage, he drops three of his balls.\n2 of them are caught by people in the crowd, so he has 7 - 3 = 4 balls left.\nBut one ball gets lost completely, so he has 4 - 1 = 3 balls left.\nTherefore, Josh starts to juggle on stage with 3 balls.\nThe answer is 3"]}
+{"version": "fail_grading_match", "details": [["210"], "260", ["210"], "If the pink frog weighs 50 pounds, and it weighs the same as the blue beetle, then the blue beetle also weighs 50 pounds.\nIf the pink frog weighs 50 pounds, and it weighs the same as the green toad, then the green toad also weighs 50 pounds.\nIf the pink frog weighs 50 pounds, and it weighs 10 pounds less than the yellow snake, then the yellow snake weighs 50 + 10 = 60 pounds.\nIf the pink frog weighs 50 pounds, and it weighs 20 pounds more than the red bird, then the red bird weighs 50 - 20 = 30 pounds.\nThe total weight of the animals is 50 + 50 + 60 + 30 = 190 pounds.\nIf the container weighs 20 pounds, then the total weight of the container carrying one of each animal is 190 + 20 = 210 pounds.\nThe answer is 210"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["8"], "20", ["8"], "John spends 6 hours boating and half that time swimming, so he spends 6/2 = 3 hours swimming.\nHe also watches 3 different shows which are 2 hours each, so he spends 3*2 = 6 hours watching shows.\nThis is 30% of the time he spent, so 30% of his total time is 6 hours.\nIf 30% of his time is 6 hours, then 100% of his time is 6/0.3 = 20 hours.\nHe spent 40% of his time sightseeing, so 40% of his time is 20*0.4 = 8 hours.\nTherefore, John spent 8 hours sightseeing.\nThe answer is 8"]}
+null
+null
+null
+{"version": "fail_grading_match", "details": [["7"], "2", ["7"], "She wants to buy 2 rounds of mini-golf, 2 rides on the go-kart, and 5 in arcade tokens.\nThe total cost of the mini-golf is 2 * 5 = $10.\nThe total cost of the go-karts is 2 * 10 = $20.\nThe total cost of the arcade tokens is 5 * 5 = $25.\nThe total cost of everything is 10 + 20 + 25 = $55.\nShe has $90 to spend, so she can invite 90 - 55 = $35 worth of friends.\nSince each friend costs $5, she can invite 35 / 5 = 7 friends.\nThe answer is 7"]}
+null
+{"version": "fail_grading_match", "details": [["3"], "4", ["3"], "He spent $5 on gumballs because 40 x .05 = 2\nHe spent $7.5 on candy because 10 - 5 = 5\nHe bought 3 pounds of candy because 5 / 1.5 = 3.333\nThe answer is 3"]}
+null
+{"version": "fail_grading_match", "details": [["15"], "20", ["15"], "It travels 75+100=175 miles between the first and second city\nIt travels 175+50=225 miles between the second and third city\nSo it travels 225+175=400 miles between the first and third city\nSo it travels 400*3=1200 miles per day\nThat means it goes 18000/1200=15 days between services\nThe answer is 15"]}
+{"version": "fail_grading_match", "details": [["32"], "23", ["32"], "First find the total amount of stuffing Mark needs to make the chihuahua beds: 2 pounds/bed * 4 beds = 8 pounds\nThen find the total amount of stuffing Mark needs to make the collie beds: 8 pounds/bed * 3 beds = 24 pounds\nThen add the amount of stuffing for the chihuahua beds to the amount for the collie beds to find the total amount of stuffing Mark needs: 8 pounds + 24 pounds = 32 pounds\nThe answer is 32"]}
+{"version": "fail_grading_match", "details": [["5"], "6", ["5"], "John drives 200 miles at a speed of 70 mph, so it takes him 200/70 = 2.857 hours to get to his friend's house.\nHe then takes a detour that adds 10 miles to his trip, so the total distance he travels is now 200 + 10 = 210 miles.\nHe drives at a speed of 80 mph, so it takes him 210/80 = 2.625 hours to get home.\nTherefore, the total time for the trip is 2.857 + 2.625 = 5.482 hours.\nThe answer is 5"]}
+null
+null
+null
+{"version": "fail_grading_match", "details": [["2"], "19", ["2"], "Let's represent the number of customers who were kicked out for not wearing masks as x.\nThe number of customers who were kicked out for shoplifting is 4x - 5.\nThe number of customers who were kicked out for physical violence is 3(4x - 5) = 12x - 15.\nThe total number of customers who were kicked out is x + (4x - 5) + (12x - 15) = 17x - 20.\nWe know that the total number of customers who were kicked out is 50, so 17x - 20 = 50.\nAdding 20 to both sides of the equation, we get 17x = 70.\nDividing both sides of the equation by 17, we get x = 4.\nTherefore, 4 customers were kicked out for not wearing masks.\nTo find the number of customers who were kicked out for shoplifting, we substitute x = 4 into the equation 4x - 5.\n4(4) - 5 = 16 - 5 = 11.\nTherefore, 11 customers were kicked out for shoplifting.\nTo find the number of customers who were kicked out for physical violence, we substitute x = 4 into the equation 12x - 15.\n12(4) - 15 = 48 - 15 = 33.\nTherefore, 33 customers were kicked out for physical violence.\nTo find the number of customers who were kicked out for other reasons, we subtract the total number of customers who were kicked out for not wearing masks, shoplifting, and physical violence from the total number of customers who were kicked out.\n50 - 4 - 11 - 33 = 2.\nTherefore, 2 customers were kicked out for other reasons.\nThe answer is 2"]}
+{"version": "fail_grading_match", "details": [["6"], "18", ["6"], "If Sara scored 8 points, then Erin scored 14 points, which is three times more points than Sara.\nSo, Erin had 14 - 8 = 6 points before.\nThe answer is 6"]}
+{"version": "fail_grading_match", "details": [["1188"], "1198", ["1188"], "There are 44 seniors and each senior will receive a picture frame for $20, so the total cost for the picture frames is 44 * $20 = $880.\nEach picture frame needs to be etched with the logo for an additional 20% cost per frame, so the additional cost for etching is 20% * $880 = $176.\nThe total cost for the picture frames with etching is $880 + $176 = $1056.\n2 seniors will also receive pins that are $5 each, so the total cost for the pins is 2 * $5 = $10.\n1/4 of the seniors are officers and they will need to receive cords that are $12 each, so the total cost for the officers' cords is 1/4 * 44 * $12 = $132.\nThe total cost for the senior gifts is $1056 + $10 + $132 = $1188.\nThe answer is 1188"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["45"], "67", ["45"], "Chloe hiked 9 kilometers per hour for 5 hours, so she hiked a total of 9 * 5 = 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nChloe hiked 45 kilometers.\nCh"]}
+null
+{"version": "fail_grading_match", "details": [["9"], "2", ["9"], "Each pitcher holds 12 cups of lemonade, so 3 pitchers hold 12 x 3 = 36 cups of lemonade.\nMillie sells each cup of lemonade for $1, so she will make 36 x $1 = $36 from selling all the lemonade.\nShe sells an average of 4 cups per hour, so she will make $36 / 4 = $9 per hour.\nHowever, she spent $18 to buy the supplies, so her profit per hour is $9 - $18 = -$9.\nSince the question asks for the profit per hour, we take the absolute value of the profit, which is $9.\nThe answer is 9"]}
+{"version": "fail_grading_match", "details": [["21"], "32", ["21"], "If Mr. Ruther had 12.8 hectares left after selling 3/5 of his land, then 3/5 of his land is equal to 12.8 hectares.\nTo find the total amount of land he had at first, we need to divide 12.8 hectares by 3/5.\nTo divide by a fraction, we can multiply by its reciprocal, so 12.8 hectares / (3/5) = 12.8 hectares * (5/3).\nMultiplying, we get 12.8 hectares * (5/3) = 21 hectares.\nTherefore, Mr. Ruther had 21 hectares of land at first.\nThe answer is 21"]}
+null
+{"version": "fail_grading_match", "details": [["84"], "80", ["84"], "To find Wilson's current math grade, we need to calculate the average of his 5 test scores.\nThe sum of his test scores is 65 + 94 + 81 + 86 + 74 = 420.\nTo find the average, we divide the sum by the number of test scores, which is 5.\nSo, Wilson's current math grade is 420 / 5 = 84.\nThe answer is 84"]}
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["135"], "20", ["135"], "First find the total time Carol spends recording the song: 4 hours / 2 = 2 hours\nThen add that amount to the time she spends writing the song: 2 hours + 4 hours = 6 hours\nThen add the time she spends editing the song to find the total time: 6 hours + 90 minutes = 6.5 hours\nThen divide the time she spends editing by the total time and multiply by 100% to express the answer as a percentage: 90 minutes / 6.5 hours * 100% = 135%\nThe answer is 135"]}
+null
+{"version": "fail_grading_match", "details": [["4"], "38", ["4"], "Her dad brought her 2 boxes of pre-made cards that had 15 cards each so 2*15 = 30 cards\nShe made 20 cards and received 30 from her dad so she has 20+30 = 50 cards\nShe passed out 24 to her classmates, 5 to her family and received 17 from family and friends so she has 24+5+17 = 46 cards\nShe had 50 cards and gave out 46 so she has 50-46 = 4 cards left\nThe answer is 4"]}
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["135"], "81", ["135"], "If Mel uses the air conditioner for 8 hours a day, then in 30 days he will use it for 8 hours/day x 30 days = 240 hours.\nIf each hour the AC uses 900 watts of energy, then in 240 hours it will use 900 watts/hour x 240 hours = 216,000 watts.\nTo convert watts to kilowatts, we divide by 1000, so 216,000 watts / 1000 = 216 kilowatts.\nIf Mel reduces the time he uses the air conditioner by 5 hours a day, then in 30 days he will use it for 8 hours/day - 5 hours/day = 3 hours/day.\nIn 30 days, he will use it for 3 hours/day x 30 days = 90 hours.\nIf each hour the AC uses 900 watts of energy, then in 90 hours it will use 900 watts/hour x 90 hours = 81,000 watts.\nTo convert watts to kilowatts, we divide by 1000, so 81,000 watts / 1000 = 81 kilowatts.\nTherefore, Mel will save 216 kilowatts - 81 kilowatts = 135 kilowatts of electric energy in 30 days.\nThe answer is 135"]}
+{"version": "fail_grading_match", "details": [["29"], "22", ["29"], "First find the total number of stripes on the two zebras with 17 stripes each: 2 zebras * 17 stripes/zebra = 34 stripes\nThen find the number of stripes on the zebra with half the number of stripes as the zebra with 36 stripes: 36 stripes / 2 = 18 stripes\nThen add the number of stripes on all the zebras to find the total number of stripes: 34 stripes + 18 stripes + 36 stripes = 88 stripes\nThen divide the total number of stripes by the number of zebras to find the average number of stripes per zebra: 88 stripes / 3 zebras = 29.333... stripes/zebra\nThe answer is 29"]}
+null
+{"version": "fail_grading_match", "details": [["220"], "200", ["220"], "Allan has 40 x 2 = 80 corns.\nHe bought 60 + 40 = 100 more canolis.\nThe total number of canolis in Allan's house is 100 + 40 = 140\nThe total number of corns and canolis in Allan's house is 140 + 80 = 220\nThe answer is 220"]}
+null
+null
+{"version": "fail_grading_match", "details": [["42000"], "168000", ["42000"], "In May, the company hired 40 employees, and each employee was paid $15 per hour for a 40-hour workweek.\nSo, the total amount paid to each employee in May was $15 x 40 = $600.\nSince there were 40 employees, the total amount paid to all employees in May was $600 x 40 = $24,000.\nIn June, 1/4 of the employees' contracts expired, which means 1/4 x 40 = 10 employees' contracts expired.\nSo, the company now has 40 - 10 = 30 employees.\nThe total amount paid to each employee in June is still $15 per hour for a 40-hour workweek.\nSo, the total amount paid to each employee in June is $15 x 40 = $600.\nSince there are 30 employees, the total amount paid to all employees in June is $600 x 30 = $18,000.\nTherefore, the total amount of money the company paid to the employees in the two months is $24,000 + $18,000 = $42,000.\nThe answer is 42000"]}
+{"version": "fail_grading_match", "details": [["4"], "3", ["4"], "She bought 2 pounds of taffy at $3 per pound so 2*3 = $6\nShe bought 2 pounds of taffy at $3 per pound so 2*3 = $6\nThe taffy cost $6 and she got 1/2 off so 6/2 = $3\nThe taffy cost $6 and she got 1/2 off so 6/2 = $3\nThe taffy cost $3 and she bought 4 magnets at $0.25 each so 4*.25 = $1\nThe taffy cost $3 and she bought 4 magnets at $0.25 each so 4*.25 = $1\nThe taffy cost $3, the magnets cost $1 and she bought seashells for $1.50 so 3+1+1.5 = $5.50\nShe started with $10 and spent $5.50 so 10-5.5 = $4.50 left\nThe answer is 4"]}
+null
+null
+{"version": "fail_grading_match", "details": [["0"], "25", ["0"], "If 5% of the candles have a defect that makes them smell like wet dog, then 5% of 50000 candles = 0.05 * 50000 = 2500 candles will smell like wet dog.\nIf 99% of the candles are guaranteed not to explode, then 99% of 50000 candles = 0.99 * 50000 = 49500 candles will not explode.\nTherefore, the number of candles that will both smell like wet dog and explode is 2500 - 49500 = -47500.\nSince we cannot have a negative number of candles, we can conclude that there are 0 candles that will both smell like wet dog and explode.\nThe answer is 0"]}
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["4000"], "3000", ["4000"], "Oliver is at an elevation of 3,000 feet and Stanley is at an elevation of 10,000 feet.\nThe comb fell 4,000 feet from Stanley's elevation to the ledge below.\nTo reach Stanley's comb, Oliver needs to climb the same distance that the comb fell, which is 4,000 feet.\nTherefore, Oliver must climb 4,000 feet to reach the elevation of Stanley's comb.\nThe answer is 4000"]}
+{"version": "fail_grading_match", "details": [["14000"], "17000", ["14000"], "Mr. Josue received $4000 from the first bank.\nThe second bank gave him twice as much, so he received 2 * $4000 = $8000 from the second bank.\nIn total, Mr. Josue received $4000 + $8000 = $12000.\nIf he initially had $5000 in capital, then he now has $5000 + $12000 = $14000 in capital.\nThe answer is 14000"]}
+null
+{"version": "fail_grading_match", "details": [["340"], "284", ["340"], "For the first 6 months, Bill paid $8 per month, so the total cost for those 6 months is 6 * $8 = $48.\nFor the next 8 months, Bill paid $12 per month, so the total cost for those 8 months is 8 * $12 = $96.\nAfter 8 months, the service increased its price to $14 per month, so the total cost for the remaining 14 months is 14 * $14 = $196.\nTherefore, the total cost for 2 years of the service is $48 + $96 + $196 = $340.\nThe answer is 340"]}
+{"version": "fail_grading_match", "details": [["6"], "8", ["6"], "If the tattered jeans cost $28, then the jogger jeans cost $28 - $6 = $22.\nThe total savings from both jeans is $6.\nIf 1/3 of the total savings is from the jogger jeans, then 1/3 * $6 = $2 is saved from the jogger jeans.\nThe rest of the savings, $6 - $2 = $4, is saved from the tattered jeans.\nSince the jogger jeans cost $22 and the tattered jeans cost $28, the jogger jeans originally cost $22 - $28 = -$6 more than the tattered jeans.\nThe answer is 6"]}
+null
+null
+null
+{"version": "fail_grading_match", "details": [["50"], "150", ["50"], "Kenny plans to sell his cards for $1.5 each, and he needs to earn $100 for the ticket.\nHe keeps 1/3 of his cards, which means he sells 2/3 of his cards.\nHe earns $50 in spending cash, so he earned $100 - $50 = $50 from selling his cards.\nIf he earned $50 from selling 2/3 of his cards, then he earned $50 / (2/3) = $75 from selling all of his cards.\nSince he plans to sell each card for $1.5, he started with $75 / $1.5 = 50 cards.\nThe answer is 50"]}
+{"version": "fail_grading_match", "details": [["22"], "26", ["22"], "Half of the guests is 36/2 = 18 guests.\nSo, the caterer prepared enough hotdogs for 18 guests to have two hotdogs each.\nThis means he prepared 18 x 2 = 36 hotdogs.\nHowever, 40 guests showed up, so there were 40 - 18 = 22 guests who did not have two hotdogs.\nTherefore, 22 guests did not get a second hotdog.\nThe answer is 22"]}
+null
+null
+{"version": "fail_grading_match", "details": [["5"], "1", ["5"], "First add the cost of the rope, the game, and the ball: $6 + $11 + $2 = $19\nThen add the amount of money Dora has saved: $19 + $2 = $21\nThen subtract the amount of money Dora has from the total cost of the rope, the game, and the ball: $21 - $16 = $5\nThe answer is 5"]}
+{"version": "fail_grading_match", "details": [["10"], "30", ["10"], "Prince Arthur: 100/4=25\nPrince Walter: 25*2=50\nPrince Bruce: 50/5=10\nThe answer is 10"]}
+{"version": "fail_grading_match", "details": [["30"], "6", ["30"], "15 gallons = 15*8 pints = 120 pints\n120/4 = 30 pints\nJosey needed 30 pints of gasoline.\nThe answer is 30"]}
+{"version": "fail_grading_match", "details": [["1"], "5", ["1"], "George spent $5 and had 1% of his money left, so he spent 99% of his money.\nIf 1% of his money is equal to 40 cents, then 99% of his money is equal to 40 cents * 99 = $3.96.\nSince he spent $5, this means he spent $5 - $3.96 = $1.04 on candy bars.\nSince each candy bar costs 75 cents, he bought $1.04 / $0.75 = 1.36 candy bars.\nSince he can't buy a fraction of a candy bar, we round down to the nearest whole number.\nTherefore, George bought 1 candy bar.\nThe answer is 1"]}
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["11"], "17", ["11"], "If it takes Wayne four minutes to be driven to the theater, then it takes Bernadette 4 * 4 = 16 minutes to be driven to the theater.\nBernadette wants to arrive 5 minutes before Wayne, so she needs to leave 5 minutes earlier than Wayne.\nTherefore, Bernadette should leave 16 - 5 = 11 minutes earlier than Wayne.\nThe answer is 11"]}
+null
+null
+null
+{"version": "fail_grading_match", "details": [["70"], "59", ["70"], "If Jon's swim took 40 minutes, then James' swim took 40 - 10% of 40 = 40 - 4 = 36 minutes.\nIf Jon's bike ride took an hour and 20 minutes, then James' bike ride took 60 + 20 = 80 minutes.\nIf Jon's run took 50 minutes, then James' run took 50 + 10 = 60 minutes.\nSince Jon won by 10 minutes, James finished the triathlon in 60 + 10 = 70 minutes.\nThe answer is 70"]}
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["7"], "4", ["7"], "If you bought the super ticket, you would pay $20 and get one popcorn with a soda for $1 extra, so the total cost would be $20 + $1 = $21.\nIf you didn't buy the super ticket and ended up saving $2, then the cost of the movie ticket would be $12 - $2 = $10.\nIf you bought one popcorn and a soda at regular price, the cost would be $3 + the regular price of popcorn.\nSince the total cost of the movie ticket, popcorn, and soda is $10, we can set up the equation: $10 = $3 + regular price of popcorn.\nTo find the regular price of popcorn, we subtract $3 from both sides of the equation: $10 - $3 = regular price of popcorn.\nThis simplifies to $7 = regular price of popcorn.\nTherefore, the regular price of popcorn is $7.\nThe answer is 7"]}
+{"version": "fail_grading_match", "details": [["11000"], "11050", ["11000"], "If the total cost of filling up 20 helium balloons was $900, then the cost of filling each balloon was $900/20 = $45.\nTwo days later, the cost of filling each balloon was increased by $20, so the new cost of filling each balloon is $45 + $20 = $65.\nIf Bentley went to fill 170 balloons after the price increase, then he paid a total of $65 x 170 = $11,000.\nThe answer is 11000"]}
+null
+null
+{"version": "fail_grading_match", "details": [["240"], "150", ["240"], "Marin and Nancy eat 4 apples each day, so together they eat 4 + 4 = 8 apples per day.\nIn 30 days, they will eat 8 apples/day x 30 days = 240 apples.\nThe answer is 240"]}
+null
+null
+null
+{"version": "fail_grading_match", "details": [["70"], "35", ["70"], "Jennifer's dog has 8 puppies, 3 of which have spots, so the percentage of puppies with spots is 3/8 * 100 = 37.5%\nBrandon's dog has 12 puppies, 4 of which have spots, so the percentage of puppies with spots is 4/12 * 100 = 33.33%\nTo find the overall percentage of puppies with spots, we add the percentages together: 37.5% + 33.33% = 70.83%\nThe answer is 70"]}
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["100"], "1", ["100"], "Becky bought 20 apples for 45 cents each, so she paid 20 * 45 = 900 cents.\nSince there is a $1 discount, Becky paid 900 - 100 = 800 cents.\nKelly bought 20 apples for 50 cents each, so she paid 20 * 50 = 1000 cents.\nKelly received a 10 percent discount, so she paid 1000 - (1000 * 0.10) = 900 cents.\nThe difference in cost between Kelly and Becky is 900 - 800 = 100 cents.\nTherefore, Kelly paid 100 cents more than Becky.\nThe answer is 100"]}
+null
+{"version": "fail_grading_match", "details": [["70"], "120", ["70"], "On Monday, Fireman Frank gets 5 pairs of shoes, so he now has 200 + 5 = 205 shoes.\nOn Wednesday, he gains 15 new pairs of shoes, so he now has 205 + 15 = 220 shoes.\nOn Friday, he gains 30 pairs of shoes, so he now has 220 + 30 = 250 shoes.\nOn Saturday, he gets rid of 180 shoes, so he now has 250 - 180 = 70 shoes.\nOn Sunday, he will have 70 shoes.\nThe answer is 70"]}
+null
+null
+null
+{"version": "fail_grading_match", "details": [["3"], "6", ["3"], "If Matt wants to eat five cookies in total, and he can have half as many cookies as the number of carrot sticks he eats, then he can have 5/2 = 2.5 carrot sticks.\nHowever, his dad wants him to eat healthily, so he can only eat whole carrot sticks. Therefore, Matt needs to eat 3 carrot sticks in total.\nThe answer is 3"]}
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["10400"], "15400", ["10400"], "They had to pay 1500*.2=$300 more for the hotel\nSo the hotel cost 1500+300=$1800 per day\nThat means the hotel cost 1800*3=$5400\nSo the total cost was 5400+5000=$10,400\nThe answer is 10400"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["75"], "25", ["75"], "Heather buys 2 packs of razors, so she will get 2 * 4 = 8 individual razors.\nThe cost of each pack of razors is $4.00, so the total cost of the 2 packs is 2 * $4.00 = $8.00.\nShe also has a $2.00 coupon, so the total discount she will receive is $2.00.\nTherefore, the total cost of the 8 individual razors after the discount is $8.00 - $2.00 = $6.00.\nTo find the cost of each individual razor, we divide the total cost by the number of individual razors: $6.00 / 8 = $0.75.\nSince there are 100 cents in a dollar, the cost of each individual razor is $0.75 * 100 = 75 cents.\nThe answer is 75"]}
+{"version": "fail_grading_match", "details": [["55"], "21", ["55"], "There are 9 cheerleaders who are 64\" tall, so the total height of these 9 cheerleaders is 9 * 64\" = 576\"\nThe 10th cheerleader is 60\" tall.\nSo the total height of all the cheerleaders is 576\" + 60\" = 636\"\nThere are 4 girls on the bottom of the pyramid, so their total height is 4 * 64\" = 256\"\nThere are 3 girls who stand on top of the 4, so their total height is 3 * 64\" = 192\"\nThere are 2 girls who stand on top of the 3, so their total height is 2 * 64\" = 128\"\nThe shortest girl is at the top of the pyramid, so her height is 60\"\nThe total height of the human pyramid is 256\" + 192\" + 128\" + 60\" = 656\"\nTo convert inches to feet, we divide by 12, so the height of the human pyramid is 656\" / 12 = 55 feet\nThe answer is 55"]}
+null
+{"version": "fail_grading_match", "details": [["50"], "38", ["50"], "In four years, Brett will be 14 + 4 = 18 years old.\nAccording to the information given, Angela will be three times as old as Brett in four years, so she will be 18 * 3 = 54 years old.\nSince Angela will be 54 years old in four years, she is currently 54 - 4 = 50 years old.\nTherefore, Angela is currently 50 years old.\nThe answer is 50"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["140"], "120", ["140"], "If the farm has 30 cows, and the zoo has twice as many cows as the farm, then the zoo has 30*2 = 60 cows.\nIf the farm has half as many sheep as the zoo, then the farm has 60/2 = 30 sheep.\nThe total number of cows and sheep on the farm is 30+30 = 60 animals.\nThe total number of cows and sheep on the zoo is 60+20 = 80 animals.\nTherefore, the farm and zoo have a combined total of 60+80 = 140 animals.\nThe answer is 140"]}
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["32"], "160", ["32"], "She bought 8 packs of 5 bags for $4 each, so she spent 8 * $4 = $32 on the bags.\nShe painted them and sold them for $8 each, so she earned 8 * $8 = $64 from selling the bags.\nHer profit is the amount she earned from selling the bags minus the amount she spent on buying them, so her profit is $64 - $32 = $32.\nThe answer is 32"]}
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["44"], "39", ["44"], "On Monday, Chris completes 12 problems.\nOn Tuesday, he completes 3 times as many problems as he did on Monday, so he completes 12 x 3 = 36 problems.\nAfter Tuesday, he has completed a total of 12 + 36 = 48 problems.\nOn Wednesday, he completes one-quarter of the remaining math problems, so he completes (100 - 48) / 4 = 8 problems.\nAfter Wednesday, he has completed a total of 48 + 8 = 56 problems.\nTherefore, on Thursday, Chris has 100 - 56 = 44 math problems left to complete.\nThe answer is 44"]}
+null
+null
+null
+{"version": "fail_grading_match", "details": [["36"], "12", ["36"], "Heather has 27 cups of raisins in total.\nA batch of oatmeal cookies takes 3/4 of a cup of raisins.\nTo find out how many batches of oatmeal cookies Heather can make, we need to divide the total amount of raisins by the amount used for one batch of oatmeal cookies.\n27 cups / (3/4 cup) = 27 * (4/3) = 36 batches\nTherefore, Heather can make 36 batches of oatmeal cookies.\nThe answer is 36"]}
+null
+null
+{"version": "fail_grading_match", "details": [["71"], "172", ["71"], "If Ophelia has 20 sofas, and Jenna has 2 fewer sofas than chairs, then Jenna has 20+2 = 22 chairs.\nSince Jenna has 3 times as many chairs as Ophelia, then Ophelia has 22/3 = 7.33 chairs.\nSince we can't have a fraction of a chair, we'll round down to the nearest whole number, so Ophelia has 7 chairs.\nThe total number of chairs they have is 7+22 = 29 chairs.\nThe total number of sofas they have is 20+22 = 42 sofas.\nTherefore, the total number of sofas and chairs they have is 29+42 = 71.\nThe answer is 71"]}
+null
+{"version": "fail_grading_match", "details": [["48"], "36", ["48"], "Josh spent 4 hours working out every week for 8 weeks, so he spent 4 * 8 = 32 hours in total.\nHe spent 5 hours each for two consecutive weeks, so he spent 5 * 2 = 10 hours in total.\nHe also spent 6 hours in one week.\nTherefore, the total number of hours he has spent working out across the 8 weeks is 32 + 10 + 6 = 48 hours.\nThe answer is 48"]}
+{"version": "fail_grading_match", "details": [["122"], "66", ["122"], "On the first stop, 8 passengers get off, so there are 48 - 8 = 40 passengers remaining on the bus.\n5 times as many people as the number who got off get into the bus, so 5 * 8 = 40 people get into the bus.\nAfter the first stop, there are 40 + 40 = 80 passengers on the bus.\nOn the second stop, 21 passengers get off, so there are 80 - 21 = 59 passengers remaining on the bus.\n3 times fewer passengers get on, so 3 * 21 = 63 passengers get on the bus.\nAfter the second stop, there are 59 + 63 = 122 passengers on the bus.\nThe answer is 122"]}
+null
+null
+null
+{"version": "fail_grading_match", "details": [["11"], "16", ["11"], "George had 3+5=8 candies before eating some.\nNick had 8*2=16 candies before eating some.\nNick has 16-5=11 candies left.\nThe answer is 11"]}
+null
+null
+null
+{"version": "fail_grading_match", "details": [["30"], "35", ["30"], "First find the total tip amount: $50 * 20% = $10\nThen add that amount to the cost of the dinner to find the total cost: $10 + $50 = $60\nThen divide the total cost by 2 to find the cost per person: $60 / 2 = $30\nThe answer is 30"]}
+null
+{"version": "fail_grading_match", "details": [["750"], "50", ["750"], "Elvis wants to save twice as much daily in the second half as he saves in the first half.\nLet's assume he saves x dollars in the first half of the month.\nIn the second half, he wants to save 2x dollars daily.\nThe total savings for the month is x + 2x = 3x dollars.\nHe wants to hit his target of $1125, so 3x = 1125.\nDividing both sides by 3, we get x = 375.\nTherefore, Elvis needs to save 2x = 2 * 375 = $750 for each day in the second half of the month.\nThe answer is 750"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["500"], "450", ["500"], "Antonella sold goods worth $2500, which means she sold goods worth $1000 + $1000 + $1000 = $3000.\nFor the first $1000, she earns a 30% commission, which is 30/100 * $1000 = $300.\nFor the next $1000, she earns an additional 10% commission, which is 10/100 * $1000 = $100.\nFor the remaining $1000, she earns another 10% commission, which is 10/100 * $1000 = $100.\nIn total, Antonella earned $300 + $100 + $100 = $500.\nThe answer is 500"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["170"], "240", ["170"], "In the first week, Judy read for 15 minutes each night, so she read a total of 15 minutes x 7 nights = 105 minutes.\nIf she can read 2 pages per 1.5 minutes, then in 105 minutes she can read 105 minutes / 1.5 minutes per page = 70 pages.\nIn the second week, she read a total of 100 pages.\nTherefore, in two weeks, Judy read a total of 70 pages + 100 pages = 170 pages.\nThe answer is 170"]}
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["30"], "23", ["30"], "From Sunday through Wednesday, Peter spent $5 x 3 = $15 on wooden action figures.\nHe has $70 - $15 = $55 left to spend for the rest of the week.\nFor the rest of the week, he will buy plastic action figures which cost $2 each.\nHe can buy $55 / $2 = 27.5 plastic action figures.\nSince he cannot buy half an action figure, he will buy 27 plastic action figures.\nIn total, Peter will have 3 wooden action figures + 27 plastic action figures = 30 action figures by the end of the week.\nThe answer is 30"]}
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["12872"], "11232", ["12872"], "To find the total cost, we need to calculate the cost of the new carpet, the cost of the padding, the cost of removing the old carpet, and the cost of installing the new carpet.\nThe area of Michael's bedroom is 18 feet x 12 feet = 216 square feet.\nThe cost of the new carpet is $12 per square foot, so the cost of the new carpet is 216 square feet x $12/square foot = $2592.\nThe cost of the padding is $2 per square foot, so the cost of the padding is 216 square feet x $2/square foot = $432.\nThe cost of removing the old carpet is $4 per square foot, so the cost of removing the old carpet is 216 square feet x $4/square foot = $864.\nThe cost of installing the new carpet is $34 per square foot, so the cost of installing the new carpet is 216 square feet x $34/square foot = $7344.\nThe total cost to replace the carpet is $2592 + $432 + $864 + $7344 = $12,872.\nThe answer is 12872"]}
+null
+{"version": "fail_grading_match", "details": [["20"], "48", ["20"], "Let $x$ be the final value of the number train.\nWe are given that $x = \\frac{20 + \\frac{1}{2}x}{5} \\cdot (20 - 12)$.\nSimplifying, we have $x = \\frac{20 + \\frac{1}{2}x}{5} \\cdot 8$.\nMultiplying both sides by 5, we have $5x = 20 + \\frac{1}{2}x \\cdot 8$.\nSimplifying further, we have $5x = 20 + 4x$.\nSubtracting $4x$ from both sides, we have $x = 20$.\nTherefore, the final value of the number train is $\\boxed{20}$.\nThe answer is 20"]}
+null
+{"version": "fail_grading_match", "details": [["572"], "500", ["572"], "If the oven is off by the same percentage for any recipe, then the difference between the actual temperature and the desired temperature is the same percentage of the desired temperature.\nThe difference between the actual temperature and the desired temperature is 468 - 520 = -52 degrees.\nTo find the percentage, we divide the difference by the desired temperature and multiply by 100: (-52 / 520) * 100 = -10%.\nSince the oven is off by 10%, we need to add 10% of the desired temperature to the desired temperature to get the actual temperature.\nSo, the actual temperature should be 520 + (10% of 520) = 520 + (0.10 * 520) = 520 + 52 = 572 degrees.\nTherefore, Maggie should set the oven at 572 degrees.\nThe answer is 572"]}
+null
+null
+null
+{"version": "fail_grading_match", "details": [["1"], "2", ["1"], "He can buy 2 boxes of contacts for $100.00 each so that's 2*100 = $200.00\nThe discount is 10% off so that's 200*.10 = $20.00 discount\nThe contacts are $200.00 and he has a $20.00 discount so they will cost 200-20 = $180.00\nHe gets 90 contacts per box and he bought 2 boxes so that's 90*2 = 180 contacts\nThe contacts cost $180.00 and he has 180 contacts so each contact cost 180/180 = $1.00 each\nThe answer is 1"]}
+null
+{"version": "fail_grading_match", "details": [["1000"], "800", ["1000"], "First find the total calories Hannah burns: 2 hours * 500 calories/hour + 1 hour * 600 calories/hour = 2000 calories\nThen divide the calories burned by the calories per drink to find the number of drinks: 2000 calories / 200 calories/drink = 10 drinks\nThen multiply the number of drinks by the amount of water per drink to find the total amount of water Hannah needs to drink: 10 drinks * 100 ml/drink = 1000 ml\nThe answer is 1000"]}
+{"version": "fail_grading_match", "details": [["23"], "30", ["23"], "Let's assume the number of blue jelly beans is B.\nAccording to the note, the number of red jelly beans is B - 1% of B = B - 0.01B = 0.99B.\nAnd the number of green jelly beans is B + 1% of B = B + 0.01B = 1.01B.\nThe total number of jelly beans is B + 0.99B + 1.01B = 3.00B.\nWe know that the total number of jelly beans is 4500, so 3.00B = 4500.\nDividing both sides of the equation by 3.00, we get B = 4500 / 3.00 = 1500.\nTherefore, the number of green jelly beans is 1.01B = 1.01 * 1500 = 1510.\nAnd the number of red jelly beans is 0.99B = 0.99 * 1500 = 1487.\nThe difference between the number of green jelly beans and red jelly beans is 1510 - 1487 = 23.\nTherefore, the jar contains 23 more green jelly beans than red jelly beans.\nThe answer is 23"]}
+null
+{"version": "fail_grading_match", "details": [["2"], "15", ["2"], "If Martin eats Cheerios every day for breakfast, he'll lose 1.25 pounds/week.\nSo after 5 weeks, he'll lose 1.25 pounds/week x 5 weeks = 6.25 pounds.\nIf he eats donuts every day for breakfast, he'll gain 1.75 pounds/week.\nSo after 5 weeks, he'll gain 1.75 pounds/week x 5 weeks = 8.75 pounds.\nThe difference in his weight at the end of 5 weeks between the two breakfast options is 8.75 pounds - 6.25 pounds = 2.5 pounds.\nThe answer is 2"]}
+{"version": "fail_grading_match", "details": [["330"], "319", ["330"], "Alex invites 100 people via email, and each invited person says they will also invite 2 of their friends. So, there will be 100 + (100 * 2) = 300 people attending the event.\nAlex also calls 10 of her friends to invite them, and 8 of them say they will be bringing their spouses. So, there will be an additional 10 + (10 * 2) = 30 people attending the event.\nTherefore, Alex will need a total of 300 + 30 = 330 seats.\nThe answer is 330"]}
+null
+null
+{"version": "fail_grading_match", "details": [["8"], "3", ["8"], "First find how many feet taller the beanstalk needs to be: 20 feet - 4 feet = 16 feet\nThen divide the height difference by the beanstalk's daily growth to find how many days it needs to grow: 16 feet / 2 feet/day = 8 days\nThe answer is 8"]}
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["60"], "69", ["60"], "Colby has 8 quarters, which is equal to 8 * $0.25 = $2.\nHe also has 6 dimes, which is equal to 6 * $0.10 = $0.60.\nHe has 14 nickels, which is equal to 14 * $0.05 = $0.70.\nAnd he has 15 pennies, which is equal to 15 * $0.01 = $0.15.\nIn total, Colby has $2 + $0.60 + $0.70 + $0.15 = $3.\nSince each gumball costs a nickel, Colby can buy $3 / $0.05 = 60 gumballs.\nThe answer is 60"]}
+null
+null
+{"version": "fail_grading_match", "details": [["116"], "104", ["116"], "He buys 1 game per month for 12 months for a total of 1*12 = 12 games\nHe buys 2 games per month for 12 months for a total of 2*12 = 24 games\nHe buys 4 games per month for 12 months for a total of 4*12 = 48 games\nHe gets 5 games for Christmas every year for a total of 5*3 = 15 games\nHe gets 5 games for his birthday, 12 games from his job, and 15 games from Christmas for a total of 5+12+15 = 32 games\nHe has 12+24+48+32 = 116 games after 3 years\nThe answer is 116"]}
+null
+{"version": "fail_grading_match", "details": [["1260"], "1800", ["1260"], "Ruiz makes 120 pounds of chocolates in two hours, so in one hour, he makes 120/2 = 60 pounds of chocolates.\nMarissa makes 3/4 times as many pounds of chocolates in an hour as Ruiz makes in the two hours, so she makes 3/4 * 60 = 45 pounds of chocolates in an hour.\nIf they worked for 12 hours in a day, Ruiz made 60 * 12 = 720 pounds of chocolates.\nMarissa made 45 * 12 = 540 pounds of chocolates.\nTogether, they made 720 + 540 = 1260 pounds of chocolates.\nThe answer is 1260"]}
+null
+null
+{"version": "fail_grading_match", "details": [["4"], "6", ["4"], "Every 2 miles, the tires rotate 725 times. So for 400 miles, the tires will rotate 400/2 = 200 times.\nIf each tire can undergo 10,440,000 rotations, then the tire will need to be replaced after 10,440,000/200 = 52,200 rotations.\nSince there are 12 months in a year, the tire will need to be replaced after 52,200/12 = 4,333.33 years.\nRounding up to the nearest whole number, the tire will need to be replaced after 4 years.\nThe answer is 4"]}
+{"version": "fail_grading_match", "details": [["20"], "10", ["20"], "If Jackie uses 1 pump of shampoo per wash, and she has 120 washings, then she will use a total of 1 * 120 = 120 pumps of shampoo.\nThe jumbo bottle of shampoo costs $24.00, so each pump of shampoo will cost $24.00 / 120 = $0.20.\nTo convert this to cents, we multiply by 100, so each pump of shampoo will cost 0.20 * 100 = 20 cents.\nThe answer is 20"]}
+null
+null
+{"version": "fail_grading_match", "details": [["68620"], "65960", ["68620"], "To repave Monica's street, it costs $194 x 150 = $<<194*150=29400>>29,400.\nTo repave Lewis' street, it costs $194 x 490 = $<<194*490=98020>>98,200.\nThe difference in cost is $98,200 - $29,400 = $<<98020-29400=68620>>68,620.\nIt costs $68,620 more to repave Lewis' street.\nThe answer is 68620"]}
+{"version": "fail_grading_match", "details": [["1850000"], "1450000", ["1850000"], "His research took 5*10=50 months\nSo he gets 50*.5=$25,000 more per month\nSo he gets 25,000+10,000=$35,000 per month\nThat means he gets 35,000*50=$1,750,000 for the last 45 months\nSo in total he gets 1,750,000+100,000=$1,850,000\nThe answer is 1850000"]}
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["509"], "1509", ["509"], "Both DVDs have been played 356 + 135 = 491 times.\nBoth DVDs can be played 1000 - 491 = 509 times before they break.\nThe answer is 509"]}
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["100000"], "17500", ["100000"], "He sold 10 cars at $25,000 each so he made 10*25,000 = $250,000\nThe company paid 30% of the price to acquire the cars so they paid 250,000*.3 = $75,000\nHe got a 10% commission on the profits so he made 250,000*.1 = $25,000\nHe made $25,000 from the commission and $75,000 from the company so he made 25,000+75,000 = $100,000\nThe answer is 100000"]}
+null
+{"version": "fail_grading_match", "details": [["5600"], "4800", ["5600"], "If a diamond Jewel is $2000, then the price of a gold Jewel is 4/5 * $2000 = $1600.\nThe cost of a silver Jewel is $400 less than the price of gold, so it is $1600 - $400 = $1200.\nThe total price for all three jewels is $2000 + $1600 + $1200 = $5600.\nThe answer is 5600"]}
+null
+null
+null
+{"version": "fail_grading_match", "details": [["3"], "4", ["3"], "If Manny's classes cost more than $10 per class, then his parents won't sign him up again.\nThe total cost of his classes is $60, so the average cost per class is $60 / 10 classes = $6 per class.\nIf the average cost per class is more than $10, then Manny can miss $10 - $6 = $4 worth of classes.\nSince there are 10 total classes, Manny can miss $4 / $6 per class = 2/3 of the classes.\nTherefore, Manny can miss 2/3 * 10 classes = 20/3 classes before his parents don't sign him up again.\nThe answer is 3"]}
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["261000"], "262500", ["261000"], "Tim's raise is 5% of his $20000 salary, so his raise is 5/100 * $20000 = $1000.\nHis bonus is half a month's salary, so his bonus is 1/2 * $20000 = $10000.\nIn total, Tim's raise and bonus amount to $1000 + $10000 = $11000.\nTo find out how much money Tim will make in a year, we need to multiply his monthly salary by 12 (months in a year).\nSo, Tim's annual salary will be $20000 * 12 = $240000.\nAdding his raise and bonus, Tim will make $240000 + $11000 = $261000 in a year.\nThe answer is 261000"]}
+{"version": "fail_grading_match", "details": [["13500"], "10800", ["13500"], "He bought 10*3=30 dress shirts\nThe dress pants cost 750/5=$150 each\nSo he spent 150*10=$1500 on dress pants\nThe suits cost 750*10=$7500\nSo he spent 7500+1500+60*30=$13500\nThe answer is 13500"]}
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["160000"], "162000", ["160000"], "If Fishio received 2000 likes on the photo after 1 week, then the number of likes after 3 weeks is 2000 * 70 = 140000.\nIf she received 20000 more new likes recently, then the total number of likes is 140000 + 20000 = 160000.\nThe answer is 160000"]}
+null
+{"version": "fail_grading_match", "details": [["1800"], "2100", ["1800"], "If the sales from red hats were $400 in the first month, then the total sales from green hats were 2 * $400 = $800.\nIn the second month, her sales were 3/4 of the total sales from the first month, so she made 3/4 * $800 = $600 from green hats.\nThe total amount she made in two months is $400 + $800 + $600 = $1800.\nThe answer is 1800"]}
+{"version": "fail_grading_match", "details": [["105"], "75", ["105"], "James hired the carriage from 5 PM to 9 PM, which is a total of 4 hours.\nHe gets 1 hour free, so he only needs to pay for 4 - 1 = 3 hours.\nThe first paid hour is $15, so he pays $15 for the first hour.\nEach hour after that is twice the cost, so he pays $15 x 2 = $30 for the second hour.\nHe pays $30 x 2 = $60 for the third hour.\nIn total, he pays $15 + $30 + $60 = $105.\nThe answer is 105"]}
+null
+{"version": "fail_grading_match", "details": [["4"], "2", ["4"], "If each guest will eat 3 deviled egg halves, and there are 16 guests, then there will be a total of 3 x 16 = 48 deviled egg halves.\nSince each deviled egg half requires 1 whole egg, then Lori will need 48 x 1 = 48 whole eggs.\nSince there are 12 eggs in a dozen, then Lori will need 48 / 12 = 4 dozens of eggs.\nThe answer is 4"]}
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["93"], "193", ["93"], "James delivers a total of 600 newspapers in a day.\nHe delivers 198 newspapers to District A and 209 newspapers to District C.\nSo, the number of newspapers he delivers to District B is 600 - 198 - 209 = 93.\nThe answer is 93"]}
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["9"], "2", ["9"], "Christina had 12 good days and 8 bad days, so she had a total of 12 + 8 = 20 good and bad days.\nShe had 30 days in total, so the remaining days must be neutral, which is 30 - 20 = 10 days.\nHer first 8 days were good, her second 8 days were bad, and her third 8 days were neutral, so she had 8 + 8 + 8 = 24 days accounted for.\nIf the next three days were good, neutral, and good, then she had 24 + 3 = 27 days accounted for.\nSince she had 30 days in total, she had 30 - 27 = 3 days left.\nSince she had 12 good days and 8 bad days, she had 12 - 3 = 9 good days left in the month.\nThe answer is 9"]}
+null
+{"version": "fail_grading_match", "details": [["570"], "12", ["570"], "Since there are 12 inches in a foot, then 20 feet is equal to 20 x 12 = 240 inches.\nSo, the bamboo grows 30 - 240 = -210 inches a day.\nSince the bamboo grows up to 30 inches a day, then it will take 600 - 30 = 570 days for its height to be 600 inches.\nThe answer is 570"]}
+{"version": "fail_grading_match", "details": [["21"], "33", ["21"], "James initially had 4 toys for 4 dogs, so he had 4/4 = 1 toy per dog.\nThere are now 8 more dogs in the shelter, so James needs 8 more toys.\nWhen James came back, there were twice as many more dogs as when he left, so there were 2 * 8 = 16 more dogs.\nThis means James needs 16 more toys.\nHowever, 3 dogs were gone, so James no longer needs those toys.\nTherefore, James needs a total of 8 + 16 - 3 = 21 toys.\nThe answer is 21"]}
+null
+{"version": "fail_grading_match", "details": [["2"], "36", ["2"], "Carol has already collected 20 signatures, and Jennifer has collected 44 signatures.\nTogether, they have collected 20 + 44 = 64 signatures.\nThey want to reach a total of 100 signatures by the end of the summer.\nThey have three more weeks of summer vacation, so they have 3 * 7 = 21 days to collect signatures.\nTo reach their goal, they need to collect 100 - 64 = 36 more signatures.\nSince they have 21 days to collect signatures, they need to collect 36 / 21 = 1.71 signatures per day.\nSince they can't collect a fraction of a signature, they need to round up to the nearest whole number.\nTherefore, they need to collect 2 signatures per day to reach their goal.\nThe answer is 2"]}
+null
+null
+{"version": "fail_grading_match", "details": [["60"], "20", ["60"], "If Jack rides the elevator with 8 other adults, the total weight of the adults will be 8 * 80 kg = 640 kg.\nThe maximum load of the elevator is 700 kg, so they will have exceeded the maximum load by 700 kg - 640 kg = 60 kg.\nThe answer is 60"]}
+{"version": "fail_grading_match", "details": [["296"], "298", ["296"], "If Katarina has 68 cookies, and she has 5 less cookies than Max, then Max has 68 + 5 = 73 cookies.\nIf Max has 12 more cookies than the Cookie Monster, then the Cookie Monster has 73 - 12 = 61 cookies.\nIf Summer has 23 more cookies than Max, then Summer has 73 + 23 = 96 cookies.\nIn total, they have 68 + 73 + 61 + 96 = 296 cookies.\nThe answer is 296"]}
+{"version": "fail_grading_match", "details": [["73"], "80", ["73"], "If the final design is 140cm long and Shania extended the dress by 50% of its original length, then the original length of the dress is 140 / (1 + 0.5) = 140 / 1.5 = 93.33cm.\nIf Shania also added 20cm to the bottom of the dress with a lace trim, then the original length of the dress is 93.33 - 20 = 73.33cm.\nThe answer is 73"]}
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["16"], "7", ["16"], "Manolo bought 5 lollipops and 4 candies for a total of $3.20.\nThe cost of the lollipops is $0.40 each, so 5 lollipops cost 5 * $0.40 = $2.\nThe cost of the candies is $3.20 - $2 = $1.20.\nManolo wants to buy 10 lollipops, so the cost of the lollipops will be 10 * $0.40 = $4.\nHe also wants to buy 10 candies, so the cost of the candies will be 10 * $1.20 = $12.\nTherefore, 10 lollipops and 10 candies will cost Manolo $4 + $12 = $16.\nThe answer is 16"]}
+null
+{"version": "fail_grading_match", "details": [["10"], "25", ["10"], "John needs to pay for 2 vaccines, which are $20 each, so the total cost of the vaccines is 2 * $20 = $40.\nThe heartworm check is 60% of his total bill, so the cost of the heartworm check is 60/100 * ($40 + $125) = $75.\nThe total cost of the vaccines and heartworm check is $40 + $75 = $115.\nJohn brought $125 with him, so he leaves with $125 - $115 = $10.\nThe answer is 10"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["114"], "200", ["114"], "There are 12 friends going to the film, so there are a total of 12 + 7 = 19 friends.\nEach friend needs to buy 1 seat, 2 drinks, and 3 snacks.\nSo, each friend needs to spend 1 + 2 + 3 = 6 dollars.\nTherefore, the group of friends has spent a total of 19 x 6 = 114 dollars on snacks and drinks.\nThe answer is 114"]}
+{"version": "fail_grading_match", "details": [["5800"], "2800", ["5800"], "Gordy's truck can carry 4000+800=4800 pounds of gravel.\nCombined, Gissela and Gordy's trucks can carry 4000+4800=8800 pounds of gravel.\nTherefore, Gary's truck can carry 11600-8800=5800 pounds of gravel.\nThe answer is 5800"]}
+null
+null
+null
+{"version": "fail_grading_match", "details": [["5"], "9", ["5"], "In the first 3 hours, they raised $2100, so they still need to raise $6300 - $2100 = $4200.\nIf they raise an equal amount in every hour, then they need to raise $4200 / $2100 = 2 hours.\nTherefore, they need to fundraise for a total of 3 + 2 = 5 hours to reach their goal.\nThe answer is 5"]}
+{"version": "fail_grading_match", "details": [["20"], "8", ["20"], "If 40% of the water from the Colorado River is used by the city, then 100% - 40% = 60% of the water is not used by the city.\nIf 80% of the water used by the city is used for industrial purposes, then 100% - 80% = 20% of the water used by the city is used for non-industrial purposes.\nTherefore, 20% of the river's total water is used by the city for non-industrial purposes.\nThe answer is 20"]}
+{"version": "fail_grading_match", "details": [["1176"], "168", ["1176"], "In a 7-day week, Alex charges $12 per day, so for 7 days, she charges 7 * $12 = $84.\nIf she charges $84 for 7 days, then for 2 weeks (14 days), she would charge 14 * $84 = $1,176.\nTherefore, Alex charges $1,176 for 2 weeks of tutoring.\nThe answer is 1176"]}
+null
+null
+{"version": "fail_grading_match", "details": [["3"], "6", ["3"], "If Erin had $6.00 and each scoop of ice cream cost $1.50, she could buy $6.00 / $1.50 = 4 scoops of ice cream.\nSince the deal was buy 2 scoops, get 1 scoop free, Erin should buy 4 scoops - 1 scoop = 3 scoops of ice cream.\nThe answer is 3"]}
+{"version": "fail_grading_match", "details": [["58"], "14", ["58"], "Ginger eats 4 pieces of candy a day, so after two weeks, she would have eaten 4 * 14 = 56 pieces of candy.\nAmy eats 3 pieces of candy a day, so after two weeks, she would have eaten 3 * 14 = 42 pieces of candy.\nSince both Ginger and Amy start with 100 pieces of candy, Amy would have 100 - 42 = 58 pieces of candy more than Ginger.\nThe answer is 58"]}
+null
+{"version": "fail_grading_match", "details": [["30"], "10", ["30"], "It cost 1.5*30=$45 to buy the blueberries\nSo he saved 45-20=$25\nThe blueberries would have cost 2.5*30=$75 if he bought them\nSo he saved 75-45=$30\nThe answer is 30"]}
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["800"], "2450", ["800"], "When her arms are at her sides, she can tap her right foot 300 times per minute, and her left foot 250 times per minute, for a combined total of 300+250=550 taps per minute.\nWhen she raises her arms, her tap rate slows down to 200 taps per minute, with each foot.\nSince she dances a total of 5 minutes, with her arms raised during only 2 of those minutes, she would tap her feet a total of 2*200=400 times, with each foot.\nSince she has two feet, the combined total number of times that she taps both of her feet would be 400*2=800 times.\nThe answer is 800"]}
+null
+null
+{"version": "fail_grading_match", "details": [["26"], "18", ["26"], "There were 5 people in total, so there were 5 pizzas.\nEach pizza had 12 slices, so there were 5 x 12 = 60 slices in total.\nBryce and two friends ate 2/3 of their pizzas, so they ate 2/3 x 12 = 8 slices each.\nThe two remaining friends ate \u00be of their pizzas, so they ate \u00be x 12 = 9 slices each.\nIn total, Bryce and his friends ate 8 + 8 + 9 + 9 = 34 slices.\nTherefore, there were 60 - 34 = 26 slices of pizza left.\nThe answer is 26"]}
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["6"], "5", ["6"], "Greg found $20 and he wants to split it equally among his 3 siblings.\nTo find out how much each sibling gets, we divide the total amount by the number of siblings.\nSo, $20 divided by 3 siblings = $20/3 = $6.67\nSince we can't have a fraction of a dollar, each sibling will get $6.\nTherefore, each sibling will get $6.\nThe answer is 6"]}
+null
+{"version": "fail_grading_match", "details": [["10"], "50", ["10"], "If candidate A got 20% of the votes, then candidate B got 20% + 50% = 70% of the votes.\nThe total percentage of votes given to candidate A and candidate B is 20% + 70% = 90%.\nSo, the remaining percentage of votes given to candidate C is 100% - 90% = 10%.\nIf there were 100 voters, then candidate C got 10% of 100 votes, which is 10/100 * 100 = 10 votes.\nThe answer is 10"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["6"], "3", ["6"], "If there are 54 students and they need to be separated into 6 groups of equal size, then each group will have 54/6 = 9 students.\nIf the activity requires 12 groups, then the total number of students needed is 12 x 9 = 108 students.\nSince there are already 54 students, we need 108 - 54 = 54 more students to form the additional groups.\nSince each group requires 9 students, we need 54/9 = 6 more groups to form.\nThe answer is 6"]}
+null
+{"version": "fail_grading_match", "details": [["67"], "43", ["67"], "Arnold stole 48/2=24 bananas.\nAfter adding more bananas, Gunther had 48+25=73 bananas.\nAfter Arnold stole more bananas, Gunther had 73-12=61 bananas.\nAfter adding more bananas, Gunther had 61+6=67 bananas.\nThe answer is 67"]}
+{"version": "fail_grading_match", "details": [["300"], "240", ["300"], "Jenna has 4 roommates, so they will divide the electricity bill equally among 4 people.\nThe electricity bill is $100 per month, so each roommate will pay $100/4 = $25 per month.\nTo find out how much each roommate will pay per year, we need to multiply the monthly payment by 12 (the number of months in a year).\nSo each roommate will pay $25 x 12 = $300 per year for electricity.\nThe answer is 300"]}
+null
+{"version": "fail_grading_match", "details": [["141"], "89", ["141"], "She trades 27 of her small stickers because 30 x .9 = 27\nShe trades 20 of her large stickers because 40 x .5 = 20\nShe trades these for 20 large buttons because 27 x 3 = 81\nShe trades the rest of her large stickers, 20, for 60 small buttons because 20 x 3 = 60\nShe has 81 large buttons because 20 x 3 = 60\nShe has 87 buttons in total because 60 + 81 = 141\nThe answer is 141"]}
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["18"], "27", ["18"], "If two thirds of Jana's puppies are Pomeranians, then one third of her puppies are not Pomeranians.\nSince one third of the Pomeranians are girls, then two thirds of the Pomeranians are boys.\nIf there are 6 Pomeranian girls, then there are 6 * 2 = 12 Pomeranians in total.\nSince two thirds of Jana's puppies are Pomeranians, then Jana has 12 / (2/3) = 12 * (3/2) = 18 puppies.\nThe answer is 18"]}
+null
+{"version": "fail_grading_match", "details": [["500"], "100", ["500"], "Let's assume the number of cases of shingles needed for the second house is x.\nThe first house needs 1/2 of the second house, so it needs x/2 cases of shingles.\nThe third house needs double the first house, so it needs 2 * (x/2) = x cases of shingles.\nThe total number of cases of shingles needed for all three houses is x + x/2 + x = 3x/2.\nWe know that the total number of cases of shingles needed is 250, so 3x/2 = 250.\nTo solve for x, we multiply both sides of the equation by 2/3: x = 250 * 2/3 = 500/3.\nSince we need to find the number of cases of shingles needed for the third house, we substitute x = 500/3 into the equation for the third house: x = 500/3.\nTherefore, the third house will need 500/3 cases of shingles.\nThe answer is 500"]}
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["600"], "675", ["600"], "If in one hour, Ezra read twice as many books as Ahmed, then Ahmed read 300/2 = 150 books this hour.\nEzra decided to read 150 more books, so he read a total of 300 + 150 = 450 books.\nAltogether, they read 450 + 150 = 600 books.\nThe answer is 600"]}
+{"version": "fail_grading_match", "details": [["100"], "110", ["100"], "On Monday, Tanya teaches 4 classes for 5 hours, so she earns 4 * $15 = $60 for the classes.\nShe also earns an additional $5 per day for teaching more than 3 classes, so she earns $5 * 1 = $5 for Monday.\nIn total, Tanya earns $60 + $5 = $65 for Monday.\nOn Wednesday, Tanya teaches 2 classes for 2 hours, so she earns 2 * $15 = $30 for the classes.\nShe also earns an additional $5 per day for teaching more than 3 classes, so she earns $5 * 1 = $5 for Wednesday.\nIn total, Tanya earns $30 + $5 = $35 for Wednesday.\nTherefore, Tanya earns a total of $65 + $35 = $100 for these two days of teaching.\nThe answer is 100"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["247"], "255", ["247"], "They drove for 6 - 1.5 = 4.5 hours.\nThey drove 50 * 4.5 = 225 miles.\nTheir speed when they hiked was 50 / 2 - 5 = 15 miles per hour.\nThey hiked for 1.5 * 15 = 22.5 miles.\nTheir vacation spot is 225 + 22.5 = 247.5 miles away.\nThe answer is 247"]}
+{"version": "fail_grading_match", "details": [["15"], "25", ["15"], "If Ava jumps on 8 more enemies than Emma, then Emma jumps on 8 enemies - 1 enemy = 7 enemies.\nIf Ava collects 3 more berries than Emma, then Emma collects 3 berries - 1 berry = 2 berries.\nIf Ava finishes the level 4 seconds slower than Emma, then Emma finishes the level in 4 seconds - 1 second = 3 seconds.\nThe points Ava earns for jumping on enemies is 8 enemies x 10 points = 80 points.\nThe points Ava earns for collecting berries is 3 berries x 5 points = 15 points.\nThe points Ava earns for finishing the level is 30 points/second x 3 seconds = 90 points.\nThe total points Ava earns is 80 points + 15 points + 90 points = 185 points.\nThe points Emma earns for jumping on enemies is 7 enemies x 10 points = 70 points.\nThe points Emma earns for collecting berries is 2 berries x 5 points = 10 points.\nThe points Emma earns for finishing the level is 30 points/second x 3 seconds = 90 points.\nThe total points Emma earns is 70 points + 10 points + 90 points = 170 points.\nThe difference between their two scores is 185 points - 170 points = 15 points.\nThe answer is 15"]}
+null
+{"version": "fail_grading_match", "details": [["27"], "54", ["27"], "On the usual days, Chase and Rider ride their bikes 3 times a day for 5 days, so they ride 3 x 5 = 15 times in total.\nOn the two other days, they ride twice the times they do on usual days, so they ride 3 x 2 = 6 times each day.\nTherefore, on the two other days, they ride a total of 6 x 2 = 12 times.\nIn total, Chase and Rider ride their bikes 15 + 12 = 27 times in a week.\nThe answer is 27"]}
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["3"], "4", ["3"], "First find the total temperature difference between the day and night: 45 degrees - 33 degrees = 12 degrees\nThen divide the temperature difference by the number of degrees each log of wood heats the house up: 12 degrees / 5 degrees/log = 2.4 logs\nSince you can't burn a fraction of a log, Carson needs to burn 3 logs to prevent the pipes from freezing.\nThe answer is 3"]}
+{"version": "fail_grading_match", "details": [["12"], "108", ["12"], "There were 90 people in total, and each group had 9 people, so there were 90/9 = 10 groups.\nIf 3/5 of the number of groups each had members bring back 2 seashells each, then 3/5 * 10 = 6 groups had members bring back 2 seashells each.\nSo, 6 groups * 2 seashells = 12 seashells were brought back.\nThe answer is 12"]}
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["200"], "20", ["200"], "At a rate of $10 per hour, Billy earned 10*20=200 dollars for his first 2 months.\nAfter his raise, Billy's salary was 10+0.50=10.50 per hour.\nFor the next 12 months, Billy earned 10.50*20=210 dollars.\nFor his first anniversary, Billy's salary was raised to 10.50+1=11.50 per hour.\nFor the next 12 months, Billy earned 11.50*20=228 dollars.\nIn total, Billy earned 200+210+228=638 dollars.\nSally's starting salary is 10+0.50=10.50 per hour.\nFor the first 2 months, Sally earned 10.50*20=210 dollars.\nFor the next 12 months, Sally earned 11.50*20=228 dollars.\nIn total, Sally earned 210+228=438 dollars.\nBilly earned 638-438=200 more dollars than Sally.\nThe answer is 200"]}
+null
+null
+null
+{"version": "fail_grading_match", "details": [["5"], "6", ["5"], "First find the total number of stuffed animals Bubbles has: 3 puppies + 5 koalas + 2 zebras + 4 frogs = 14 animals\nThen multiply that number by 30% to find the number of stuffed goats she needs to buy: 14 animals * 30% = 4.2 animals\nSince she can't buy a fraction of an animal, she needs to buy 5 stuffed goats.\nThe answer is 5"]}
+null
+null
+null
+{"version": "fail_grading_match", "details": [["156"], "70", ["156"], "First find the pass rate for the fifth graders: 40 passes / 100 students = 40%\nThen double that pass rate to find the pass rate for the fifth graders: 40% * 2 = 80%\nThen find the total number of students who passed: 340 students + 40 students + 400 students = 780 students\nThen divide the total number of students who passed by the total number of students and multiply by 100% to find the overall pass rate: 780 students / 500 students * 100% = 156%\nThe answer is 156"]}
+{"version": "fail_grading_match", "details": [["12"], "4", ["12"], "If it takes twelve glass chips to make every square inch of the mosaic, then Milo needs 12 x 3 = 36 glass chips to make a three-inch tall mosaic.\nSince a bag of glass chips holds 72 chips, Milo has a total of 72 x 2 = 144 glass chips.\nTherefore, Milo can make his mosaic 144 / 12 = 12 square inches long.\nThe answer is 12"]}
+null
+{"version": "fail_grading_match", "details": [["0"], "50", ["0"], "He has 100 butterscotch candies and has sold 150, so he still has 100 - 150 = 50 butterscotch candies.\nHe orders 100 more butterscotch candies, so he now has 50 + 100 = 150 butterscotch candies.\nHe needs to sell 150 butterscotch candies and has 150, so he still needs to sell 150 - 150 = 0 butterscotch candies.\nThe answer is 0"]}
+{"version": "fail_grading_match", "details": [["150"], "310", ["150"], "In February, the number of students on campus would double to 10 * 2 = 20 students.\nIn March, the number of students on campus would double to 20 * 2 = 40 students.\nIn April, the number of students on campus would double to 40 * 2 = 80 students.\nIn May, the number of students on campus would double to 80 * 2 = 160 students.\nTherefore, by the end of May, there would be an additional 160 - 10 = 150 students on campus.\nThe answer is 150"]}
+null
+{"version": "fail_grading_match", "details": [["91"], "79", ["91"], "Rose starts with 3 flowers with 5 petals each, so she has 3 * 5 = 15 petals.\nShe then picks 4 flowers with 6 petals each, so she has 4 * 6 = 24 petals.\nShe adds another 5 flowers with 4 petals each, so she has 5 * 4 = 20 petals.\nLastly, she picks 6 flowers with 7 petals each, so she has 6 * 7 = 42 petals.\nIn total, she has 15 + 24 + 20 + 42 = 101 petals.\nHowever, she drops 1 of each flower, so she loses 1 * 5 = 5 petals.\nThe wind blows away 1 of each flower, so she loses another 1 * 5 = 5 petals.\nTherefore, the total number of petals on the flowers in the vase is 101 - 5 - 5 = 91 petals.\nThe answer is 91"]}
+null
+{"version": "fail_grading_match", "details": [["18"], "11", ["18"], "Jack can play for 20 minutes with 1 quarter, so he can play for 20/15 = 4/3 times as long with 1 dollar.\nTwo of his friends can only play half as long as Jack, so they can play for 20/2 = 10 minutes with 1 quarter.\nOne of his friends can play for 1.5 times as long as Jack, so he can play for 20*1.5 = 30 minutes with 1 quarter.\nIn total, they play for 20 + 10 + 10 + 30 = 70 minutes.\nSince there are 60 minutes in an hour, they play for 70/60 = 1.17 hours.\nIf they play for 4 hours, then they play for 4/1.17 = 3.43 times as long as they would have if they played for 1 hour.\nSo, they would have used 3.43 times as much money if they played for 1 hour.\nIf Jack can play for 4/3 times as long with 1 dollar, then they would have used 4/3 times as much money if they played for 1 hour.\nTherefore, they would have used 4/3 * 3.43 = 4.57 times as much money if they played for 1 hour.\nIf they played for 4 hours, then they would have used 4.57 * 4 = 18.28 times as much money.\nIf they played for 4 hours, then they would have used 18.28 * 1 = 18.28 dollars.\nThe answer is 18"]}
+{"version": "fail_grading_match", "details": [["3"], "4", ["3"], "Let's assume the amount of salt Tanya uses is S ounces.\nSince she uses the same amount of salt as sugar, she also uses S ounces of sugar.\nShe uses twice as much oil as salt, so she uses 2S ounces of oil.\nShe uses twice as much salt as zest, so she uses S/2 ounces of citrus zest.\nSince she uses the same amount of citrus zest as fragrance, she also uses S/2 ounces of fragrance.\nThe total amount of ingredients she uses is S + S + 2S + S/2 + S/2 = 10 ounces.\nCombining like terms, we have 5S + S = 10.\nSimplifying, we have 6S = 10.\nDividing both sides by 6, we have S = 10/6 = 5/3.\nSince she uses 2S ounces of oil, she uses 2 * 5/3 = 10/3 ounces of oil.\nTherefore, Tanya uses 10/3 ounces of oil.\nThe answer is 3"]}
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["18"], "14", ["18"], "In the first game, Sasha scored 14 points.\nJulie scored 4 fewer points than Sasha, so she scored 14 - 4 = 10 points.\nIn the second game, Sasha scored 6 fewer points than Julie's score in the first game, so she scored 10 - 6 = 4 points.\nTherefore, Sasha scored a total of 14 + 4 = 18 points during both games.\nThe answer is 18"]}
+null
+null
+null
+{"version": "fail_grading_match", "details": [["8"], "11", ["8"], "First find the total cost of shipping: $0.35/pound * 4 pounds = $1.4\nThen find the total cost of shipping including the mileage: $1.4 + ($0.08/mile * 20 miles) = $1.4 + $1.6 = $3\nThen find the amount of the refund: $32 * 0.75 = $24\nThen subtract the refund amount from the purchase price to find the amount Milly loses: $32 - $24 = $8\nThe answer is 8"]}
+null
+null
+{"version": "fail_grading_match", "details": [["1148"], "1128", ["1148"], "Britany spends 2 hours a week writing amateur songs, which is 2 x 60 = 120 minutes.\nShe spends 15 minutes six days a week doing her makeup, which is 15 x 6 = 90 minutes.\nIn total, she spends 120 + 90 = 210 minutes each week on writing and makeup.\nShe records 18 4-minute TikTok videos each week, which is 18 x 4 = 72 minutes.\nSo, Britany spends a total of 210 + 72 = 282 minutes on TikTok each week.\nIn a month with four weeks, she spends 282 x 4 = 1148 minutes on TikTok.\nThe answer is 1148"]}
+{"version": "fail_grading_match", "details": [["753"], "324", ["753"], "Angela needs 6 mirrors, which cost $129.00 for 4 mirrors, so 6/4 = 1.5 times the cost of 4 mirrors.\n1.5 times the cost of 4 mirrors is 1.5 * $129.00 = $195.00 for the 6 mirrors.\nAngela also needs 2 chandeliers, which cost $129.00 for 1 chandelier, so 2 * $129.00 = $258.00 for the 2 chandeliers.\nAngela needs 20 pictures, which cost $15.00 per picture, so 20 * $15.00 = $300.00 for the 20 pictures.\nThe total cost for Angela's installation is $195.00 + $258.00 + $300.00 = $753.00.\nThe answer is 753"]}
+null
+null
+null
+{"version": "fail_grading_match", "details": [["12"], "48", ["12"], "If it takes 3 kangaroos a total of 18 hours to travel across the highway, then each kangaroo takes 18/3 = 6 hours to do so.\nIf each turtle is traveling at half the speed of a kangaroo, then each turtle will take 6/2 = 3 hours to travel across the highway.\nSince there are four turtles, it will take them a total of 3 x 4 = 12 hours to do so.\nThe answer is 12"]}
+null
+{"version": "fail_grading_match", "details": [["560"], "120", ["560"], "Let\u2019s first calculate the price of the new laptop: $600 \u2013 $200 = $400\nNow let\u2019s calculate the total amount of money Erika has: $150 + $80 + $50 = $280\nWe know that Erika already has some savings in her purse, so let\u2019s add that to the total amount of money she has: $280 + $280 = $560\nThe answer is 560"]}
+null
+null
+{"version": "fail_grading_match", "details": [["20"], "16", ["20"], "If one glue stick has 1/6 left, then it is used 1 - 1/6 = 5/6 of the original length.\nSo, the length of the glue stick that is not used is 12 millimeters * 5/6 = 10 millimeters.\nIf the second glue stick has 2/3 left, then it is used 1 - 2/3 = 1/3 of the original length.\nSo, the length of the glue stick that is not used is 12 millimeters * 1/3 = 4 millimeters.\nIf the third glue stick has 1/2 left, then it is used 1 - 1/2 = 1/2 of the original length.\nSo, the length of the glue stick that is not used is 12 millimeters * 1/2 = 6 millimeters.\nThe total length of the glue sticks that are not used is 10 millimeters + 4 millimeters + 6 millimeters = 20 millimeters.\nThe answer is 20"]}
+{"version": "fail_grading_match", "details": [["4120"], "5600", ["4120"], "Gabriel wants to buy a car for $10000 and a phone for $800, so the total cost is $10000 + $800 = $10800.\nGabriel has $5000 from working on weekends and his brother gave him $200, so he has a total of $5000 + $200 = $5200.\nTo find out how much money he still needs, we subtract the total cost from the amount he has, so $5200 - $10800 = $4120.\nGabriel still needs $4120.\nThe answer is 4120"]}
+null
+null
+{"version": "fail_grading_match", "details": [["150"], "180", ["150"], "If Jack collected 60 dishes, and Peter has half as many dishes as Jack, then Peter has 60/2 = 30 dishes.\nIf Peter has twice as many socks as Jack, then Peter has 2*60 = 120 socks.\nTogether, Peter and Jack have 30 dishes + 120 socks = 150 items.\nThe answer is 150"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["15"], "13", ["15"], "Let's assume my age is x.\nSince I am three years younger than my brother, my brother's age is x + 3.\nSince I am 2 years older than my sister, my sister's age is x - 2.\nSince my mom's age is one less than three times my brother's age, my mom's age is 3(x + 3) - 1 = 3x + 8.\nWhen you add all our ages, you get 87, so x + (x + 3) + (x - 2) + (3x + 8) = 87.\nCombining like terms, we get 5x + 9 = 87.\nSubtracting 9 from both sides, we get 5x = 78.\nDividing both sides by 5, we get x = 15.6.\nSince we can't have a fraction of a year, we round down to the nearest whole number.\nTherefore, I am 15 years old.\nThe answer is 15"]}
+null
+null
+null
+{"version": "fail_grading_match", "details": [["1160"], "1520", ["1160"], "Rafaela received $20 x 40 = $800 in tips.\nJulieta received $20 x 40 x 90/100 = $360 in tips.\nTogether, they received $800 + $360 = $1160 in tips.\nThe answer is 1160"]}
+null
+{"version": "fail_grading_match", "details": [["12"], "30", ["12"], "It takes Claire 1 month to earn a badge.\nIt takes Amber twice as long as Claire, so it takes Amber 1 x 2 = 2 months to earn a badge.\nWendy earns three times the amount of badges as Claire, so she earns 1 x 3 = 3 badges in the same time frame.\nIn a 1 year time frame, there are 12 months.\nSo, Claire earns 1 x 12 = 12 badges in a year.\nAmber earns 2 x 12 = 24 badges in a year.\nWendy earns 3 x 12 = 36 badges in a year.\nTherefore, Wendy earns 36 - 24 = 12 more badges than Amber in a 1 year time frame.\nThe answer is 12"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["29"], "41", ["29"], "For the multiple-choice questions, Amy correctly answers 80% of 10 questions, so she gets 80/100 * 10 = 8 points.\nFor the true/false questions, Amy correctly answers 90% of 20 questions, so she gets 90/100 * 20 = 18 points.\nFor the long answer questions, Amy correctly answers 60% of 5 questions, so she gets 60/100 * 5 = 3 points.\nIn total, Amy scores 8 + 18 + 3 = 29 points.\nThe answer is 29"]}
+null
+{"version": "fail_grading_match", "details": [["4"], "5", ["4"], "Julie sold 14 glasses of lemonade.\nThe boys sold an equal number of glasses, so they each sold 32 - 14 = 18 glasses.\nMicah sold 18 glasses of lemonade.\nJulie sold 14 - 18 = -4 more glasses than Micah.\nSince the question asks for the difference in the number of glasses sold, we take the absolute value of -4, which is 4.\nTherefore, Julie sold 4 more glasses than Micah.\nThe answer is 4"]}
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["33"], "25", ["33"], "If the runtime of the final concert is 65 minutes and it is twice as long as her usual concerts, then her usual concerts run for 65/2 = 32.5 minutes.\nSince we can't have a fraction of a minute, we can round up to the nearest whole number.\nTherefore, her usual concerts run for 33 minutes.\nThe answer is 33"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["32"], "26", ["32"], "If Joe paid Tasha $6 for her work, and she mowed Kamala's lawn thrice as many times as she did Joe's, then she made 3 * $6 = $18 from mowing Kamala's lawn.\nIf she mowed Alba's lawn five times as she did Joe's, then she made 5 * $6 = $30 from mowing Alba's lawn.\nIn total, she made $18 + $30 = $48 from mowing lawns.\nSince she made $80 in total, she must have made $80 - $48 = $32 from lemonade sales.\nThe answer is 32"]}
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["5"], "15", ["5"], "Yesterday, Denise read 10 pages and Daniel read 13 pages.\nToday, Denise read 5 more than as many pages as what Daniel read yesterday, so she read 13 + 5 = 18 pages.\nDaniel was not able to read any pages today.\nTherefore, Denise read 18 - 13 = 5 more pages than Daniel.\nThe answer is 5"]}
+{"version": "fail_grading_match", "details": [["0"], "1", ["0"], "Calvin has enough soup to fill four adult's bowls or eight child's bowls.\nHe is an adult and will be eating with his adult wife and their two children.\nSo, there are a total of 4 adults + 1 adult wife + 2 children = 7 people eating.\nIf everyone eats one bowl at a meal, then there are 7 bowls of soup consumed.\nCalvin has enough soup to fill eight child's bowls, so there are 8 bowls of soup in total.\nIf 7 bowls are consumed, then there are 8 - 7 = 1 bowl of soup left.\nSince there are 2 children, each child will be able to have a bowl of soup for lunch from the leftover soup.\nTherefore, each child will be able to have a bowl of soup for lunch 1/2 = 0.5 times.\nThe answer is 0"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["56"], "47", ["56"], "He has 3*3=9 dogs\nHe has 9-2=7 rabbits\nHe has 7*3=21 fish\nHe has 21/3=7 gerbils\nSo in total he has 3+9+7+21+7=56 pets\nThe answer is 56"]}
+null
+null
+{"version": "fail_grading_match", "details": [["3"], "2", ["3"], "There are 27 cups / 3 rows = 9 cups in each row.\nThere are 9 cups - 15 cups = -6 cups of cinnamon tea in each row.\nThere are -6 cups / 2 = 3 cups of mint tea in each row.\nThe answer is 3"]}
+{"version": "fail_grading_match", "details": [["4"], "12", ["4"], "If the sloth takes 4 hours to make the trip down the tree, pick up berries, and climb back up into his tree, then he spends 4/3 = 1.33 hours on each trip.\nIf he wants to collect 24 berries in 8 hours, then he needs to make 8/1.33 = 6 trips down to the ground.\nTo collect 24 berries in 6 trips, he needs to pick up 24/6 = 4 berries per trip down to the ground.\nTherefore, the least number of berries he can pick up per trip down to the ground is 4.\nThe answer is 4"]}
+null
+{"version": "fail_grading_match", "details": [["4"], "1", ["4"], "He has $150 to spend and he has already spent $10 on 5 tickets, $7 on 8 tickets, $8 on 2 tubs of popcorn, and $2 on 4 boxes of candy.\nHe has spent $10 x 5 = $50 on tickets for Fridays and Saturdays.\nHe has spent $7 x 8 = $56 on tickets for other days.\nHe has spent $8 x 2 = $16 on popcorn.\nHe has spent $2 x 4 = $8 on candy.\nHe has spent a total of $50 + $56 + $16 + $8 = $130.\nHe has $150 - $130 = $20 left to spend on tickets.\nHe can buy $20 / $10 = 2 tickets for Fridays and Saturdays.\nHe can buy $20 / $7 = 2 tickets for other days.\nHe can buy a total of 2 + 2 = 4 tickets.\nHe can see 4 movies that night.\nThe answer is 4"]}
+{"version": "fail_grading_match", "details": [["850"], "85000", ["850"], "Andrew bakes 200 mini cinnamon rolls, so the total number of calories from the cinnamon rolls is 200 * (1/3) * 600 = 400 calories.\nHe also bakes 300 mini blueberry muffins, so the total number of calories from the blueberry muffins is 300 * (1/3) * 450 = 450 calories.\nTherefore, the pastries Andrew baked have a total of 400 + 450 = 850 calories.\nThe answer is 850"]}
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["21"], "24", ["21"], "At the start of the game, Maria gave each of her friends 2 water balloons, so she gave away a total of 4 friends x 2 balloons = 8 balloons.\nShe also had one water balloon for herself, so she had a total of 8 balloons + 1 balloon = 9 balloons.\nThen her mom came out and gave each person 3 more balloons, so she gave away a total of 4 friends x 3 balloons = 12 balloons.\nAdding the balloons she gave away to the balloons she had for herself, Maria had a total of 9 balloons + 12 balloons = 21 balloons.\nThe answer is 21"]}
+{"version": "fail_grading_match", "details": [["30"], "15", ["30"], "They get 10*5=50 boxes from the donations\nSo they have 50+10=60 boxes\nThey can fit 2*15=30 boxes on the tables they have\nSo they need 60-30=30 new tables\nThe answer is 30"]}
+null
+null
+{"version": "fail_grading_match", "details": [["100"], "250", ["100"], "If Cameron stays for 12 hours, he would pay 1000 pesos.\nIf Cameron stays for 24 hours, he would pay 1600 pesos.\nIf Cameron stays for 12 hours and adds on 70 pesos for every additional hour, he would pay 1000 + (10 * 70) = 1000 + 700 = 1700 pesos.\nTherefore, Cameron would save 1700 - 1600 = 100 pesos.\nThe answer is 100"]}
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["178"], "205", ["178"], "First find how many hours of labor the job took: 2.25 hours * $35/hour = $78.75\nThen add that amount to the cost of the parts to find the total cost: $78.75 + $60 = $138.75\nThen add the cost of the parts to the cost of the visit to find the total cost: $138.75 + $40 = $178.75\nThe answer is 178"]}
+{"version": "fail_grading_match", "details": [["45"], "50", ["45"], "He gets a 15*.4=$6 discount\nSo he pays 15-6=$9 per CD\nHe bought 10-5=5 CDs\nSo he spent 5*9=$45\nThe answer is 45"]}
+null
+null
+{"version": "fail_grading_match", "details": [["490"], "450", ["490"], "If Sam had 70 loaves of bread last Friday, then the bakery has 7 * 70 - 40 = 490 loaves of bread.\nThe answer is 490"]}
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["548"], "452", ["548"], "Kim usually goes to sleep at 10 p.m. and wakes up at 6 a.m., so she sleeps for 6 - 10 = 8 hours.\nThere are 60 minutes in an hour, so she sleeps for 8 x 60 = 480 minutes.\nOne day, she was sleepwalking from 2:15 to 2:38 am, which is a total of 23 minutes.\nShe also woke up 5 minutes earlier than usual, so she woke up at 6 - 5 = 1 a.m.\nTherefore, she slept for 1 - 2:15 = 45 minutes before she started sleepwalking.\nIn total, she slept for 480 + 23 + 45 = 548 minutes.\nThe answer is 548"]}
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["38"], "40", ["38"], "If Courtney overestimated the number of people in attendance by 20%, then the actual number of people in attendance is 100% - 20% = 80% of the number Courtney reported.\n80% of 48 is 0.8 * 48 = 38.4\nSince we can't have a fraction of a person, we round down to the nearest whole number.\nTherefore, the actual number of people in attendance is 38.\nThe answer is 38"]}
+{"version": "fail_grading_match", "details": [["8"], "7", ["8"], "If Jason had picked up and carried 2 balls, and Jordan carried twice as many balls as Jason, then Jordan carried 2*2=4 balls.\nIf Jordan carried 4 balls, and Jason carried twice as many balls as Jeffrey, then Jeffrey carried 4/2=2 balls.\nThe total number of balls that the coach brought to practice is 2+4+2=8 balls.\nThe answer is 8"]}
+{"version": "fail_grading_match", "details": [["38"], "11", ["38"], "On the first day, the pirates dug 10 holes.\nOn the second day, the pirates dug 13 holes.\nOn the third day, the pirates dug 8 holes.\nSo far, the pirates have dug a total of 10 + 13 + 8 = 31 holes.\nOn the fourth day, the pirates dug enough holes to make the total number of holes on the island four times the number of holes on the first day.\nSince the first day had 10 holes, the fourth day had 10 x 4 = 40 holes.\nHowever, the pirates also filled in 2 holes on the third day, so we need to subtract those from the total.\nTherefore, the pirates dug 40 - 2 = 38 holes on the fourth day before finding the treasure.\nThe answer is 38"]}
+null
+null
+{"version": "fail_grading_match", "details": [["139"], "147", ["139"], "Let's assume the number of Pokemon Adelwolfe has caught is A.\nAccording to the information given, Stan has caught 13 less than 4 times as many as Adelwolfe, so Stan has caught 4A - 13.\nAnd Alex has caught 5 more than Stan, so Alex has caught 4A - 13 + 5.\nTogether, they have caught 339 Pokemon, so A + (4A - 13) + (4A - 13 + 5) = 339.\nCombining like terms, we get 9A - 11 = 339.\nAdding 11 to both sides, we get 9A = 350.\nDividing both sides by 9, we get A = 38.\nTherefore, Stan has caught 4A - 13 = 4(38) - 13 = 152 - 13 = 139 Pokemon.\nThe answer is 139"]}
+{"version": "fail_grading_match", "details": [["40"], "200", ["40"], "If each episode is 20 minutes long, then the total number of episodes is 20 minutes / 20 minutes per episode = 1 episode.\nSince there are half as many episodes in total as there are minutes per episode, then there are 1 episode * 2 = 2 episodes in total.\nIf each episode is 20 minutes long, then John will spend 20 minutes per episode * 2 episodes = 40 minutes watching the show.\nThe answer is 40"]}
+{"version": "fail_grading_match", "details": [["446"], "374", ["446"], "Traveling 10 hours at 30 miles per hour, the bird flies 10*30=300 miles to the south.\nTraveling 2 hours at 18 miles per hour, the bird flies 2*18=36 miles to the north.\nTraveling 5 hours at 22 miles per hour, the bird flies 5*22=110 miles to the south.\nThus, the distance between the bird's northern and southern homes is 300+36+110=446 miles.\nThe answer is 446"]}
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["100"], "120", ["100"], "Mrs. Harrington bought 12 boxes of oranges, and each box contains 20 oranges, so she had a total of 12 * 20 = 240 oranges.\nShe gave her mom and her sister 2 boxes of oranges each, so she gave away a total of 2 * 2 = 4 boxes of oranges.\nSince each box contains 20 oranges, she gave away a total of 4 * 20 = 80 oranges.\nShe kept 1/4 of the oranges, so she kept 1/4 * 240 = 60 oranges.\nTherefore, Mrs. Harrington sold 240 - 80 - 60 = 100 oranges.\nThe answer is 100"]}
+null
+null
+null
+{"version": "fail_grading_match", "details": [["465"], "540", ["465"], "On Saturday, Sunny sold 10 boxes of gingerbread, so he earned 10 * $6 = $60 from gingerbread.\nHe also sold 4 fewer boxes of apple pie, so he sold 10 - 4 = 6 boxes of apple pie.\nTherefore, he earned 6 * $15 = $90 from apple pie on Saturday.\nIn total, on Saturday, Sunny earned $60 + $90 = $150.\nOn Sunday, Sunny sold 5 more boxes of gingerbread than on Saturday, so he sold 10 + 5 = 15 boxes of gingerbread.\nHe also sold 15 boxes of apple pie.\nTherefore, he earned 15 * $6 = $90 from gingerbread on Sunday.\nAnd he earned 15 * $15 = $225 from apple pie on Sunday.\nIn total, on Sunday, Sunny earned $90 + $225 = $315.\nTherefore, for two days, Sunny earned $150 + $315 = $465.\nThe answer is 465"]}
+null
+null
+{"version": "fail_grading_match", "details": [["60"], "50", ["60"], "Emil is 19 years old now.\nWhen he turns 24, he will be half the age of his dad, so his dad will be 24 x 2 = 48 years old.\nHe will also be twice as old as his brother, so his brother will be 24 / 2 = 12 years old.\nThe sum of the ages of his dad and his brother now is 48 + 12 = 60 years.\nThe answer is 60"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["10"], "45", ["10"], "Emily can saute 30 shrimp in 10 minutes, so she can saute 30/10 = 3 shrimp per minute.\nEmily can also peel 6 shrimp a minute, so she can cook 3+6 = 9 shrimp per minute.\nTo cook 90 shrimp, it will take her 90/9 = 10 minutes.\nThe answer is 10"]}
+null
+null
+{"version": "fail_grading_match", "details": [["33"], "52", ["33"], "He writes 12/1=12 checks for the electric bill\nHe writes 12/1=12 checks for the gas bill\nHe writes 12/2=6 checks to the church\nHe writes 12/4=3 checks to the pest and lawn service\nSo in total, he writes 12+12+6+3=33 checks per year\nThe answer is 33"]}
+{"version": "fail_grading_match", "details": [["88"], "11", ["88"], "Let's assume the first plane makes x flights in one day.\nThe first plane goes to Greece for three-quarters of its flights, so it goes to Greece for 3/4 * x flights.\nThe remaining flights are split equally between flights to France and flights to Germany, so it goes to France for 1/2 * (x - 3/4 * x) flights.\nThe other plane flies exclusively to Poland, and its 44 trips only amount to half the number of trips the first plane makes throughout each day, so the first plane makes 2 * 44 = 88 flights in one day.\nTherefore, 3/4 * x + 1/2 * (x - 3/4 * x) = 88.\nSimplifying the equation, we get 3/4 * x + 1/2 * x - 3/4 * x = 88.\nCombining like terms, we get 1/4 * x = 88.\nDividing both sides by 1/4, we get x = 88 * 4 = 352.\nTherefore, the first plane takes 352 - 3/4 * 352 = 352 - 264 = 88 flights to France in one day.\nThe answer is 88"]}
+null
+null
+{"version": "fail_grading_match", "details": [["6"], "3", ["6"], "If the total age of the children is 20, and Akbar is 3 years old and Alessandro is 4 years old, then the combined age of Helene and Wilfred is 20 - 3 - 4 = 13 years.\nSince Helene is twice as old as the average age of the group, the average age of the group is 13 / 2 = 6.5 years.\nTherefore, Wilfred's age is 6.5 years.\nThe answer is 6"]}
+{"version": "fail_grading_match", "details": [["3800"], "6600", ["3800"], "Walter collects $500 from his neighbors and $1500 from the online fund, so he has a total of $500 + $1500 = $2000.\nHis lawyer offers to donate three times as much as everyone else donates, so his lawyer will contribute 3 * $2000 = $6000.\nWalter's friend gives him $200, so the total amount Walter has now is $2000 + $200 = $2200.\nTherefore, Walter's lawyer will contribute $6000 - $2200 = $3800.\nThe answer is 3800"]}
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["160"], "480", ["160"], "There are 10 students in the dance studio and each student pays $1.50 per session, so the total earnings from the students per session is 10 * $1.50 = $15.\nThe dance studio is rented for $25 per session, so the total earnings from the rental per session is $25.\nThe dance studio is rented 3 days a week, so the total earnings per week is $15 + $25 = $40.\nIn a month, there are approximately 4 weeks, so the total earnings per month is $40 * 4 = $160.\nThe expected earnings of the dance studio in a month is $160.\nThe answer is 160"]}
+null
+null
+{"version": "fail_grading_match", "details": [["823"], "826", ["823"], "To find the volume of the pool, we multiply the width, length, and depth: 14 ft x 25 ft x 4 ft = 1400 cubic feet.\nTo calculate how many gallons of water they need, we multiply the volume by 5.9: 1400 cubic feet x 5.9 = 8230 gallons.\nThe cost to fill the pool is $0.10 per gallon, so the total cost is 8230 gallons x $0.10/gallon = $823.\nThe answer is 823"]}
+null
+null
+{"version": "fail_grading_match", "details": [["1375"], "1875", ["1375"], "Half of the students are over 16 years old, so there are 3000/2 = 1500 students over 16 years old.\nOne-fourth of the students over 16 years old are male, so there are 1500/4 = 375 male students over 16 years old.\nThe remaining half of the students are under 16 years old, so there are 3000/2 = 1500 students under 16 years old.\nOne-half of the students under 16 are male, so there are 1500/2 = 750 male students under 16 years old.\nTo find the number of female students, we subtract the number of male students from the total number of students: 1500 - 375 - 750 = 1375\nTherefore, there are 1375 female students enrolled at this school.\nThe answer is 1375"]}
+null
+null
+{"version": "fail_grading_match", "details": [["28"], "94", ["28"], "Let's assume the total capacity of the power bank is 100%.\nIn the first 5 hours, the power bank lost 9% of the total capacity each hour, so it lost 9% x 5 = 45% of the total capacity.\nAfter the first 5 hours, the charge remaining was 100% - 45% = 55%.\nIn the next 3 hours, the power bank lost 7% of the total capacity each hour, so it lost 7% x 3 = 21% of the total capacity.\nAfter the next 3 hours, the charge remaining was 55% - 21% = 34%.\nWe know that the charge remaining was 28%, so we can set up the equation 34% = 28%.\nTo find the charge when Maria went out to the park, we need to find the value that represents 100% on the scale.\nWe can set up the equation 34% = x% and solve for x.\nDividing both sides of the equation by 34%, we get x% = 28%.\nSo, the charge of the power bank when Maria went out to the park was 28%.\nThe answer is 28"]}
+null
+{"version": "fail_grading_match", "details": [["4"], "3", ["4"], "Jamaar has already spent $0.5 x 3 = $1.5 on peaches.\nHe has also spent $0.5 x 4 = $2 on pears.\nHe has spent $1 x 2 = $2 on kiwis.\nAnd he has spent $0.75 x 5 = $3.75 on apples.\nIn total, he has spent $1.5 + $2 + $2 + $3.75 = $9 on the other fruits.\nHe has $10 - $9 = $1 left to spend on plums.\nSince plums cost $0.25 each, he can buy $1 / $0.25 = 4 plums.\nThe answer is 4"]}
+null
+{"version": "fail_grading_match", "details": [["139"], "138", ["139"], "After the first year, the price of carrots would increase by 5% of $120, which is $120 * 0.05 = $6.\nSo, the price of carrots after the first year would be $120 + $6 = $126.\nAfter the second year, the price of carrots would increase by 5% of $126, which is $126 * 0.05 = $6.30.\nSo, the price of carrots after the second year would be $126 + $6.30 = $132.30.\nAfter the third year, the price of carrots would increase by 5% of $132.30, which is $132.30 * 0.05 = $6.615.\nSo, the price of carrots after the third year would be $132.30 + $6.615 = $138.945.\nRounding to the nearest integer, the price of carrots after three years would be $139.\nThe answer is 139"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["48"], "12", ["48"], "We can set up a proportion to solve for the price of the third package. Let x be the price of the third package.\n\nWe know that the price is proportional, so we can set up the proportion:\n\n2/3 = 4/6 = 8/x\n\nTo solve for x, we can cross-multiply:\n\n2x = 3 * 4 * 8\n2x = 96\n\nNow, divide both sides by 2:\n\nx = 96/2\nx = 48\n\nSo, the package with 8 sandwiches will cost $48.\nThe answer is 48"]}
+null
+{"version": "fail_grading_match", "details": [["30"], "34", ["30"], "Of the 25 red balloons, 40% burst, for a total of 0.4*25=10 balloons.\nThis leaves 25-10=15 red balloons.\nOf the 12 yellow balloons, she released half, for a total of 12/2=6 balloons.\nThis leaves 12-6=6 yellow balloons.\nShe found 8 blue balloons, and added 75% of them to her remaining clutch of balloons, for a total of 0.75*8=6 blue balloons added.\nThis leaves 8-6=2 blue balloons remaining.\nIn total, she carried 15+7+6+2=30 balloons into the school.\nThe answer is 30"]}
+{"version": "fail_grading_match", "details": [["44"], "24", ["44"], "First find the probability that the normal teacher comes in and gives an extension: 40% * 50% = 20%\nThen find the probability that the normal teacher comes in and doesn't give an extension: 60% * 50% = 30%\nThen find the probability that Marcus convinces the teacher his dog ate his assignment: 20% * 30% = 6%\nThen add the probabilities of those three scenarios to find the total probability Marcus doesn't have to turn in his homework: 20% + 30% + 6% = 56%\nThen subtract that probability from 100% to find the probability Marcus does have to turn in his homework: 100% - 56% = 44%\nThe answer is 44"]}
+null
+{"version": "fail_grading_match", "details": [["50"], "450", ["50"], "Grandpa can eat twice as many medium-sized beans as large beans, so he can eat 75 x 2 = 150 medium-sized beans.\nEating 3 small beans is the same as eating 1 medium-sized bean, so Grandpa can eat 150 / 3 = 50 small beans.\nTherefore, Grandpa can eat 50 small beans.\nThe answer is 50"]}
+null
+null
+{"version": "fail_grading_match", "details": [["40"], "35", ["40"], "Richard's driveway is 24 feet wide and he wants to put a bottle of soda every 3 feet, so he will need 24/3 = 8 bottles of soda.\nIt will take Richard 5 seconds to go from one soda bottle to the next, so it will take him 5 * 8 = 40 seconds to set off all the soda fountains.\nThe answer is 40"]}
+null
+null
+null
+{"version": "fail_grading_match", "details": [["104"], "160", ["104"], "First find the area of the bed: 6 feet * 8 feet = 48 square feet\nThen find the area of one piece of fabric: 2 feet * 2 feet = 4 square feet\nThen add 4 square feet to the area of the bed to find the area of one piece of fabric: 48 square feet + 4 square feet = 52 square feet\nThen double that amount because there are two pieces of fabric: 52 square feet * 2 = 104 square feet\nThe answer is 104"]}
+{"version": "fail_grading_match", "details": [["129"], "736", ["129"], "On Tuesday the post office delivered 425/5 + 17 = 97 letters.\nOn Wednesday the post office delivered 2 * 97 + 5 = 199 letters.\nThe post office delivered 425 - 97 - 199 = 129 letters from Monday to Wednesday.\nThe answer is 129"]}
+null
+{"version": "fail_grading_match", "details": [["10"], "3", ["10"], "On the second race, he won $1 more than twice the amount he previously lost, so he won 2*$5 + $1 = $11\nOn the third race, he lost 1.5 times as much as he won in the second race, so he lost 1.5*$11 = $16.5\nIn total, he lost $5 + $11 + $16.5 = $32.5\nTo find the average, we divide the total amount lost by the number of races, so $32.5 / 3 = $10.83\nThe answer is 10"]}
+null
+{"version": "fail_grading_match", "details": [["45"], "1", ["45"], "After growing 3 inches, Xavier is 4 + 3 = 7 feet tall.\nAfter growing 2 inches, Cole is 50 + 2 = 52 inches tall.\nThe difference between their height is 52 - 7 = 45 inches.\nThe answer is 45"]}
+{"version": "fail_grading_match", "details": [["440"], "420", ["440"], "Let's assume the first person took x dollars.\nThe second person took $80 more than the first, so they took x + $80.\nThe third person took twice what the second person took, so they took 2(x + $80).\nThe total amount of money taken by all three people is x + (x + $80) + 2(x + $80) = $1920.\nCombining like terms, we get 4x + $160 = $1920.\nSubtracting $160 from both sides, we get 4x = $1760.\nDividing both sides by 4, we get x = $440.\nTherefore, the first person took $440.\nThe answer is 440"]}
+{"version": "fail_grading_match", "details": [["246"], "189", ["246"], "There are 7 days in a week, so 3 weeks is 3 x 7 = 21 days.\nEach painter worked for 3/8 x 21 = 81/8 = 10.125 days.\nSince there are 24 hours in a day, each painter worked for 10.125 x 24 = 246 hours.\nTherefore, each painter put in 246 hours of work.\nThe answer is 246"]}
+null
+{"version": "fail_grading_match", "details": [["9000"], "7400", ["9000"], "To find the price of the car in the year 2010, we need to calculate the price after 3 years (2007 to 2010) of depreciation.\n\nThe price of the car depreciates at a rate of 21% per year. So, after 1 year, the price will be 100% - 21% = 79% of the original price.\n\nAfter 2 years, the price will be 79% of 79% of the original price, which is (79/100)^2 = 61.29% of the original price.\n\nAfter 3 years, the price will be 61.29% of 61.29% of the original price, which is (61.29/100)^3 = 45.87% of the original price.\n\nNow, we can calculate the price of the car in the year 2010:\n\n$20000 * 45.87% = $9000\n\nSo, the price of the car in the year 2010 is $9000."]}
+null
+{"version": "fail_grading_match", "details": [["1630"], "655", ["1630"], "If Bernice drove 325 kilometers for 4 days, then she drove 325/4 = 81.25 kilometers per day.\nTo find out how many kilometers she still needs to drive, we subtract the distance she has already driven from the total distance.\nThe total distance is 1955 kilometers, and she has already driven 325 kilometers, so she still needs to drive 1955 - 325 = 1630 kilometers.\nThe answer is 1630"]}
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["130"], "156", ["130"], "Greg puts clean sheets on 4 twin beds and 1 king size bed every week, so he uses 4 + 1 = 5 sets of sheets each week.\nHis laundry machine will only allow him to wash 2 twin sets of sheets at a time and 1 king set of sheets at a time, so he needs to do 5 / 2 = 2.5 loads of laundry each week.\nSince there are 52 weeks in a year, Greg does 2.5 * 52 = 130 loads of laundry in a year.\nThe answer is 130"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["12"], "18", ["12"], "He needs 6 pounds of butter because 6 x 1 = 6\nHe gets 1/2 off of the $4.00 butter because 4 x .5 = 2\nThe butter costs $2.00 a pound because 4 - 2 = 2\nIt will cost him $12.00 to purchase 6 pounds of butter because 6 x 2 = 12\nThe answer is 12"]}
+null
+null
+{"version": "fail_grading_match", "details": [["147"], "21", ["147"], "One monkey eats 10 bananas each day, so in a week, it eats 10 bananas/day x 7 days/week = 70 bananas.\nThe second monkey eats 4 more bananas than the first monkey, so it eats 10 bananas/day + 4 bananas/day = 14 bananas/day.\nIn a week, the second monkey eats 14 bananas/day x 7 days/week = 98 bananas.\nThe third monkey eats the rest of the bananas for the day, so it eats 315 bananas - 70 bananas - 98 bananas = 147 bananas.\nTherefore, the third monkey eats 147 bananas each day.\nThe answer is 147"]}
+null
+{"version": "fail_grading_match", "details": [["80"], "16", ["80"], "Jenny bought 15 roses, and roses cost $2 each, so she spent 15 * $2 = $30 on roses.\nShe also bought a dozen roses, which cost $15, so she spent an additional $15 on the dozen roses.\nIn total, Jenny spent $30 + $15 = $45 on roses.\nShe arrived with five 5 dollar bills, so she had a total of 5 * $5 = $25.\nSince the florist only has quarters for change, Jenny will leave with $25 - $45 = -$20.\nSince she spent more than the amount she had, she will leave with -$20 in quarters.\nSince each quarter is worth $0.25, Jenny will leave with -$20 / $0.25 = -80 quarters.\nThe answer is 80"]}
+null
+{"version": "fail_grading_match", "details": [["170"], "145", ["170"], "We know that the first train is scheduled to arrive in 10 minutes and will stay in the station for 20 minutes, so it will be in the station for a total of 10 + 20 = 30 minutes.\nThe second train is to arrive half an hour after the first train leaves the station, so it will arrive in 30 + 30 = 60 minutes.\nThe second train will stay in the station for a quarter of the amount of time that the first train stayed in the station, so it will stay for 20/4 = 5 minutes.\nThe third train is to arrive an hour after the second train leaves the station, so it will arrive in 60 + 60 = 120 minutes.\nThe third train is to leave the station immediately after it arrives, so it will be in the station for 120 - 5 = 115 minutes.\nThe fourth train will arrive 20 minutes after the third train leaves, so it will arrive in 120 + 20 = 140 minutes.\nTherefore, Paul will wait for a total of 30 + 5 + 115 + 20 = 170 minutes for his train.\nThe answer is 170"]}
+null
+{"version": "fail_grading_match", "details": [["20"], "10", ["20"], "Mr. Roger bought the watch at 75% of its original price, so he paid 75/100 * $2000 = $1500 for the watch.\nHe then sold the watch to his friend at 120% of the price that he bought it, so he sold it for 120/100 * $1500 = $1800.\nThe discount obtained by Mr. Roger's friend from the original price is 1 - 1800/2000 = 0.2 or 20%.\nThe answer is 20"]}
+{"version": "fail_grading_match", "details": [["36000"], "72000", ["36000"], "If every second, a new jellyfish is created, then in 1 minute, 60 seconds, there would be 60/2 = 30 jellyfish created.\nIn 1 hour, there would be 30 x 60 = 1800 jellyfish created.\nIn 4 hours, there would be 1800 x 4 = 7200 jellyfish created.\nIf there are 5 springs working at the same rate, then the total number of jellyfish created would be 7200 x 5 = 36,000 jellyfish.\nThe answer is 36000"]}
+null
+{"version": "fail_grading_match", "details": [["1"], "2", ["1"], "James walks 4 miles per hour, so if he walks for x hours, he will cover a distance of 4x miles.\nSince he walks halfway to the store and then walks back, the total distance he covers is 4x + 4x = 8x miles.\nWe know that his home is 4 miles from the store, so 8x = 4.\nDividing both sides of the equation by 8, we get x = 1/2.\nTherefore, it takes James 1/2 hour to reach the store.\nThe answer is 1"]}
+null
+{"version": "fail_grading_match", "details": [["0"], "20", ["0"], "If Sam and Harry split the fence evenly, each would get 100/2 = 50 feet.\nHowever, Harry gets 60 feet more than Sam, so he gets 50 + 60 = 110 feet.\nTherefore, Sam is left with 100 - 110 = -10 feet of fence.\nSince Sam cannot have a negative amount of fence, we can say that Sam is left with 0 feet of fence.\nThe answer is 0"]}
+null
+{"version": "fail_grading_match", "details": [["132250"], "131250", ["132250"], "Half of the bikes sold were Trekking bikes, so Marcel sold 300/2 = 150 Trekking bikes.\n15% of the bikes sold were BMX bikes, so Marcel sold 300 * 0.15 = 45 BMX bikes.\nThe rest of the bikes sold were MTB bikes, so Marcel sold 300 - 150 - 45 = 105 MTB bikes.\nThe price of one MTB is $500, so Marcel earned 105 * $500 = $52500 from selling MTB bikes.\nThe price of one BMX is half the price of an MTB, so Marcel earned 45 * ($500/2) = $11250 from selling BMX bikes.\nThe price of one Trekking bike is $450, so Marcel earned 150 * $450 = $67500 from selling Trekking bikes.\nIn total, Marcel earned $52500 + $11250 + $67500 = $132250 from selling bicycles during that month.\nThe answer is 132250"]}
+{"version": "fail_grading_match", "details": [["48"], "12", ["48"], "In one hour, the farmer makes 5 bales of hay.\nIn one hour, the truck picks up 3 bales of hay.\nSo, in one hour, the total number of bales of hay that are taken is 5 + 3 = 8 bales.\nIf the farmer and the truck driver put in a 6 hour day, then the total number of bales of hay that are taken is 8 bales/hour x 6 hours = 48 bales.\nTherefore, the number of bales of hay left in the field is 48 bales - 0 bales = 48 bales.\nThe answer is 48"]}
+null
+{"version": "fail_grading_match", "details": [["8"], "32", ["8"], "First find the total height the ball reaches after two bounces: 24 feet * 2/3 * 2/3 = 16 feet\nThen find the height the ball reaches on its second bounce: 16 feet - 24 feet = -8 feet\nThe answer is 8"]}
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["41"], "25", ["41"], "Ellen started with 12 sodas and shook up 3 of them, so she had 12 - 3 = 9 unshaken sodas.\nThen she took 1 unshaken soda for herself, so she had 9 - 1 = 8 unshaken sodas left.\nEllen's brother took 1 of the shaken sodas and 2 of the unshaken sodas, so he took a total of 1 + 2 = 3 sodas.\nAfter Ellen's brother took his sodas, there were 8 - 2 = 6 unshaken sodas left.\nEllen's friend came along and took 1 of the unshaken sodas, so there were 6 - 1 = 5 unshaken sodas left.\nThe likelihood that Ellen's friend gets sprayed with soda from a shaken can is the number of unshaken sodas left divided by the total number of sodas, which is 5/12 * 100 = 41.67%\nThe answer is 41"]}
+null
+{"version": "fail_grading_match", "details": [["61"], "240", ["61"], "First find the number of days in March that Billy doesn't take off: 31 days * 80% = 24.8 days\nThen multiply that number by the number of people Billy helps per day to find the number of people he helps in March: 24.8 days * 2 people/day = 49 people\nThen multiply that number by the number of days in April that Billy doesn't take off to find the number of people he helps in April: 6 days * 2 people/day = 12 people\nThen add the number of people he helps in March and April to find the total number of people he helps: 49 people + 12 people = 61 people\nThe answer is 61"]}
+{"version": "fail_grading_match", "details": [["478"], "480", ["478"], "There were 20 cars x 3 people = 60 people in the cars.\nThere were 12 buses x 35 people = 420 people in the buses.\nIn total, there were 60 + 420 = 480 people outside the church.\nTherefore, there were 480 people - 1 (the bride) - 1 (the husband) = 478 people inside the church.\nThe answer is 478"]}
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["1"], "40", ["1"], "Lauren plans to save for a retirement period of 20 years, so she needs to save a total of $100,000 x 20% = $20,000.\nShe plans to live with 40% of her current annual salary, so she will have $100,000 x 40% = $40,000 per year.\nTo save $20,000, she will need to work for $20,000 / $40,000 = 0.5 years.\nSince she can't work for half a year, she will need to work for 1 more year.\nThe answer is 1"]}
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["50"], "60", ["50"], "Soledad wants to hike 9,300 miles in the month of June.\nShe plans to walk twice a day, covering 125 miles each time.\nSo, she will hike a total of 2 * 125 = 250 miles per day.\nTo complete her journey on time, she needs to hike 9,300 miles / 30 days = 300 miles per day.\nTherefore, she needs to hike an additional 300 miles - 250 miles = 50 miles per day.\nThe answer is 50"]}
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["6"], "5", ["6"], "Anna had a budget of $16 and she has already spent $4, so she has $16 - $4 = $12 left in her budget.\nShe also bought 2 books today, and both books cost her the same amount of money, so each book cost $12 / 2 = $6.\nTherefore, each of the books cost $6.\nThe answer is 6"]}
+null
+null
+{"version": "fail_grading_match", "details": [["7"], "5", ["7"], "In Tate's garden pond, there are 4 male guppies + 7 female guppies = 11 guppies in total.\nThere are also 3 male goldfishes + 5 female goldfishes = 8 goldfishes in total.\nAfter Tate buys 2 male guppies + 1 female guppy + 2 male goldfishes + 3 female goldfishes, he has a total of 11 + 2 + 8 + 1 + 2 + 3 = 25 fish in total.\nThe number of female fishes is 7 + 1 + 5 + 3 = 16.\nThe number of male fishes is 4 + 2 + 3 = 9.\nTherefore, Tate has 16 - 9 = 7 more female fishes than male fishes.\nThe answer is 7"]}
+null
+{"version": "fail_grading_match", "details": [["280"], "560", ["280"], "John visits his parents twice a month, so he makes 2 trips per month.\nEach trip takes him 2 hours to drive there at a speed of 70 mph.\nSo, the distance he travels to visit his parents is 2 hours x 70 mph = 140 miles per trip.\nSince he makes 2 trips per month, the total distance he drives in a month is 140 miles x 2 trips = 280 miles.\nThe answer is 280"]}
+null
+{"version": "fail_grading_match", "details": [["0"], "18", ["0"], "In total, the 2 workers who produce 6 toys an hour produce 2 workers * 6 toys/hour = 12 toys/hour.\nThe other 2 workers who produce 4 toys an hour produce 2 workers * 4 toys/hour = 8 toys/hour.\nSo, the total number of toys produced by the 4 workers is 12 toys/hour + 8 toys/hour = 20 toys/hour.\nSince the manufacturer still needs another 20 toys to ship the order, the fifth worker must produce 20 toys/hour - 20 toys/hour = 0 toys/hour.\nTherefore, the fifth worker produces 0 toys per hour.\nThe answer is 0"]}
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["12"], "8", ["12"], "Let's assume that Arnold and Madeline painted x eggs each.\nSo, the total number of eggs painted by Arnold and Madeline is 2x.\nCamden and Sarah painted a total of 30 eggs, but Camden painted 12 more than Sarah.\nLet's assume that Sarah painted y eggs.\nSo, Camden painted y + 12 eggs.\nThe total number of eggs painted by Camden and Sarah is y + (y + 12) = 30.\nCombining like terms, we get 2y + 12 = 30.\nSubtracting 12 from both sides, we get 2y = 18.\nDividing both sides by 2, we get y = 9.\nSo, Sarah painted 9 eggs and Camden painted 9 + 12 = 21 eggs.\nThe difference between the number of eggs painted by Camden and Arnold is 21 - x.\nSince Arnold and Madeline painted the same number of eggs, the difference between the number of eggs painted by Camden and Arnold is also the difference between the number of eggs painted by Camden and Madeline.\nTherefore, the difference between the number of eggs painted by Camden and Arnold is 21 - x = 21 - 9 = 12.\nThe answer is 12"]}
+null
+null
+{"version": "fail_grading_match", "details": [["50000"], "45000", ["50000"], "If Valerie earns $5000 per month, 1/2 of what her brother earns, then her brother earns $5000 * 2 = $10000 per month.\nTheir combined salary is $5000 + $10000 = $15000 per month.\nIf their mother earns twice their combined salary, then their mother earns $15000 * 2 = $30000 per month.\nThe total amount of money they all have together is $5000 + $10000 + $30000 = $50000 per month.\nThe answer is 50000"]}
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["10"], "68", ["10"], "Donny pours 4 ounces of water from the 33-degree mug into his water bottle, so the temperature of the water in the bottle is now 33 - 4 = 29 degrees.\nHe also pours 1 ounce of water from the other bottle into his water bottle, so the temperature of the water in the bottle is now 29 + 1 = 30 degrees.\nSince Donny can only drink water if it's at least 40 degrees, the second bottle must be at least 40 - 30 = 10 degrees.\nTherefore, the second bottle is at least 10 degrees.\nThe answer is 10"]}
+{"version": "fail_grading_match", "details": [["500"], "700", ["500"], "In one week, Milkie Cows brings 20 cows/day x 7 days/week = 140 cows.\nIn one week, Broilers Limited brings 10 chickens/day x 7 days/week = 70 chickens.\nAfter three weeks, Milkie Cows brings a total of 140 cows/week x 3 weeks = 420 cows.\nAfter three weeks, Broilers Limited brings a total of 70 chickens/week x 3 weeks = 210 chickens.\nStarting with 50 cows and 20 chickens, the total number of animals on the farm after three weeks is 50 cows + 420 cows + 20 chickens + 210 chickens = 500 animals.\nThe answer is 500"]}
+null
+{"version": "fail_grading_match", "details": [["54"], "27", ["54"], "Gomer ate 5 less than 23 scoops of mashed potatoes, so he ate 23 - 5 = 18 scoops of mashed potatoes.\nIf it takes 3 less than 6 potatoes to make 1 less than 3 scoops of mashed potatoes, then it takes 6 - 3 = 3 potatoes to make 1 less than 3 scoops of mashed potatoes.\nSo, Gomer ate 18 scoops of mashed potatoes, which is equivalent to 18 * 3 = 54 potatoes.\nThe answer is 54"]}
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["252"], "291", ["252"], "Faraday earns $26 from selling a sunflower each day, so in 3 days, he earns $26 x 3 = $78 from selling sunflowers.\nFaraday earns $56 from selling a bouquet of sunflowers each day, so in 3 days, he earns $56 x 3 = $168 from selling bouquets.\nSince each bouquet has 12 sunflowers, Faraday sells a total of $168 / $8 = 21 bouquets in 3 days.\nTherefore, Faraday sells a total of 21 x 12 = 252 sunflowers in 3 days.\nThe answer is 252"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["75"], "50", ["75"], "First find the total number of babies: 8 babies * 3/4 = 6 babies\nThen find the number of babies wearing purple: 6 babies * 1/4 = 1.5 babies\nThen find the number of babies wearing blue and a bow: 1.5 babies * 1/3 = 0.5 babies\nThen add the number of babies wearing purple and a bow to the number of babies wearing blue and a bow to find the total number of babies wearing a bow: 0.5 babies + 1.5 babies = 2 babies\nThen divide the number of babies wearing purple by the total number of babies wearing a bow and multiply by 100% to express the answer as a percentage: 1.5 babies / 2 babies * 100% = 75%\nThe answer is 75"]}
+null
+{"version": "fail_grading_match", "details": [["140"], "170", ["140"], "Abraham sold half of his land, which is 80/2 = 40 square meters, for $50.\nHe then sold another 1/4 of his land, which is 80/4 = 20 square meters, for $30.\nSo far, he has earned $50 + $30 = $80.\nHe has 80 - 40 - 20 = 20 square meters of land remaining.\nHe sold this remaining land for $3 per square meter, so he earned 20 * $3 = $60.\nIn total, he will be able to earn $80 + $60 = $140 after selling all his unused land.\nThe answer is 140"]}
+null
+{"version": "fail_grading_match", "details": [["24"], "12", ["24"], "If Tyrion goes out three times a day, then he uses 3 x 2 = 6 face masks every day.\nSince he changes his face mask two times every time he goes out, he uses 6 x 2 = 12 face masks every day.\nTherefore, he uses 12 x 2 = 24 face masks every 2 days.\nThe answer is 24"]}
+null
+{"version": "fail_grading_match", "details": [["3120"], "1248", ["3120"], "He collects garbage from 200*2=400 apartments\nThe last place has 400*.6=240 more apartments than the other two combined\nSo it has 400+240=640 apartments\nSo he collects garbage from 400+640=1040 apartments\nThat means he makes 1040*3=$3120 per week\nThe answer is 3120"]}
+{"version": "fail_grading_match", "details": [["1450"], "2350", ["1450"], "At 6 years old, an avocado tree produces 50 x 3 = 150 fruits.\nAt 7 years old, it produces 50 x 7 = 350 fruits.\nAt 8 years old, it produces 350 - 200 = 150 fruits.\nAt 9 years old, it doesn't produce any fruit.\nAt 10 years old, it produces 50 x 20 = 1000 fruits.\nDuring its 10 years of life, an avocado tree can produce 50 + 150 + 350 + 150 + 1000 = 1450 fruits.\nThe answer is 1450"]}
+null
+null
+{"version": "fail_grading_match", "details": [["6"], "2", ["6"], "Rissa was given $5 x 3 = $15.\nShe gave $15 - $4 = $11 to their little sister.\nSo, Ronnie is left with $5 - $11 = -$6.\nThe answer is 6"]}
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["300"], "240", ["300"], "Thomas withdraws $1000 in 20 dollar bills, so he has 1000/20 = 50 bills.\nHe loses 10 bills while getting home, so he has 50 - 10 = 40 bills remaining.\nHe uses half of the remaining bills to pay for a bill, so he uses 40/2 = 20 bills.\nAfter paying the bill, he has 40 - 20 = 20 bills remaining.\nHe then triples his money, so he has 20 * 3 = 60 bills.\nHe converts all his bills to 5 dollar bills, so he has 60 * 5 = 300 5 dollar bills.\nThe answer is 300"]}
+null
+{"version": "fail_grading_match", "details": [["13"], "2", ["13"], "If the teacher used up 45% of the chalk on Monday, that means he has 100% - 45% = 55% of the chalk left.\nIf the teacher tries to use only 20% of the chalk each day, then he has 55% / 20% = 2.75 times the amount of chalk left.\nSince the teacher cannot write with a very small piece of chalk, he will have to recycle the chalk when it is smaller than 2 inches.\nTherefore, the teacher has 2.75 times the amount of chalk left, which is equivalent to 2.75 * 5 inches = 13.75 inches of chalk.\nSince the teacher can only write with a 5-inch piece of chalk, he will have to recycle the chalk when it is smaller than 5 inches.\nTherefore, the teacher has 13.75 inches / 5 inches = 2.75 times the amount of chalk left, which is equivalent to 2.75 * 5 inches = 13.75 inches of chalk.\nSince the teacher can only write with a 5-inch piece of chalk, he will have to recycle the chalk when it is smaller than 5 inches.\nTherefore, the teacher has 13.75 inches / 5 inches = 2.75 times the amount of chalk left, which is equivalent to 2.75 * 5 inches = 13.75 inches of chalk.\nSince the teacher can only write with a 5-inch piece of chalk, he will have to recycle the chalk when it is smaller than 5 inches.\nTherefore, the teacher has 13.75 inches / 5 inches = 2.75 times the amount of chalk left, which is equivalent to 2.75 * 5 inches = 13.75 inches of chalk.\nSince the teacher can only write with a 5-inch piece of chalk, he will have to recycle the chalk when it is smaller than 5 inches.\nTherefore, the teacher has 13.75 inches / 5 inches = 2.75 times the amount of chalk left, which is equivalent to 2.75 * 5 inches = 13.75 inches of chalk.\nSince the teacher can only write with a 5-inch piece of chalk, he will have to recycle the chalk when it is smaller than 5 inches.\nTherefore, the teacher has 13.75 inches / 5 inches = 2.75 times the amount of chalk left, which is equivalent to 2.75 * 5 inches = 13.75 inches of chalk.\nSince the teacher can only write with a 5-inch piece of chalk, he will have to recycle the chalk when it is smaller than 5 inches.\nTherefore, the teacher has 13.75 inches / 5 inches = 2.75 times the amount of chalk left, which is equivalent to 2.75 * 5 inches = 13.75 inches of chalk.\nSince the teacher can only write with a 5-inch piece of chalk, he will have to recycle the chalk when it is smaller than 5 inches.\nTherefore, the teacher has 13.75 inches / 5 inches = 2.75 times the amount of chalk left, which is equivalent to 2.75 * 5 inches = 13.75 inches of chalk.\nSince the teacher can only write with a 5-inch piece of chalk, he will have to recycle the chalk when it is smaller than 5 inches.\nTherefore, the teacher has 13.75 inches / 5 inches = 2.75 times the amount of chalk left, which is equivalent to 2.75 * 5 inches = 13.75 inches of chalk.\nSince the teacher can only write with a 5-inch piece of chalk, he will have to recycle the chalk when it is smaller than 5 inches.\nTherefore, the teacher has 13.75 inches / 5 inches = 2.75 times the amount of chalk left, which is equivalent to 2.75 * 5 inches = 13.75 inches of chalk.\nSince the teacher can only write with a 5-inch piece of chalk, he will have to recycle the chalk when it is smaller than 5 inches.\nTherefore, the teacher has 13.75 inches / 5 inches = 2.75 times the amount of chalk left, which is equivalent to 2.75 * 5 inches = 13.75 inches of chalk.\nSince the teacher can only write with a 5-inch piece of chalk, he will have to recycle the chalk when it is smaller than 5 inches.\nTherefore, the teacher has 13.75 inches / 5 inches = 2.75 times the amount of chalk left, which is equivalent to 2.75 * 5 inches = 13.75 inches of chalk.\nSince the teacher can only write with a 5-inch piece of chalk, he will have to recycle the chalk when it is smaller than 5 inches.\nTherefore, the teacher has 13.75 inches / 5 inches = 2.75 times the amount of chalk left, which is equivalent to 2.75 * 5 inches = 13.75 inches of chalk.\nSince the teacher can only write with a 5-inch piece of chalk, he will have to recycle the chalk when it is smaller than 5 inches.\nTherefore, the teacher has 13.75 inches / 5 inches = 2.75 times the amount of chalk left, which is equivalent to 2.75 * 5 inches = 13.75 inches of chalk.\nSince the teacher can only write with a 5-inch piece of chalk, he will have to recycle the chalk when it is smaller than 5 inches.\nTherefore, the teacher has 13.75 inches / 5 inches = 2.75 times the amount of chalk left, which is equivalent to 2.75 * 5 inches = 13.75 inches of chalk.\nSince the teacher can only write with a 5-inch piece of chalk, he will have to recycle the chalk when it is smaller than 5 inches.\nTherefore, the teacher has 13.75 inches / 5 inches = 2.75 times the amount of chalk left, which is equivalent to 2.75 * 5 inches = 13.75 inches of chalk.\nSince the teacher can only write with a 5-inch piece of chalk, he will have to recycle the chalk when it is smaller than 5 inches.\nTherefore, the teacher has 13.75 inches / 5 inches = 2.75 times the amount of chalk left, which is equivalent to 2.75 * 5 inches = 13.75 inches of chalk.\nSince the teacher can only write with a 5-inch piece of chalk, he will have to recycle the chalk when it is smaller than 5 inches.\nTherefore, the teacher has 13.75 inches / 5 inches = 2.75 times the amount of chalk left, which is equivalent to 2.75 * 5 inches = 13.75 inches of chalk.\nSince the teacher can only write with a 5-inch piece of chalk, he will have to recycle the chalk when it is smaller than 5 inches.\nTherefore, the teacher has 13.75 inches / 5 inches = 2.75 times the amount of chalk left, which is equivalent to 2.75 * 5 inches = 13.75 inches of chalk.\nSince the teacher can only write with a 5-inch piece of chalk, he will have to recycle the chalk when it is smaller than 5 inches.\nTherefore, the teacher has 13.75 inches / 5 inches = 2.75 times the amount of chalk left, which is equivalent to 2.75 * 5 inches = 13.75 inches of chalk.\nSince the teacher can only write with a 5-inch piece of chalk, he will have to recycle the chalk when it is smaller than 5 inches.\nTherefore, the teacher has 13.75 inches / 5 inches = 2.75 times the amount of chalk left, which is equivalent to 2.75 * 5 inches = 13.75 inches of chalk.\nSince the teacher can only write with a 5-inch piece of chalk, he will have to recycle the chalk when it is smaller than 5 inches.\nTherefore, the teacher has 13.75 inches / 5 inches = 2.75 times the amount of chalk left, which is equivalent to 2.75 * 5 inches = 13.75 inches of chalk.\nSince the teacher can only write with a 5-inch piece of chalk, he will have to recycle the chalk when it is smaller than 5 inches.\nTherefore, the teacher has 13.75 inches / 5 inches = 2.75 times the amount of chalk left, which is equivalent to 2.75 * 5 inches = 13.75 inches of chalk.\nSince the teacher can only write with a 5-inch piece of chalk, he will have to recycle the chalk when it is smaller than 5 inches.\nTherefore, the teacher has 13.75 inches / 5 inches = 2.75 times the amount of chalk left, which is equivalent to 2.75 * 5 inches = 13.75 inches of chalk.\nSince the teacher can only write with a 5-inch piece of chalk, he will have to recycle the chalk when it is smaller than 5 inches.\nTherefore, the teacher has 13.75 inches / 5 inches = 2.75 times the amount of chalk left, which is equivalent to 2.75 * 5 inches = 13.75 inches of chalk.\nSince the teacher can only write with a 5-inch piece of chalk, he will have to recycle the chalk when it is smaller than 5 inches.\nTherefore, the teacher has 13"]}
+null
+null
+null
+{"version": "fail_grading_match", "details": [["10500"], "5600", ["10500"], "If the company sold 4000 gallons of milk at $3.5 per gallon, the total cost of the milk was 4000*$3.5 = $14000\nThe amount of milk that had passed the expiry date was 2/5*4000 = 1600 gallons.\nIf the company refunded the cost of the sour milk, Mr. Marcellus received $14000-$3500 = $10500\nThe answer is 10500"]}
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["300"], "5", ["300"], "Jay can build 20 snowballs in an hour, so in 15 minutes he can build 20/4 = 5 snowballs.\nHowever, 2 snowballs melt every 15 minutes, so in 15 minutes he actually has 5 - 2 = 3 snowballs.\nTo have 60 snowballs, he needs to build 60/3 = 20 sets of 15 minutes.\nTherefore, it will take him 20 sets x 15 minutes = 300 minutes.\nThe answer is 300"]}
+{"version": "fail_grading_match", "details": [["34"], "24", ["34"], "If John is 28 now, and he was twice as old as Jim when Digimon came out, then Jim was 28/2 = 14 years old when Digimon came out.\nSince it is the 20th anniversary of Digimon, Jim is now 14 + 20 = 34 years old.\nThe answer is 34"]}
+null
+{"version": "fail_grading_match", "details": [["141"], "19", ["141"], "On the second day, they used 38 - 10 = 28 bandages.\nOn the third day, they used 50 / 2 = 25 bandages.\nThey had 78 + 25 = 103 bandages at the end of the third day.\nThey started with 103 + 38 = 141 bandages on the first day.\nThe answer is 141"]}
+null
+{"version": "fail_grading_match", "details": [["1075"], "280", ["1075"], "Jen works for 7.5 hours a day, 6 days a week, so she works a total of 7.5 * 6 = 45 hours in a week.\nHer hourly rate is $1.5, so she earns 45 * $1.5 = $67.5 in a week.\nJen also receives an additional $10 if she has complete attendance, so she will receive an additional $10 * 4 = $40 for the month of April.\nTherefore, Jen will receive a total of $67.5 + $40 = $107.5.\nThe answer is 1075"]}
+{"version": "fail_grading_match", "details": [["8"], "9", ["8"], "Jason earned $3.00 for doing his laundry once, so he earned 3 * 1 = $3.00\nHe earned $1.50 for cleaning his room once, so he earned 1.50 * 1 = $1.50\nHe earned $0.75 for taking the trash to the curb twice, so he earned 0.75 * 2 = $1.50\nHe earned $0.50 for emptying the dishwasher 6 times, so he earned 0.50 * 6 = $3.00\nIn total, Jason earned 3 + 1.50 + 1.50 + 3 = $8.00\nThe answer is 8"]}
+null
+{"version": "fail_grading_match", "details": [["270"], "320", ["270"], "In the morning, 50 people entered the restaurant.\nAt 10:00, 40 more people entered the restaurant, so the total number of people who entered the restaurant at that time is 50 + 40 = 90.\nAfter a while, twice the number of people who entered the restaurant at 10:00 came in and ordered lunch, so the number of people who came in at that time is 2 * 40 = 80.\nBy evening, an additional 3 times as many people as the number that came in first had entered the restaurant, so the number of people who entered the restaurant at that time is 3 * 50 = 150.\nTherefore, the total number of people that entered the restaurant on that day is 50 + 90 + 80 + 150 = 270.\nThe answer is 270"]}
+{"version": "fail_grading_match", "details": [["35"], "75", ["35"], "Alain's mom bought 5 packs of red pens, so she bought 5 * 5 = 25 red pens.\nShe also bought twice the amount of black pens than the red, so she bought 2 * 5 = 10 black pens.\nIn total, Alain's mom bought 25 + 10 = 35 pens.\nTherefore, Alain has 35 pens.\nThe answer is 35"]}
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["13"], "19", ["13"], "Each eyeshadow palette has 4 colors, so two palettes have a total of 4 x 2 = 8 colors.\nEach makeup set has 6 colors, so three sets have a total of 6 x 3 = 18 colors.\nAmy uses up half of the colors from one makeup set, so she uses 18 / 2 = 9 colors.\nAmy had 8 + 9 = 17 eyeshadow colors in total.\nHer sister steals one of the palettes, so she has 17 - 4 = 13 eyeshadow colors left.\nThe answer is 13"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["25"], "31", ["25"], "For 11 months Stephen will give his sister $25 per month, so he will pay a total of $25 x 11 = $275.\nThe remaining amount that Stephen owes is $300 - $275 = $25.\nStephen promised to return the money with an additional 2% of the money he owed, so he will pay an additional $25 x 2% = $0.50.\nTherefore, Stephen will pay a total of $25 + $0.50 = $25.50 in the twelfth month.\nThe answer is 25"]}
+null
+{"version": "fail_grading_match", "details": [["189"], "36", ["189"], "He estimated 900*.3=270 red jelly beans\nThe jar is 6*6*15=540 cubic inches\nSo he estimated 540*.15=81 jelly beans\nThat means he was 81-270=189 off\nThe answer is 189"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["66"], "90", ["66"], "Karen would pay $35 + $40 = $75 for the basic manicure and pedicure.\nThe salon offers 20% off, so Karen would get a discount of $75 x 20% = $15.\nThus, Karen would pay $75 - $15 = $60 for the basic manicure and pedicure.\nKaren would also pay $3 x 2 = $6 for the nail art on each of her fingers.\nTherefore, Karen would pay a total of $60 + $6 = $66 in all.\nThe answer is 66"]}
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["66.67"], "70", ["66.67"], "To find the mean score, we need to add up all the scores and divide by the number of scores.\nAdding up the scores, we get $50+80+80+60+40+90+100+70+60=600$.\nThere are 9 scores in total, so we divide 600 by 9 to get the mean score.\nTherefore, Sally's mean score is $\\frac{600}{9}=\\boxed{66.67}$.\nThe answer is 66.67"]}
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["37"], "50", ["37"], "There are 80 classrooms and it takes 15 minutes per classroom, so it will take 80 * 15 = 1200 minutes to clean all the classrooms.\nThere are 5 days to clean the school, so they will spend 1200 / 5 = 240 minutes cleaning classrooms each day.\nThere are 8 hours in a day, so they will spend 240 / 8 = 30 minutes cleaning classrooms on average each day.\nTo find the percentage of their day spent cleaning classrooms, we divide the time spent cleaning classrooms by the total time in a day and multiply by 100.\nSo, the percentage is (30 / 8) * 100 = 37.5%\nThe answer is 37"]}
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["375"], "750", ["375"], "For every 25 telephone calls, Jason gets one person to come into the car dealership.\nSo, for every 25 calls, he gets 1 person to come in.\nFor every 2 customers that come into the car dealership, one will buy a car.\nSo, for every 2 customers, 1 will buy a car.\nTo sell 15 cars, Jason needs to get 15/1 = 15 customers to buy a car.\nTo get 15 customers, he needs to make 15/1 = 15 sets of 25 telephone calls.\nSo, Jason needs to make 15 sets of 25 calls, which is 15 * 25 = 375 telephone calls.\nThe answer is 375"]}
+{"version": "fail_grading_match", "details": [["64"], "56", ["64"], "There are 8 rooms in the house and 4 people living there, including Brianna. So, there are 8 + 4 = 12 people in total.\nThey have a flashlight for every person to carry, so they have 12 flashlights.\nThey also have two flashlights for each room, so they have 8 x 2 = 16 flashlights for the rooms.\nIn total, they have 12 + 16 = 28 flashlights.\nThey have 4 small candles each for half the rooms, so they have 4 x 4 = 16 small candles.\nThey also have 5 medium candles each for the other half of the rooms, so they have 5 x 4 = 20 medium candles.\nIn total, they have 16 + 20 = 36 candles.\nTherefore, Brianna's family is using 28 flashlights + 36 candles = 64 candles and flashlights when the lights go out.\nThe answer is 64"]}
+null
+{"version": "fail_grading_match", "details": [["31"], "30", ["31"], "It takes 5*2=10 minutes to get to the second side\nIt takes 5*2=10 minutes to get to the third side\nIt takes 5/2=2.5 minutes to get to the fourth side\nIt takes 5/2=2.5 minutes to get to the fifth side\nSo in total it takes 5+10+10+2.5+2.5=30 minutes to get to the fifth side\nOnce you get to the fifth side it takes 1 minute to get to the sixth side\nSo in total it takes 30+1=31 minutes to get to the sixth side\nThe answer is 31"]}
+{"version": "fail_grading_match", "details": [["35"], "70", ["35"], "If there were 20 helmets, then there were 20/2 = 10 robots.\nAnd if there were 10 robots, then there were 10/2 = 5 footballs.\nIn total, Dominick saw 20 helmets + 10 robots + 5 footballs = 35 items.\nThe answer is 35"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["8"], "12", ["8"], "His new speed is 150*2.5=375 WPM\nSo he can speak 375*10=3750 words\nThat means he can speak 3750/450=8.33 pages\nThe answer is 8"]}
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["234"], "54", ["234"], "Elvis travels west for 5 hours at a speed of 18mph, so he covers a distance of 5 * 18 = 90 miles.\nThen he turns around and travels east for 8 hours at a speed of 18mph, so he covers a distance of 8 * 18 = 144 miles.\nIn total, Elvis has traveled a distance of 90 + 144 = 234 miles.\nSince he started at his house, he is now 234 miles away from his house.\nThe answer is 234"]}
+{"version": "fail_grading_match", "details": [["504"], "3528", ["504"], "After the first year, the boat depreciated 30%, so it is worth 100% - 30% = 70% of its original value.\n70% of $9000 is 0.70 * $9000 = $6300.\nAfter the second year, the boat depreciated another 30%, so it is worth 70% - 30% = 40% of its original value.\n40% of $6300 is 0.40 * $6300 = $2520.\nAfter the third year, the boat depreciated 20%, so it is worth 40% - 20% = 20% of its original value.\n20% of $2520 is 0.20 * $2520 = $504.\nThe boat is worth $504 after the three years.\nThe answer is 504"]}
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["15"], "16", ["15"], "He has two children who weigh 75*2=150 pounds\nSo the total weight is 1200+250+150=1500 pounds\nSo he needs to push 1500*.01=15 pounds\nThe answer is 15"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["1620"], "34", ["1620"], "Charisma meditates for 15 minutes every day, so in a week, she meditates for 15 minutes x 7 days = 105 minutes.\nShe also practices 1 hour of yoga 5 days a week, so in a week, she practices 1 hour x 5 days = 5 hours.\nIn 4 weeks, she meditates for 105 minutes x 4 weeks = 420 minutes.\nIn 4 weeks, she practices 5 hours x 4 weeks = 20 hours.\nTherefore, in 4 weeks, Charisma spends a total of 420 minutes + 20 hours = 420 minutes + 20 hours x 60 minutes = 420 minutes + 1200 minutes = 1620 minutes.\nThe answer is 1620"]}
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["32"], "36", ["32"], "Jake buys 2 T-shirts, so the total cost of the T-shirts is 2 * $8 = $16.\nWith the buy one get one 50% off deal, Jake gets a discount of 50% * $16 = $8 on the T-shirts.\nSo, Jake pays $16 - $8 = $8 for the T-shirts.\nJake also buys a pair of shoes that is 40% off the original price, which is 40% * $40 = $16 off.\nSo, Jake pays $40 - $16 = $24 for the shoes.\nTherefore, the total amount of money Jake spends at the store is $8 + $24 = $32.\nThe answer is 32"]}
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["96"], "120", ["96"], "Josh services 3 cars a day, so in a week, he services 3 cars/day x 4 days/week = 12 cars.\nHe is open every day of the week except Sunday and Wednesday, so he is open for 7 days - 2 days = 5 days in a week.\nTherefore, in a week, he makes $4/car x 12 cars = $48.\nIn 2 weeks, he makes $48/week x 2 weeks = $96.\nThe answer is 96"]}
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["2330"], "2325", ["2330"], "They have made 2595 + 3075 = 5665 cookies that are not chocolate chip.\nTherefore, they have made 7995 - 5665 = 2330 chocolate chip cookies.\nThe answer is 2330"]}
+null
+null
+null
+{"version": "fail_grading_match", "details": [["1980"], "2280", ["1980"], "Alexandra raises $430.\nKim raises $320 more than Alexandra, so Kim raises $430 + $320 = $750.\nSarah raises $300.\nMaryam raises $400 more than Sarah, so Maryam raises $300 + $400 = $700.\nIn total, they raised $430 + $750 + $300 + $700 = $1980.\nThe answer is 1980"]}
+{"version": "fail_grading_match", "details": [["8"], "64", ["8"], "If Aaron completed his part of the race in 16 minutes, and Vanessa ran twice as far as Aaron did, then Vanessa ran 4 miles in 16 minutes.\nSince Aaron was able to run each mile twice as fast as Vanessa, then Vanessa ran 4 miles at a speed of 1/2 mile per minute.\nTherefore, Vanessa took 4 miles / (1/2 mile per minute) = 8 minutes to complete her part of the race.\nThe answer is 8"]}
+null
+null
+null
+{"version": "fail_grading_match", "details": [["32"], "8", ["32"], "If Dora will turn 12 in 3 years, then she is currently 12 - 3 = 9 years old.\nIf James is currently twice as old as Dora, then James is 9 * 2 = 18 years old.\nIf John had a son James when he was 19, then John is currently 19 + 18 = 37 years old.\nIf John's youngest son was born when John was 32, then his youngest son is currently 32 - 3 = 29 years old.\nIn 3 years, John's youngest son will be 29 + 3 = 32 years old.\nThe answer is 32"]}
+{"version": "fail_grading_match", "details": [["0"], "5", ["0"], "In one minute, Ana can peel 1 orange.\nIn one hour, Ana can peel 60 minutes x 1 orange/minute = 60 oranges.\nIn one minute, Jane can peel 1 orange.\nIn one hour, Jane can peel 60 minutes x 1 orange/minute = 60 oranges.\nTherefore, Ana will have 60 - 60 = 0 more oranges than Jane after an hour.\nThe answer is 0"]}
+{"version": "fail_grading_match", "details": [["470"], "230", ["470"], "He got the radiator for 400*.8=$320\nThe labor cost 50*3=$150\nSo in total he paid 320+150=$470\nThe answer is 470"]}
+{"version": "fail_grading_match", "details": [["10"], "5", ["10"], "Let's assume the number of chickens is C and the number of cows is C.\nEach chicken has 2 legs, so the total number of legs from chickens is 2C.\nEach cow has 4 legs, so the total number of legs from cows is 4C.\nThe total number of legs is 70, so we can write the equation 2C + 4C = 70.\nCombining like terms, we get 6C = 70.\nDividing both sides by 6, we get C = 10.\nTherefore, there are 10 chickens on the farm.\nThe answer is 10"]}
+null

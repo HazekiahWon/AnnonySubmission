@@ -1,0 +1,1319 @@
+null
+null
+{"version": "fail_code_result_match", "details": ["65000", "70000", "65000.0", "\n# define the initial cost of the house and the repair cost\ninitial_cost = 80000\nrepair_cost = 50000\n\n# calculate the total cost\ntotal_cost = initial_cost + repair_cost\n\n# calculate the increase in value of the house\nincrease_in_value = total_cost * 1.5\n\n# calculate the profit\nprofit = increase_in_value - total_cost\n\n# print the profit\nprint(profit)\n", "Let's write a program.\n```python\n# define the initial cost of the house and the repair cost\ninitial_cost = 80000\nrepair_cost = 50000\n\n# calculate the total cost\ntotal_cost = initial_cost + repair_cost\n\n# calculate the increase in value of the house\nincrease_in_value = total_cost * 1.5\n\n# calculate the profit\nprofit = increase_in_value - total_cost\n\n# print the profit\nprint(profit)\n```"]}
+{"version": "fail_grading_match", "details": [["180"], "540", ["180"], "Let's reason step by step.\nHe runs 60*3=180 meters per week\nThe answer is 180"]}
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["120", "160", "120.0", "\n# define the variables\ntotal_size = 200  # in GB\nnormal_rate = 2  # in GB/minute\nrestart_time = 20  # in minutes\npercentage_downloaded = 0.4\n\n# calculate the time to download 40% of the file\ntime_downloaded = total_size * percentage_downloaded / normal_rate\n\n# calculate the time to download the remaining 60% of the file\ntime_remaining = (total_size - total_size * percentage_downloaded) / normal_rate\n\n# calculate the total time\ntotal_time = time_downloaded + restart_time + time_remaining\n\nprint(total_time)\n", "Let's write a program.\n```python\n# define the variables\ntotal_size = 200  # in GB\nnormal_rate = 2  # in GB/minute\nrestart_time = 20  # in minutes\npercentage_downloaded = 0.4\n\n# calculate the time to download 40% of the file\ntime_downloaded = total_size * percentage_downloaded / normal_rate\n\n# calculate the time to download the remaining 60% of the file\ntime_remaining = (total_size - total_size * percentage_downloaded) / normal_rate\n\n# calculate the total time\ntotal_time = time_downloaded + restart_time + time_remaining\n\nprint(total_time)\n```"]}
+null
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["12", "13", "12.0", "\n# define the initial cost, yearly income and yearly cost\ninitial_cost = 90\nyearly_income = 7 * 1.5\nyearly_cost = 3\n\n# calculate the number of years\nyears = initial_cost / (yearly_income - yearly_cost)\n\n# print the result\nprint(years)\n", "Let's write a program.\n```python\n# define the initial cost, yearly income and yearly cost\ninitial_cost = 90\nyearly_income = 7 * 1.5\nyearly_cost = 3\n\n# calculate the number of years\nyears = initial_cost / (yearly_income - yearly_cost)\n\n# print the result\nprint(years)\n```"]}
+{"version": "fail_code_result_match", "details": ["36", "18", "36", "\n# define the number of vacuum cleaners left\nvacuum_cleaners_left = 5\n\n# calculate the number of vacuum cleaners before the orange house sale\nvacuum_cleaners_before_orange = vacuum_cleaners_left * 2\n\n# calculate the number of vacuum cleaners before the red house sale\nvacuum_cleaners_before_red = vacuum_cleaners_before_orange + 2\n\n# calculate the number of vacuum cleaners at the start\nvacuum_cleaners_start = vacuum_cleaners_before_red * 3\n\n# print the result\nprint(vacuum_cleaners_start)\n", "Let's write a program.\n```python\n# define the number of vacuum cleaners left\nvacuum_cleaners_left = 5\n\n# calculate the number of vacuum cleaners before the orange house sale\nvacuum_cleaners_before_orange = vacuum_cleaners_left * 2\n\n# calculate the number of vacuum cleaners before the red house sale\nvacuum_cleaners_before_red = vacuum_cleaners_before_orange + 2\n\n# calculate the number of vacuum cleaners at the start\nvacuum_cleaners_start = vacuum_cleaners_before_red * 3\n\n# print the result\nprint(vacuum_cleaners_start)\n```"]}
+null
+null
+{"version": "fail_code_result_match", "details": ["460", "230", "460", "\n# define the distances covered in each direction\ndistance_west = 80\ndistance_north = 150\n\n# calculate the total distance covered by each train\ntotal_distance = 2 * (distance_west + distance_north)\n\n# print the result\nprint(total_distance)\n", "Let's write a program.\n```python\n# define the distances covered in each direction\ndistance_west = 80\ndistance_north = 150\n\n# calculate the total distance covered by each train\ntotal_distance = 2 * (distance_west + distance_north)\n\n# print the result\nprint(total_distance)\n```"]}
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["14.666666666666666", "15", "14.666666666666666", "\n# define the initial quantities\norange_drink = 10\npineapple_drink = 15\n# define the water content in each drink\nwater_content_orange = 2/3\nwater_content_pineapple = 3/5\n# calculate the amount of water in each drink\nwater_orange = orange_drink * water_content_orange\nwater_pineapple = pineapple_drink * water_content_pineapple\n# calculate the total amount of water\ntotal_water = water_orange + water_pineapple\n# subtract the spilled water\ntotal_water -= 1\n# print the result\nprint(total_water)\n", "Let's write a program.\n```python\n# define the initial quantities\norange_drink = 10\npineapple_drink = 15\n# define the water content in each drink\nwater_content_orange = 2/3\nwater_content_pineapple = 3/5\n# calculate the amount of water in each drink\nwater_orange = orange_drink * water_content_orange\nwater_pineapple = pineapple_drink * water_content_pineapple\n# calculate the total amount of water\ntotal_water = water_orange + water_pineapple\n# subtract the spilled water\ntotal_water -= 1\n# print the result\nprint(total_water)\n```"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["15"], "75", ["15"], "Let's reason step by step.\nHe eats 2*30=60 yogurts\nSo he spends 60/4=$15.00\nThe answer is 15"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["-117", "163", "-117", "\n# define the variables\ntotal_notes = 80\nused_notes = 220\nremaining_notes = 23\n\n# calculate the number of notes in the package\npackage_notes = total_notes + remaining_notes - used_notes\n\n# print the result\nprint(package_notes)\n", "Let's write a program.\n```python\n# define the variables\ntotal_notes = 80\nused_notes = 220\nremaining_notes = 23\n\n# calculate the number of notes in the package\npackage_notes = total_notes + remaining_notes - used_notes\n\n# print the result\nprint(package_notes)\n```"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["34166.666666666664", "25000", "34166.666666666664", "\n# define the variables\ntotal_years = 40\nannual_pension = 50000\nyears_of_pension = 20\npercentage_of_pension = 0.05\n\n# calculate the annual pension for the first 20 years\nannual_pension_first_20_years = annual_pension\n\n# calculate the annual pension for the next 10 years\nannual_pension_next_10_years = annual_pension * percentage_of_pension\n\n# calculate the total annual pension for 30 years\ntotal_annual_pension = annual_pension_first_20_years * 20 + annual_pension_next_10_years * 10\n\n# calculate the annual pension for the 30 years\nannual_pension_30_years = total_annual_pension / 30\n\nprint(annual_pension_30_years)\n", "Let's write a program.\n```python\n# define the variables\ntotal_years = 40\nannual_pension = 50000\nyears_of_pension = 20\npercentage_of_pension = 0.05\n\n# calculate the annual pension for the first 20 years\nannual_pension_first_20_years = annual_pension\n\n# calculate the annual pension for the next 10 years\nannual_pension_next_10_years = annual_pension * percentage_of_pension\n\n# calculate the total annual pension for 30 years\ntotal_annual_pension = annual_pension_first_20_years * 20 + annual_pension_next_10_years * 10\n\n# calculate the annual pension for the 30 years\nannual_pension_30_years = total_annual_pension / 30\n\nprint(annual_pension_30_years)\n```"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["726", "9360", "726.0", "\ninitial_salary = 600\nyears_of_service = 5\nsalary_increase = 0.10\nadditional_years = 3\n\n# calculate Sylvie's salary after 5 years\nsalary_after_5_years = initial_salary + (initial_salary * salary_increase)\n\n# calculate Sylvie's salary after 8 years\nsalary_after_8_years = salary_after_5_years + (salary_after_5_years * salary_increase)\n\nprint(salary_after_8_years)\n", "Let's write a program.\n```python\ninitial_salary = 600\nyears_of_service = 5\nsalary_increase = 0.10\nadditional_years = 3\n\n# calculate Sylvie's salary after 5 years\nsalary_after_5_years = initial_salary + (initial_salary * salary_increase)\n\n# calculate Sylvie's salary after 8 years\nsalary_after_8_years = salary_after_5_years + (salary_after_5_years * salary_increase)\n\nprint(salary_after_8_years)\n```"]}
+null
+{"version": "fail_code_result_match", "details": ["18", "24", "18.0", "\n# define the variables\ntotal_guests = 16\nno_show_rate = 1/4\ncost_per_bag = 2\n\n# calculate the number of guests who will show up\nshow_up_guests = total_guests * (1 - no_show_rate)\n\n# calculate the number of gift bags needed\ngift_bags_needed = show_up_guests * 0.75\n\n# calculate the total cost\ntotal_cost = gift_bags_needed * cost_per_bag\n\n# print the result\nprint(total_cost)\n", "Let's write a program.\n```python\n# define the variables\ntotal_guests = 16\nno_show_rate = 1/4\ncost_per_bag = 2\n\n# calculate the number of guests who will show up\nshow_up_guests = total_guests * (1 - no_show_rate)\n\n# calculate the number of gift bags needed\ngift_bags_needed = show_up_guests * 0.75\n\n# calculate the total cost\ntotal_cost = gift_bags_needed * cost_per_bag\n\n# print the result\nprint(total_cost)\n```"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["20", "26", "20", "\n# define the number of glasses John drinks per day\nglasses_per_day = 4\n# define the number of weekdays\nweekdays = 5\n# calculate the total number of glasses in a week\ntotal_glasses = glasses_per_day * weekdays\nprint(total_glasses)\n", "Let's write a program.\n```python\n# define the number of glasses John drinks per day\nglasses_per_day = 4\n# define the number of weekdays\nweekdays = 5\n# calculate the total number of glasses in a week\ntotal_glasses = glasses_per_day * weekdays\nprint(total_glasses)\n```"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["96000", "95200", "96000.0", "\n# define the initial salaries\nadrien_salary_4_years_ago = 40000\nlylah_salary_4_years_ago = adrien_salary_4_years_ago / 1.3\n\n# calculate the salaries 4 years later\nadrien_salary_4_years_later = adrien_salary_4_years_ago * 1.4\nlylah_salary_4_years_later = lylah_salary_4_years_ago * 1.3\n\n# calculate the total salary\ntotal_salary = adrien_salary_4_years_later + lylah_salary_4_years_later\n\nprint(total_salary)\n", "Let's write a program.\n```python\n# define the initial salaries\nadrien_salary_4_years_ago = 40000\nlylah_salary_4_years_ago = adrien_salary_4_years_ago / 1.3\n\n# calculate the salaries 4 years later\nadrien_salary_4_years_later = adrien_salary_4_years_ago * 1.4\nlylah_salary_4_years_later = lylah_salary_4_years_ago * 1.3\n\n# calculate the total salary\ntotal_salary = adrien_salary_4_years_later + lylah_salary_4_years_later\n\nprint(total_salary)\n```"]}
+null
+null
+{"version": "fail_grading_match", "details": [["27"], "48", ["27"], "Let's reason step by step.\nOn Tuesday and Wednesday, Sadie slept 8 - 2 = 6 hours each day.\nOn Thursday, she slept 6 + 1 = 7 hours.\nIn total, Sadie slept 8 + 6 + 6 + 7 = 27 hours throughout the week.\nThe answer is 27"]}
+null
+null
+{"version": "fail_code_result_match", "details": ["4", "10", "4", "\n# define the variables\ntotal_spoons = 12\nused_spoons = 3\nhusband_spoons = 5\n\n# calculate the number of spoons Julia bought\njulia_spoons = total_spoons - used_spoons - husband_spoons\n\n# print the result\nprint(julia_spoons)\n", "Let's write a program.\n```python\n# define the variables\ntotal_spoons = 12\nused_spoons = 3\nhusband_spoons = 5\n\n# calculate the number of spoons Julia bought\njulia_spoons = total_spoons - used_spoons - husband_spoons\n\n# print the result\nprint(julia_spoons)\n```"]}
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["24"], "60", ["24"], "Let's reason step by step.\nThey rode the roller coaster 2 + 4 = 6 times.\nThey used 6 x 2 = 12 tickets to ride the roller coaster.\nThey used 12 + 2 x 6 = 24 tickets in all.\nThe answer is 24"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["16.3", "16", "16.3", "\n# define the cost of each item\nmilk = 2\neggs = 3\nlight_bulbs = 3\ncups = 3\nroach_traps = 4\n\n# calculate the total cost of nonfood items\nnonfood_items = eggs + light_bulbs + cups + roach_traps\n\n# calculate the tax\ntax = nonfood_items * 0.1\n\n# calculate the total cost\ntotal_cost = milk + nonfood_items + tax\n\n# print the total cost\nprint(total_cost)\n", "Let's write a program.\n```python\n# define the cost of each item\nmilk = 2\neggs = 3\nlight_bulbs = 3\ncups = 3\nroach_traps = 4\n\n# calculate the total cost of nonfood items\nnonfood_items = eggs + light_bulbs + cups + roach_traps\n\n# calculate the tax\ntax = nonfood_items * 0.1\n\n# calculate the total cost\ntotal_cost = milk + nonfood_items + tax\n\n# print the total cost\nprint(total_cost)\n```"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["34", "48", "34", "\n# define the variables\ndave_ate = 14\nseagull_ate = dave_ate / 2\npigeons_ate = 3 * 3\nracoon_ate = 2/3\nants_ate = 1\nremaining_fries = 5\n\n# calculate the total number of fries\ntotal_fries = (dave_ate + seagull_ate + pigeons_ate + racoon_ate * remaining_fries + ants_ate)\nprint(int(total_fries))\n", "Let's write a program.\n```python\n# define the variables\ndave_ate = 14\nseagull_ate = dave_ate / 2\npigeons_ate = 3 * 3\nracoon_ate = 2/3\nants_ate = 1\nremaining_fries = 5\n\n# calculate the total number of fries\ntotal_fries = (dave_ate + seagull_ate + pigeons_ate + racoon_ate * remaining_fries + ants_ate)\nprint(int(total_fries))\n```"]}
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["280", "80", "280", "\n# define the distance each person runs\nblake_distance = 15 * 2 * 100  # yards\nkelly_distance = 34 * 2 * 40  # yards\n\n# calculate the difference\ndifference = abs(blake_distance - kelly_distance)\n\n# print the result\nprint(difference)\n", "Let's write a program.\n```python\n# define the distance each person runs\nblake_distance = 15 * 2 * 100  # yards\nkelly_distance = 34 * 2 * 40  # yards\n\n# calculate the difference\ndifference = abs(blake_distance - kelly_distance)\n\n# print the result\nprint(difference)\n```"]}
+null
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["532.4666656177045", "92", "532.4666656177045", "\n# define the initial price and the increase rate\ninitial_price = 20\nincrease_rate = 0.2\n\n# calculate the price after 36 months\nprice_after_36_months = initial_price * ((1 + increase_rate) ** (36 / 2))\n\n# print the result\nprint(price_after_36_months)\n", "Let's write a program.\n```python\n# define the initial price and the increase rate\ninitial_price = 20\nincrease_rate = 0.2\n\n# calculate the price after 36 months\nprice_after_36_months = initial_price * ((1 + increase_rate) ** (36 / 2))\n\n# print the result\nprint(price_after_36_months)\n```"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["43", "51", "43", "\n# define the ages of the birds\nsally_two = 8 + 3\ngranny_red = 2 * 8\nsally_four = 8\nsally_thirtytwo = 8\n\n# calculate the total age\ntotal_age = sally_two + granny_red + sally_four + sally_thirtytwo\n\n# print the result\nprint(total_age)\n", "Let's write a program.\n```python\n# define the ages of the birds\nsally_two = 8 + 3\ngranny_red = 2 * 8\nsally_four = 8\nsally_thirtytwo = 8\n\n# calculate the total age\ntotal_age = sally_two + granny_red + sally_four + sally_thirtytwo\n\n# print the result\nprint(total_age)\n```"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["22"], "23", ["22"], "Let's reason step by step.\nIf Jan is 30, then half of Jan's age is 30/2 = 15\nTwo years ago, Mark was 5 years older than half Jan's age, so Mark was 15+5 = 20 years old\nSince Jean is two years older than Mark, Jean is 20+2 = 22 years old\nThe answer is 22"]}
+null
+null
+null
+{"version": "fail_execution", "details": ["name 'strawberry_per_rabbit' is not defined", "\n# define the variables\ntotal_straw = 160\nstraw_per_rabbit = 20\nstraw_per_rabbit_cage = 5\nstraw_per_rat = 6\n\n# calculate the total number of rabbits\ntotal_rabbits = (total_straw - strawberry_per_rabbit) / strawberry_per_rabbit_cage\n\n# calculate the total number of rats\ntotal_rats = total_rabbits / 3\n\n# calculate the number of rats in each cage\nrats_per_cage = total_rats / 3\n\nprint(int(rats_per_cage))\n", "Let's write a program.\n```python\n# define the variables\ntotal_straw = 160\nstraw_per_rabbit = 20\nstraw_per_rabbit_cage = 5\nstraw_per_rat = 6\n\n# calculate the total number of rabbits\ntotal_rabbits = (total_straw - strawberry_per_rabbit) / strawberry_per_rabbit_cage\n\n# calculate the total number of rats\ntotal_rats = total_rabbits / 3\n\n# calculate the number of rats in each cage\nrats_per_cage = total_rats / 3\n\nprint(int(rats_per_cage))\n```"]}
+{"version": "fail_code_result_match", "details": ["106.12080000000002", "106", "106.12080000000002", "\n# define the initial amount, interest rate and time\ninitial_amount = 100\ninterest_rate = 0.02\ntime = 3\n\n# calculate the final amount\nfinal_amount = initial_amount * (1 + interest_rate) ** time\n\n# print the result\nprint(final_amount)\n", "Let's write a program.\n```python\n# define the initial amount, interest rate and time\ninitial_amount = 100\ninterest_rate = 0.02\ntime = 3\n\n# calculate the final amount\nfinal_amount = initial_amount * (1 + interest_rate) ** time\n\n# print the result\nprint(final_amount)\n```"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["40", "31", "40", "\n# define the variables\nsandwiches_per_day = 1\ncheese_per_sandwich = 2\nbreakfast_days = 3\ncheese_per_omelet = cheese_per_sandwich + 1\nmacaroni_cheese = 8\n\n# calculate the total cheese used\ntotal_cheese = (sandwiches_per_day * cheese_per_sandwich * 7) + (breakfast_days * cheese_per_omelet * 2) + macaroni_cheese\n\n# print the result\nprint(total_cheese)\n", "Let's write a program.\n```python\n# define the variables\nsandwiches_per_day = 1\ncheese_per_sandwich = 2\nbreakfast_days = 3\ncheese_per_omelet = cheese_per_sandwich + 1\nmacaroni_cheese = 8\n\n# calculate the total cheese used\ntotal_cheese = (sandwiches_per_day * cheese_per_sandwich * 7) + (breakfast_days * cheese_per_omelet * 2) + macaroni_cheese\n\n# print the result\nprint(total_cheese)\n```"]}
+null
+{"version": "fail_code_result_match", "details": ["120", "98", "120", "\n# define the scores of the first five tests\nscores = [89, 71, 92, 100, 86]\n\n# calculate the current average\ncurrent_average = sum(scores) / len(scores)\n\n# calculate the score needed on the sixth test to get an average of 93\nscore_needed = 93 * 6 - sum(scores)\n\n# print the result\nprint(score_needed)\n", "Let's write a program.\n```python\n# define the scores of the first five tests\nscores = [89, 71, 92, 100, 86]\n\n# calculate the current average\ncurrent_average = sum(scores) / len(scores)\n\n# calculate the score needed on the sixth test to get an average of 93\nscore_needed = 93 * 6 - sum(scores)\n\n# print the result\nprint(score_needed)\n```"]}
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["7.5", "145", "7.5", "\n# define the cost of half a dozen plates\ncost_of_half_dozen_plates = 6000 * 0.5\n# define the cost of twenty dozen cups\ncost_of_twenty_dozen_cups = cost_of_half_dozen_plates - 1200\n# calculate the cost of each cup\ncost_of_each_cup = cost_of_twenty_dozen_cups / (20 * 12)\n# print the result\nprint(cost_of_each_cup)\n", "Let's write a program.\n```python\n# define the cost of half a dozen plates\ncost_of_half_dozen_plates = 6000 * 0.5\n# define the cost of twenty dozen cups\ncost_of_twenty_dozen_cups = cost_of_half_dozen_plates - 1200\n# calculate the cost of each cup\ncost_of_each_cup = cost_of_twenty_dozen_cups / (20 * 12)\n# print the result\nprint(cost_of_each_cup)\n```"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["30", "31", "30", "\n# define the initial number of pens\ninitial_pens = 25\n# calculate the number of new pens made from the ink of the old pens\nnew_pens = initial_pens // 5\n# calculate the total number of pens\ntotal_pens = initial_pens + new_pens\nprint(total_pens)\n", "Let's write a program.\n```python\n# define the initial number of pens\ninitial_pens = 25\n# calculate the number of new pens made from the ink of the old pens\nnew_pens = initial_pens // 5\n# calculate the total number of pens\ntotal_pens = initial_pens + new_pens\nprint(total_pens)\n```"]}
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["14", "7", "14", "\n# define the variables\nsnails_in_first_aquarium = 4\nsnails_in_second_aquarium = 32\n\n# calculate the difference in the number of snails\ndifference_in_snails = snails_in_second_aquarium - snails_in_first_aquarium\n\n# the difference in the number of snails is twice the number of fish in both aquariums\n# so, the number of fish in each aquarium is half the difference in snails\nnumber_of_fish_in_each_aquarium = difference_in_snails / 2\n\n# print the result\nprint(int(number_of_fish_in_each_aquarium))\n", "Let's write a program.\n```python\n# define the variables\nsnails_in_first_aquarium = 4\nsnails_in_second_aquarium = 32\n\n# calculate the difference in the number of snails\ndifference_in_snails = snails_in_second_aquarium - snails_in_first_aquarium\n\n# the difference in the number of snails is twice the number of fish in both aquariums\n# so, the number of fish in each aquarium is half the difference in snails\nnumber_of_fish_in_each_aquarium = difference_in_snails / 2\n\n# print the result\nprint(int(number_of_fish_in_each_aquarium))\n```"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["71", "91", "71.0", "\n# define the time it takes for each step\nwarm_up_time = 20\nheating_time = warm_up_time * 1.4\ncooking_time = heating_time - 5\n\n# calculate total time\ntotal_time = warm_up_time + heating_time + cooking_time\n\nprint(total_time)\n", "Let's write a program.\n```python\n# define the time it takes for each step\nwarm_up_time = 20\nheating_time = warm_up_time * 1.4\ncooking_time = heating_time - 5\n\n# calculate total time\ntotal_time = warm_up_time + heating_time + cooking_time\n\nprint(total_time)\n```"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["400", "500", "400", "\n# define the initial bid and the increment\ninitial_bid = 200\nincrement = 50\n\n# calculate the total cost\ntotal_cost = initial_bid + 3*increment + increment\n\nprint(total_cost)\n", "Let's write a program.\n```python\n# define the initial bid and the increment\ninitial_bid = 200\nincrement = 50\n\n# calculate the total cost\ntotal_cost = initial_bid + 3*increment + increment\n\nprint(total_cost)\n```"]}
+null
+null
+{"version": "fail_grading_match", "details": [["16"], "8", ["16"], "Let's reason step by step.\nWe can see that each piece of paper is used to print two pages.\nTherefore, for a 32-page tabloid, we would need $\\frac{32}{2} = \\boxed{16}$ pieces of paper.\nThe answer is 16"]}
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["8"], "16", ["8"], "Let's reason step by step.\nIf Joey loses 8 pounds in 4 weeks, then he loses 8/4 = 2 pounds per week.\nSince Sandy needs 4 weeks to lose the same amount of weight that Joey loses in a single week,\nit will take Sandy 4 * 2 = 8 weeks to lose the same amount of weight.\nThe answer is 8"]}
+null
+null
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["9000000", "120000", "9000000.0", "\n# define the variables\nCera_current_age = 46\nNoah_age_six_years_ago = 3000\n\n# calculate Noah's age six years ago\nNoah_age_six_years_ago = Noah_age_six_years_ago / 2\n\n# calculate Noah's current age\nNoah_current_age = Noah_age_six_years_ago + 6\n\n# calculate Cera's age six years ago\nCera_age_six_years_ago = Noah_age_six_years_ago * 2\n\n# calculate the population of Chile six years ago\npopulation_six_years_ago = Noah_age_six_years_ago * 3000\n\n# calculate the current population of Chile\npopulation_now = population_six_years_ago * 2\n\nprint(population_now)\n", "Let's write a program.\n```python\n# define the variables\nCera_current_age = 46\nNoah_age_six_years_ago = 3000\n\n# calculate Noah's age six years ago\nNoah_age_six_years_ago = Noah_age_six_years_ago / 2\n\n# calculate Noah's current age\nNoah_current_age = Noah_age_six_years_ago + 6\n\n# calculate Cera's age six years ago\nCera_age_six_years_ago = Noah_age_six_years_ago * 2\n\n# calculate the population of Chile six years ago\npopulation_six_years_ago = Noah_age_six_years_ago * 3000\n\n# calculate the current population of Chile\npopulation_now = population_six_years_ago * 2\n\nprint(population_now)\n```"]}
+null
+null
+null
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["7", "8", "7", "\n# total number of people at the beginning\ntotal_people = 25 + 15\n\n# number of people left after an hour\npeople_left = total_people / 4\n\n# number of men left\nmen_left = 25 - 22\n\n# number of women left\nwomen_left = people_left - men_left\n\nprint(int(women_left))\n", "Let's write a program.\n```python\n# total number of people at the beginning\ntotal_people = 25 + 15\n\n# number of people left after an hour\npeople_left = total_people / 4\n\n# number of men left\nmen_left = 25 - 22\n\n# number of women left\nwomen_left = people_left - men_left\n\nprint(int(women_left))\n```"]}
+null
+{"version": "fail_grading_match", "details": [["7"], "9", ["7"], "Let's reason step by step.\nIf Jam has 26 pencils and 2 of them are loose, then she has 26 - 2 = 24 pencils in the boxes.\nIf Meg has 46 pencils, then together they have 24 + 46 = 70 pencils.\nIf each box can hold 10 pencils, then they will need 70 / 10 = 7 boxes to store all their pencils.\nThe answer is 7"]}
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["37", "31", "37", "\n# define the variables\nlast_trip_spent = 80\nthis_trip_spent = 43\nreward_per_spent = 20\ncoupon_multiplier = 2\n\n# calculate the rewards earned\nrewards_earned = last_trip_spent // reward_per_spent\n\n# calculate the rewards used\nrewards_used = rewards_earned - this_trip_spent // reward_per_spent\n\n# calculate the final price after rewards and coupon\nfinal_price = this_trip_spent - rewards_used - rewards_used * coupon_multiplier\n\n# print the final price\nprint(final_price)\n", "Let's write a program.\n```python\n# define the variables\nlast_trip_spent = 80\nthis_trip_spent = 43\nreward_per_spent = 20\ncoupon_multiplier = 2\n\n# calculate the rewards earned\nrewards_earned = last_trip_spent // reward_per_spent\n\n# calculate the rewards used\nrewards_used = rewards_earned - this_trip_spent // reward_per_spent\n\n# calculate the final price after rewards and coupon\nfinal_price = this_trip_spent - rewards_used - rewards_used * coupon_multiplier\n\n# print the final price\nprint(final_price)\n```"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["5", "4", "5", "\n# define the initial number of balls\ninitial_balls = 3\n# define the number of weeks\nweeks = 4\n# calculate the number of balls after 4 weeks\nfinal_balls = initial_balls + weeks\n# calculate the number of balls after the events\nfinal_balls = final_balls - 3 + 2 - 1\n# print the result\nprint(final_balls)\n", "Let's write a program.\n```python\n# define the initial number of balls\ninitial_balls = 3\n# define the number of weeks\nweeks = 4\n# calculate the number of balls after 4 weeks\nfinal_balls = initial_balls + weeks\n# calculate the number of balls after the events\nfinal_balls = final_balls - 3 + 2 - 1\n# print the result\nprint(final_balls)\n```"]}
+{"version": "fail_code_result_match", "details": ["270", "260", "270", "\n# define the weights of the animals\npink_frog = 50\nblue_beetle = pink_frog\ngreen_toad = pink_frog\nyellow_snake = pink_frog + 20\nred_bird = pink_frog - 20\n\n# calculate the total weight\ntotal_weight = pink_frog + blue_beetle + green_toad + yellow_snake + red_bird + 20\n\n# print the result\nprint(total_weight)\n", "Let's write a program.\n```python\n# define the weights of the animals\npink_frog = 50\nblue_beetle = pink_frog\ngreen_toad = pink_frog\nyellow_snake = pink_frog + 20\nred_bird = pink_frog - 20\n\n# calculate the total weight\ntotal_weight = pink_frog + blue_beetle + green_toad + yellow_snake + red_bird + 20\n\n# print the result\nprint(total_weight)\n```"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["13", "2", "13", "\n# define the budget, cost of mini-golf, cost of go-karts, and the amount for arcade tokens\nbudget = 90\nmini_golf_cost = 5\ngo_karts_cost = 10\narcade_tokens = 5\n\n# calculate the remaining budget after buying arcade tokens and two rounds of go-karts\nremaining_budget = budget - arcade_tokens - 2*go_karts_cost\n\n# calculate the number of friends she can invite\n# since each friend will play one round of mini-golf, the cost for mini-golf is the number of friends\nnum_friends = remaining_budget // mini_golf_cost\n\nprint(num_friends)\n", "Let's write a program.\n```python\n# define the budget, cost of mini-golf, cost of go-karts, and the amount for arcade tokens\nbudget = 90\nmini_golf_cost = 5\ngo_karts_cost = 10\narcade_tokens = 5\n\n# calculate the remaining budget after buying arcade tokens and two rounds of go-karts\nremaining_budget = budget - arcade_tokens - 2*go_karts_cost\n\n# calculate the number of friends she can invite\n# since each friend will play one round of mini-golf, the cost for mini-golf is the number of friends\nnum_friends = remaining_budget // mini_golf_cost\n\nprint(num_friends)\n```"]}
+null
+{"version": "fail_code_result_match", "details": ["6", "4", "6.0", "\n# calculate the amount spent on candy\ncandy_cost = 10 - (0.5 * 40 * 0.05)\n# calculate the amount of candy bought\ncandy_pounds = candy_cost / 1.5\nprint(candy_pounds)\n", "Let's write a program.\n```python\n# calculate the amount spent on candy\ncandy_cost = 10 - (0.5 * 40 * 0.05)\n# calculate the amount of candy bought\ncandy_pounds = candy_cost / 1.5\nprint(candy_pounds)\n```"]}
+null
+{"version": "fail_grading_match", "details": [["1"], "20", ["1"], "Let's write a program.\n```python\n# calculate the total distance travelled in a day\ntotal_distance_per_day = 75 + 100 + (100 - 50)\n# calculate the total distance travelled in a day\ntotal_distance_per_day = 75 + 100 + (100 - 50)\n# calculate the total distance travelled in a day\ntotal_distance_per_day = 75 + 100 + (100 - 50)\n# calculate the total distance travelled in a day\ntotal_distance_per_day = 75 + 100 + (100 - 50)\n# calculate the total distance travelled in a day\ntotal_distance_per_day = 75 + 100 + (100 - 50)\n# calculate the total distance travelled in a day\ntotal_distance_per_day = 75 + 100 + (100 - 50)\n# calculate the total distance travelled in a day\ntotal_distance_per_day = 75 + 100 + (100 - 50)\n# calculate the total distance travelled in a day\ntotal_distance_per_day = 75 + 100 + (100 - 50)\n# calculate the total distance travelled in a day\ntotal_distance_per_day = 75 + 100 + (100 - 50)\n# calculate the total distance travelled in a day\ntotal_distance_per_day = 75 + 100 + (100 - 50)\n# calculate the total distance travelled in a day\ntotal_distance_per_day = 75 + 100 + (100 - 50)\n# calculate the total distance travelled in a day\ntotal_distance_per_day = 75 + 100 + (100 - 50)\n# calculate the total distance travelled in a day\ntotal_distance_per_day = 75 + 100 + (100 - 50)\n# calculate the total distance travelled in a day\ntotal_distance_per_day = 75 + 100 + (100 - 50)\n# calculate the total distance travelled in a day\ntotal_distance_per_day = 75 + 100 + (100 - 50)\n# calculate the total distance travelled in a day\ntotal_distance_per_day = 75 + 100 + (100 - 50)\n# calculate the total distance travelled in a day\ntotal_distance_per_day = 75 + 100 + (100 - 50)\n# calculate the total distance travelled in a day\ntotal_distance_per_day = 75 + 100 + (100 - 50)\n# calculate the total distance travelled in a day\ntotal_distance_per_day = 75 + 100 + (100 - 50)\n# calculate the total distance travelled in a day\ntotal_distance_per_day = 75 + 100 + (100 - 50)\n# calculate the total distance travelled in a day\ntotal_distance_per_day = 75 + 100 + (100 - 50)\n# calculate the total distance travelled in a day\ntotal_distance_per_day = 75 + 100 + (100 - 50)\n# calculate the total distance travelled in a day\ntotal_distance_per_day = 75 + 100 + (100 - 50)\n# calculate the total distance travelled in a day\ntotal_distance_per_day = 75 + 100 + (100 - 50)\n# calculate the total distance travelled in a day\ntotal_distance_per_day = 75 + 100 + (100 - 50)\n# calculate the total distance travelled in a day\ntotal_distance_per_day = 75 + 100 + (100 - 50)\n# calculate the total distance travelled in a day\ntotal_distance_per_day = 75 + 100 + (100 - 50)\n# calculate the total distance travelled in a day\ntotal_distance_per_day = 75 + 100 + (100 - 50)\n# calculate the total distance travelled in a day\ntotal_distance_per_day = 75 + 100 + (100 - 50)\n# calculate the total distance travelled in a day\ntotal_distance_per_day = 75 + 100 + (100 - 50)\n# calculate the total distance travelled in a day\ntotal_distance_per_day = 75 + 100 + (100 - 50)\n# calculate the total distance travelled in a day\ntotal_distance_per_day = 75 + 100 + (100 - 50)\n# calculate the total distance travelled in a day\ntotal_distance_per_day = 75 + 100 + (100 - 50)\n# calculate the total distance travelled in a day\ntotal_distance_per_day = 75 + 100 + (100 - 50)\n# calculate the total distance travelled in a day\ntotal_distance_per_day = 75 + 100 + (100 - 50)\n# calculate the total distance travelled in a day\ntotal_distance_per_day = 75 + 100 + (100 - 50)\n# calculate the total distance travelled in a day\ntotal_distance_per_day = 75 + 100 + (100 - 50)\n# calculate the total distance travelled in a day\ntotal_distance_per_day = 75 + 100 + (100 - 50)\n# calculate the total distance travelled in a day\ntotal_distance_per_day = 75 + 100 + (100 - 50)\n# calculate the total distance travelled in a day\ntotal_distance_per_day = 75 + 100 + (100 - 50)\n# calculate the total distance travelled in a day\ntotal_distance_per_day = 75 + 100 + (100 - 50)\n# calculate the total distance travelled in a day\ntotal_distance_per_day = 75 + 100 + (100 - 50)\n# calculate the total distance travelled in a day\ntotal_distance_per_day = 75 + 100 + (100 - 50)\n# calculate the total distance travelled in a day\ntotal_distance_per_day = 75 + 100 + (100 - 50)\n# calculate the total distance travelled in a day\ntotal_distance_per_day = 75 + 100 + (100 - 50)\n# calculate the total distance travelled in a day\ntotal_distance_per_day = 75 + 100 + (100 - 50)\n# calculate the total distance travelled in a day\ntotal_distance_per_day = 75 + 100 + (100 - 50)\n# calculate the total distance travelled in a day\ntotal_distance_per_day = 75 + 100 + (100 - 50)\n# calculate the total distance travelled in a day\ntotal_distance_per_day = 75 + 100 + (100 - 50)\n# calculate the total distance travelled in a day\ntotal_distance_per_day = 75 + 100 + (100 - 50)\n# calculate the total distance travelled in a day\ntotal_distance_per_day = 75 + 100 + (100 - 50)\n# calculate the total distance travelled in a day\ntotal_distance_per_day = 75 + 100 + (100 - 50)\n# calculate the total distance travelled in a day\ntotal_distance_per_day = 75 + 100 + (100 - 50)\n# calculate the total distance travelled in a day\ntotal_distance_per_day = 75 + 100 + (100 - 50)\n# calculate the total distance travelled in a day\ntotal_distance_per_day = 75 + 100 + (100 - 50)\n# calculate the total distance travelled in a day\ntotal_distance_per_day = 75 + 100 + (100 - 50)\n# calculate the total distance travelled in a day\ntotal_distance_per_day = 75 + 100 + (100 - 50)\n# calculate the total distance travelled in a day\ntotal_distance_per_day = 75 + 100 + (100 - 50)\n# calculate the total distance travelled in a day\ntotal_distance_per_day = 75 + 100 + (100 - 50)\n# calculate the total distance travelled in a day\ntotal_distance_per_day = 75 + 100 + (100 - 50)\n# calculate the total distance travelled in a day\ntotal_distance_per_day = 75 + 100 + (100 - 50)\n# calculate the total distance travelled in a day\ntotal_distance_per_day = 75 + 100 + (1"]}
+null
+null
+{"version": "fail_code_result_match", "details": ["44", "49", "44", "\n# define the variables\ntotal_students = 96\ngirls = 43\nabsent_girls = 5\nabsent_boys = 4\n\n# calculate the number of boys\nboys = total_students - girls - absent_girls - absent_boys\n\n# print the result\nprint(boys)\n", "Let's write a program.\n```python\n# define the variables\ntotal_students = 96\ngirls = 43\nabsent_girls = 5\nabsent_boys = 4\n\n# calculate the number of boys\nboys = total_students - girls - absent_girls - absent_boys\n\n# print the result\nprint(boys)\n```"]}
+null
+null
+null
+{"version": "fail_grading_match", "details": [["38"], "18", ["38"], "Let's reason step by step.\nIf Sara scored 8 points, then Erin has 3 * 8 = 24 points more than Sara.\nSince Erin scored 14 points, she had 24 + 14 = 38 points before.\nThe answer is 38"]}
+{"version": "fail_code_result_match", "details": ["1946", "1198", "1946.0", "\n# define the number of seniors\nnum_seniors = 44\n\n# define the cost of each item\ncost_frame = 20\ncost_pin = 5\ncost_cord = 12\n\n# calculate the total cost\ntotal_cost = num_seniors * cost_frame + num_seniors * cost_pin + num_seniors * cost_cord\n\n# calculate the additional cost for the picture frames\nadditional_cost = num_seniors * cost_frame * 0.20\n\n# calculate the total cost\ntotal_cost += additional_cost\n\n# calculate the cost for the 2 seniors who will receive pins\ncost_pins = 2 * cost_pin\n\n# calculate the total cost\ntotal_cost += cost_pins\n\n# calculate the cost for the 1/4 of the seniors who are officers\nnum_officers = num_seniors / 4\ncost_cords = num_officers * cost_cord\n\n# calculate the total cost\ntotal_cost += cost_cords\n\n# print the total cost\nprint(total_cost)\n", "Let's write a program.\n```python\n# define the number of seniors\nnum_seniors = 44\n\n# define the cost of each item\ncost_frame = 20\ncost_pin = 5\ncost_cord = 12\n\n# calculate the total cost\ntotal_cost = num_seniors * cost_frame + num_seniors * cost_pin + num_seniors * cost_cord\n\n# calculate the additional cost for the picture frames\nadditional_cost = num_seniors * cost_frame * 0.20\n\n# calculate the total cost\ntotal_cost += additional_cost\n\n# calculate the cost for the 2 seniors who will receive pins\ncost_pins = 2 * cost_pin\n\n# calculate the total cost\ntotal_cost += cost_pins\n\n# calculate the cost for the 1/4 of the seniors who are officers\nnum_officers = num_seniors / 4\ncost_cords = num_officers * cost_cord\n\n# calculate the total cost\ntotal_cost += cost_cords\n\n# print the total cost\nprint(total_cost)\n```"]}
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["30"], "45", ["30"], "Let's reason step by step.\nShe gets 30/2 = 15 kg of milk from half of her sheep.\nShe gets 30/2 = 15 kg of milk from the other half of her sheep.\nSo she collects 15 + 15 = 30 kg of milk every day.\nThe answer is 30"]}
+null
+null
+{"version": "fail_grading_match", "details": [["46"], "50", ["46"], "Let's reason step by step.\nIf Lucy got $56 from selling the apples picked on Monday, and each apple is sold for $4, then she sold 56/4 = 14 apples on Monday.\nOn Tuesday, Lucy picked 12 apples.\nOn Wednesday, Lucy picked double the number of apples she did on Tuesday, so she picked 12*2 = 24 apples.\nIn total, Lucy picked 14+12+24 = 46 apples over the three days.\nThe answer is 46"]}
+null
+null
+{"version": "fail_code_result_match", "details": ["760.4166666666667", "803", "760.4166666666667", "\n# calculate the total interest\ntotal_interest = 3650 * 0.10 * (5/12)\n# calculate the total amount to be paid\ntotal_amount = 3650 + total_interest\n# calculate the amount to be paid per month\namount_per_month = total_amount / 5\nprint(amount_per_month)\n", "Let's write a program.\n```python\n# calculate the total interest\ntotal_interest = 3650 * 0.10 * (5/12)\n# calculate the total amount to be paid\ntotal_amount = 3650 + total_interest\n# calculate the amount to be paid per month\namount_per_month = total_amount / 5\nprint(amount_per_month)\n```"]}
+null
+null
+{"version": "fail_code_result_match", "details": ["4.5", "2", "4.5", "\n# define the variables\ntotal_cost = 18\ntotal_cups = 3 * 12\nprice_per_cup = 1\ncups_per_hour = 4\n\n# calculate total revenue\ntotal_revenue = total_cups * price_per_cup\n\n# calculate profit per hour\nprofit_per_hour = (total_revenue - total_cost) / cups_per_hour\n\n# print the result\nprint(profit_per_hour)\n", "Let's write a program.\n```python\n# define the variables\ntotal_cost = 18\ntotal_cups = 3 * 12\nprice_per_cup = 1\ncups_per_hour = 4\n\n# calculate total revenue\ntotal_revenue = total_cups * price_per_cup\n\n# calculate profit per hour\nprofit_per_hour = (total_revenue - total_cost) / cups_per_hour\n\n# print the result\nprint(profit_per_hour)\n```"]}
+null
+null
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["-12", "6", "-12", "\n# define the cost of each ride ticket and bracelet\nride_ticket_cost = 2\nride_bracelet_cost = 30\n\n# calculate the total cost for David and Dasha\ndavid_cost = ride_bracelet_cost\ndasha_cost = 9 * ride_ticket_cost\n\n# calculate the savings for David\nsavings = dasha_cost - david_cost\n\n# print the savings\nprint(savings)\n", "Let's write a program.\n```python\n# define the cost of each ride ticket and bracelet\nride_ticket_cost = 2\nride_bracelet_cost = 30\n\n# calculate the total cost for David and Dasha\ndavid_cost = ride_bracelet_cost\ndasha_cost = 9 * ride_ticket_cost\n\n# calculate the savings for David\nsavings = dasha_cost - david_cost\n\n# print the savings\nprint(savings)\n```"]}
+null
+null
+{"version": "fail_code_result_match", "details": ["36", "34", "36.0", "\n# define the cost of each service\nnetflix_cost = 10\nhulu_cost = 10\ndisney_cost = 10\n\n# calculate the total cost of the services\ntotal_cost = netflix_cost + hulu_cost + disney_cost\n\n# calculate the savings from the discount\ndiscount = total_cost * 0.20\n\n# calculate the total cost after the discount\ntotal_cost_after_discount = total_cost - discount\n\n# calculate the savings from cancelling the cable package\nsavings = 60 - total_cost_after_discount\n\n# print the savings\nprint(savings)\n", "Let's write a program.\n```python\n# define the cost of each service\nnetflix_cost = 10\nhulu_cost = 10\ndisney_cost = 10\n\n# calculate the total cost of the services\ntotal_cost = netflix_cost + hulu_cost + disney_cost\n\n# calculate the savings from the discount\ndiscount = total_cost * 0.20\n\n# calculate the total cost after the discount\ntotal_cost_after_discount = total_cost - discount\n\n# calculate the savings from cancelling the cable package\nsavings = 60 - total_cost_after_discount\n\n# print the savings\nprint(savings)\n```"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["135", "81", "135.0", "\n# define the variables\nwatt_per_hour = 900\nhours_per_day = 8\ndays = 30\nreduction_hours_per_day = 5\n\n# calculate the total energy used in 30 days\ntotal_watt = watt_per_hour * hours_per_day * days\n\n# calculate the total energy used after reduction\nreduced_hours_per_day = hours_per_day - reduction_hours_per_day\ntotal_watt_reduced = watt_per_hour * reduced_hours_per_day * days\n\n# calculate the energy saved\nenergy_saved = total_watt - total_watt_reduced\n\n# convert the energy saved to kilowatts\nenergy_saved_kilowatt = energy_saved / 1000\n\n# print the result\nprint(energy_saved_kilowatt)\n", "Let's write a program.\n```python\n# define the variables\nwatt_per_hour = 900\nhours_per_day = 8\ndays = 30\nreduction_hours_per_day = 5\n\n# calculate the total energy used in 30 days\ntotal_watt = watt_per_hour * hours_per_day * days\n\n# calculate the total energy used after reduction\nreduced_hours_per_day = hours_per_day - reduction_hours_per_day\ntotal_watt_reduced = watt_per_hour * reduced_hours_per_day * days\n\n# calculate the energy saved\nenergy_saved = total_watt - total_watt_reduced\n\n# convert the energy saved to kilowatts\nenergy_saved_kilowatt = energy_saved / 1000\n\n# print the result\nprint(energy_saved_kilowatt)\n```"]}
+null
+null
+{"version": "fail_code_result_match", "details": ["140", "200", "140", "\n# define the initial number of corns and cannolis\ncannolis = 40\ncorns = 2 * cannolis\n\n# Allan bought more cannolis and fewer corns\ncannolis += 60\ncorns -= 40\n\n# calculate the combined total\ntotal = corns + cannolis\n\nprint(total)\n", "Let's write a program.\n```python\n# define the initial number of corns and cannolis\ncannolis = 40\ncorns = 2 * cannolis\n\n# Allan bought more cannolis and fewer corns\ncannolis += 60\ncorns -= 40\n\n# calculate the combined total\ntotal = corns + cannolis\n\nprint(total)\n```"]}
+null
+{"version": "fail_code_result_match", "details": ["-20", "20", "-20.0", "\n# define the variables\ntotal_pages = 45\nwords_per_page = 200\nreading_rate = 300\ntime_to_airport = 10\ntime_to_read = (total_pages * words_per_page) / reading_rate\ntotal_time = time_to_read + time_to_airport\n\n# calculate how many minutes early Toby will be\nminutes_early = total_time - 60\n\n# print the result\nprint(minutes_early)\n", "Let's write a program.\n```python\n# define the variables\ntotal_pages = 45\nwords_per_page = 200\nreading_rate = 300\ntime_to_airport = 10\ntime_to_read = (total_pages * words_per_page) / reading_rate\ntotal_time = time_to_read + time_to_airport\n\n# calculate how many minutes early Toby will be\nminutes_early = total_time - 60\n\n# print the result\nprint(minutes_early)\n```"]}
+{"version": "fail_code_result_match", "details": ["42000", "168000", "42000.0", "\n# define the variables\nemployees = 40\npay_per_hour = 15\nhours_per_week = 40\nweeks = 2\n\n# calculate the total amount paid in May\ntotal_may = employees * pay_per_hour * hours_per_week\n\n# calculate the number of employees whose contracts expired in June\nexpired_employees = employees / 4\n\n# calculate the total amount paid in June\ntotal_june = (employees - expired_employees) * pay_per_hour * hours_per_week\n\n# calculate the total amount paid in two months\ntotal = total_may + total_june\n\nprint(total)\n", "Let's write a program.\n```python\n# define the variables\nemployees = 40\npay_per_hour = 15\nhours_per_week = 40\nweeks = 2\n\n# calculate the total amount paid in May\ntotal_may = employees * pay_per_hour * hours_per_week\n\n# calculate the number of employees whose contracts expired in June\nexpired_employees = employees / 4\n\n# calculate the total amount paid in June\ntotal_june = (employees - expired_employees) * pay_per_hour * hours_per_week\n\n# calculate the total amount paid in two months\ntotal = total_may + total_june\n\nprint(total)\n```"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["200", "284", "200", "\n# define the cost for each period\nfirst_period_cost = 6 * 8\nsecond_period_cost = 8 * 12\nthird_period_cost = 4 * 14\n\n# calculate the total cost\ntotal_cost = first_period_cost + second_period_cost + third_period_cost\n\n# print the result\nprint(total_cost)\n", "Let's write a program.\n```python\n# define the cost for each period\nfirst_period_cost = 6 * 8\nsecond_period_cost = 8 * 12\nthird_period_cost = 4 * 14\n\n# calculate the total cost\ntotal_cost = first_period_cost + second_period_cost + third_period_cost\n\n# print the result\nprint(total_cost)\n```"]}
+{"version": "fail_code_result_match", "details": ["-6", "8", "-6", "\n# define the cost of tattered jeans\ntattered_jeans = 28\n# define the cost of jogger jeans\njogger_jeans = tattered_jeans - 6\n# define the total savings\ntotal_savings = 6\n# calculate the savings from jogger jeans\njogger_savings = total_savings / 3\n# calculate the savings from tattered jeans\ntattered_savings = total_savings - jogger_savings\n# calculate the original cost difference\noriginal_cost_difference = jogger_jeans - tattered_jeans\nprint(original_cost_difference)\n", "Let's write a program.\n```python\n# define the cost of tattered jeans\ntattered_jeans = 28\n# define the cost of jogger jeans\njogger_jeans = tattered_jeans - 6\n# define the total savings\ntotal_savings = 6\n# calculate the savings from jogger jeans\njogger_savings = total_savings / 3\n# calculate the savings from tattered jeans\ntattered_savings = total_savings - jogger_savings\n# calculate the original cost difference\noriginal_cost_difference = jogger_jeans - tattered_jeans\nprint(original_cost_difference)\n```"]}
+null
+{"version": "fail_code_result_match", "details": ["180", "150", "180", "\n# define the number of birds each feeder can attract\nbirds_per_feeder = 20\n# define the number of bird feeders Lillian made\nmade_feeders = 3\n# define the number of bird feeders Lillian bought\nbought_feeders = 3\n# define the additional number of birds each of Lillian's feeders can attract\nadditional_birds = 10\n\n# calculate the total number of birds each of Lillian's feeders can attract\ntotal_birds_per_feeder = birds_per_feeder + additional_birds\n\n# calculate the total number of birds all of Lillian's feeders can attract\ntotal_birds = (made_feeders + bought_feeders) * total_birds_per_feeder\n\nprint(total_birds)\n", "Let's write a program.\n```python\n# define the number of birds each feeder can attract\nbirds_per_feeder = 20\n# define the number of bird feeders Lillian made\nmade_feeders = 3\n# define the number of bird feeders Lillian bought\nbought_feeders = 3\n# define the additional number of birds each of Lillian's feeders can attract\nadditional_birds = 10\n\n# calculate the total number of birds each of Lillian's feeders can attract\ntotal_birds_per_feeder = birds_per_feeder + additional_birds\n\n# calculate the total number of birds all of Lillian's feeders can attract\ntotal_birds = (made_feeders + bought_feeders) * total_birds_per_feeder\n\nprint(total_birds)\n```"]}
+null
+{"version": "fail_code_result_match", "details": ["149", "150", "149", "\n# define the cost of the ticket and the price per card\nticket_cost = 100\ncard_price = 1.5\n\n# define the amount Kenny has in spending cash\nspending_cash = 50\n\n# calculate the amount Kenny earned from selling cards\nearned = ticket_cost + spending_cash\n\n# calculate the number of cards Kenny sold\ncards_sold = earned / card_price\n\n# calculate the total number of cards Kenny started with\ntotal_cards = cards_sold / (1 - 1/3)\n\n# print the result\nprint(int(total_cards))\n", "Let's write a program.\n```python\n# define the cost of the ticket and the price per card\nticket_cost = 100\ncard_price = 1.5\n\n# define the amount Kenny has in spending cash\nspending_cash = 50\n\n# calculate the amount Kenny earned from selling cards\nearned = ticket_cost + spending_cash\n\n# calculate the number of cards Kenny sold\ncards_sold = earned / card_price\n\n# calculate the total number of cards Kenny started with\ntotal_cards = cards_sold / (1 - 1/3)\n\n# print the result\nprint(int(total_cards))\n```"]}
+{"version": "fail_grading_match", "details": [["22"], "26", ["22"], "Let's reason step by step.\nHe prepared 36/2=18 hot dogs for the guests who would eat 2 hot dogs each.\nHe prepared a total of 18*2=36 hot dogs for these guests.\nHe prepared a total of 36+18=54 hot dogs.\n40-18=22 guests did not get a second hot dog.\nThe answer is 22"]}
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["18"], "6", ["18"], "Let's reason step by step.\nEach container had 15/5 = 3 gallons of gas.\nJosey needed 3/4 = 2.25 gallons of gas.\nThere are 8 pints in a gallon, so Josey needed 2.25 * 8 = 18 pints of gas.\nThe answer is 18"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["39"], "59", ["39"], "Let's reason step by step.\nJon's total time for the triathlon is 40 + 80 + 50 = 170 minutes.\nJames finishes the swim 10% faster, so he takes 40 - (10% of 40) = 40 - 4 = 36 minutes for the swim.\nJames takes 5 minutes longer on the bike, so he takes 80 + 5 = 85 minutes for the bike ride.\nJon won by 10 minutes, so James' total time for the triathlon is 170 - 10 = 160 minutes.\nTherefore, James' time for the run is 160 - 36 - 85 = 39 minutes.\nThe answer is 39"]}
+{"version": "fail_code_result_match", "details": ["17", "20", "17", "\n# define the length of Movie C in minutes\nmovie_c = 1.25 * 60\n# calculate the length of Movie B\nmovie_b = movie_c - 5\n# calculate the length of Movie A\nmovie_a = movie_b / 4\n# print the result\nprint(int(movie_a))\n", "Let's write a program.\n```python\n# define the length of Movie C in minutes\nmovie_c = 1.25 * 60\n# calculate the length of Movie B\nmovie_b = movie_c - 5\n# calculate the length of Movie A\nmovie_a = movie_b / 4\n# print the result\nprint(int(movie_a))\n```"]}
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["3"], "4", ["3"], "Let's reason step by step.\nIf you bought the super ticket for $20 and saved $2, then the regular price of the movie ticket and popcorn/soda combination is $20 - $2 = $18.\nIf the movie ticket costs $12 and the soda costs $3, then the popcorn costs $18 - $12 - $3 = $3.\nTherefore, the regular price of popcorn is $3.\nThe answer is 3"]}
+null
+null
+null
+{"version": "fail_grading_match", "details": [["240"], "150", ["240"], "Let's reason step by step.\nMarin and Nancy each eat 4 apples a day, so together they eat 4 + 4 = 8 apples a day.\nIn 30 days, they will eat 8 apples/day x 30 days = 240 apples.\nThe answer is 240"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["-4", "6", "-4", "\n# define the initial position\nposition = 1\n# Finley fell back 5 spots\nposition -= 5\n# she moved ahead 2 spots\nposition += 2\n# she fell behind 3\nposition -= 3\n# she jumped ahead 1 spot\nposition += 1\n# print the final position\nprint(position)\n", "Let's write a program.\n```python\n# define the initial position\nposition = 1\n# Finley fell back 5 spots\nposition -= 5\n# she moved ahead 2 spots\nposition += 2\n# she fell behind 3\nposition -= 3\n# she jumped ahead 1 spot\nposition += 1\n# print the final position\nprint(position)\n```"]}
+null
+{"version": "fail_grading_match", "details": [["100"], "1", ["100"], "Let's reason step by step.\nBecky bought 20 apples for 45 cents each, so she paid 20 * 45 = 900 cents.\nShe received a $1 discount, so her total cost was 900 - 100 = 800 cents.\nKelly bought 20 apples for 50 cents each, so she paid 20 * 50 = 1000 cents.\nShe received a 10 percent discount, so her total cost was 1000 - (10/100) * 1000 = 900 cents.\nKelly paid 900 - 800 = 100 cents more than Becky.\nThe answer is 100"]}
+{"version": "fail_code_result_match", "details": ["1120", "1200", "1120", "\n# define the number of rooms\nrooms = 80\n\n# define the number of sheets per room\nsheets_per_room = 2\n\n# define the number of pillow cases per room\npillow_cases_per_room = 2 * sheets_per_room\n\n# define the number of towels per room\ntowels_per_room = 2 * pillow_cases_per_room\n\n# calculate the total number of pieces of laundry\ntotal_laundry = rooms * (sheets_per_room + pillow_cases_per_room + towels_per_room)\n\n# print the result\nprint(total_laundry)\n", "Let's write a program.\n```python\n# define the number of rooms\nrooms = 80\n\n# define the number of sheets per room\nsheets_per_room = 2\n\n# define the number of pillow cases per room\npillow_cases_per_room = 2 * sheets_per_room\n\n# define the number of towels per room\ntowels_per_room = 2 * pillow_cases_per_room\n\n# calculate the total number of pieces of laundry\ntotal_laundry = rooms * (sheets_per_room + pillow_cases_per_room + towels_per_room)\n\n# print the result\nprint(total_laundry)\n```"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["75"], "25", ["75"], "Let's reason step by step.\nShe buys 2 packs of razors so she gets 2*4=8 razors\nThe razors cost $4.00 a pack and she buys 2 packs so that's 4*2=$8.00\nShe has a $2.00 coupon and her razors are $8.00 so her total is 8-2=$6.00\nShe gets 8 razors for $6.00 so each individual razor costs 6/8=$0.75\nThe answer is 75"]}
+{"version": "fail_code_result_match", "details": ["26.666666666666668", "21", "26.666666666666668", "\n# define the heights of the cheerleaders in inches\nheights = [64]*9 + [60]\n\n# sort the heights in descending order\nheights.sort(reverse=True)\n\n# calculate the total height of the human pyramid in inches\ntotal_height_inches = sum(heights[:5])\n\n# convert the total height to feet\ntotal_height_feet = total_height_inches / 12\n\n# print the total height of the human pyramid in feet\nprint(total_height_feet)\n", "Let's write a program.\n```python\n# define the heights of the cheerleaders in inches\nheights = [64]*9 + [60]\n\n# sort the heights in descending order\nheights.sort(reverse=True)\n\n# calculate the total height of the human pyramid in inches\ntotal_height_inches = sum(heights[:5])\n\n# convert the total height to feet\ntotal_height_feet = total_height_inches / 12\n\n# print the total height of the human pyramid in feet\nprint(total_height_feet)\n```"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["3500", "525", "3500.0", "\n# define the variables\ntotal_weight_to_lose = 30\ncalories_per_pound = 3500\ndays_left = 30\n\n# calculate total calories to burn\ntotal_calories_to_burn = total_weight_to_lose * calories_per_pound\n\n# calculate calories to burn per day\ncalories_per_day = total_calories_to_burn / days_left\n\n# print the result\nprint(calories_per_day)\n", "Let's write a program.\n```python\n# define the variables\ntotal_weight_to_lose = 30\ncalories_per_pound = 3500\ndays_left = 30\n\n# calculate total calories to burn\ntotal_calories_to_burn = total_weight_to_lose * calories_per_pound\n\n# calculate calories to burn per day\ncalories_per_day = total_calories_to_burn / days_left\n\n# print the result\nprint(calories_per_day)\n```"]}
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["96"], "160", ["96"], "Let's reason step by step.\nShe bought 8 packs of 5 canvas bags for $4 each, so she spent 8 * 5 * $4 = $160 on the bags.\nShe sold each bag for $8, so she earned 8 * $8 = $64 from selling the bags.\nTo find the profit, we subtract the cost from the earnings, so the profit is $64 - $160 = -$96.\nSince the profit is negative, Tara actually lost money on her bags.\nThe answer is 96"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["40", "36", "40", "\n# define the variables\nweeks = 8\nhours_per_week = 4\nextra_hours = 5\nextra_hours_2 = 6\n\n# calculate total hours\ntotal_hours = (weeks - 2) * hours_per_week + 2 * extra_hours + extra_hours_2\n\n# print the result\nprint(total_hours)\n", "Let's write a program.\n```python\n# define the variables\nweeks = 8\nhours_per_week = 4\nextra_hours = 5\nextra_hours_2 = 6\n\n# calculate total hours\ntotal_hours = (weeks - 2) * hours_per_week + 2 * extra_hours + extra_hours_2\n\n# print the result\nprint(total_hours)\n```"]}
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["60", "35", "60.0", "\n# define the bill amount and the tip percentage\nbill_amount = 50\ntip_percentage = 20\n\n# calculate the tip amount\ntip_amount = bill_amount * tip_percentage / 100\n\n# calculate the total amount paid\ntotal_amount = bill_amount + tip_amount\n\n# print the result\nprint(total_amount)\n", "Let's write a program.\n```python\n# define the bill amount and the tip percentage\nbill_amount = 50\ntip_percentage = 20\n\n# calculate the tip amount\ntip_amount = bill_amount * tip_percentage / 100\n\n# calculate the total amount paid\ntotal_amount = bill_amount + tip_amount\n\n# print the result\nprint(total_amount)\n```"]}
+null
+{"version": "fail_grading_match", "details": [["25"], "50", ["25"], "Let's reason step by step.\nElvis has a monthly saving target of $1125.\nHe wants to save twice as much daily in the second half as he saves in the first half.\nThere are 30 days in April, so he has 30/2 = 15 days in the first half of the month.\nHe has 15 days in the second half of the month.\nLet's say he saves x dollars each day in the first half of the month.\nIn the second half of the month, he saves 2x dollars each day.\nSo, the total amount he saves in the first half of the month is 15x dollars.\nAnd the total amount he saves in the second half of the month is 15(2x) = 30x dollars.\nThe total amount he saves in the month is 15x + 30x = 45x dollars.\nHe wants to save a total of $1125, so 45x = $1125.\nDividing both sides of the equation by 45, we get x = $25.\nTherefore, he has to save $25 each day in the second half of the month.\nThe answer is 25"]}
+null
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["78", "130", "78", "\n# define the number of letters in the alphabet\nalphabet_size = 26\n\n# calculate the total number of letters Elise has written\ntotal_letters = 2 * alphabet_size + alphabet_size / 2 * 2\n\n# print the result\nprint(int(total_letters))\n", "Let's write a program.\n```python\n# define the number of letters in the alphabet\nalphabet_size = 26\n\n# calculate the total number of letters Elise has written\ntotal_letters = 2 * alphabet_size + alphabet_size / 2 * 2\n\n# print the result\nprint(int(total_letters))\n```"]}
+null
+null
+{"version": "fail_code_result_match", "details": ["400", "398", "400", "\n# define the variables\njames_toys = 80\n# calculate the number of toys Jonathan needs\njonathan_toys_needed = 5 * james_toys + 2\n# calculate the number of toys Jonathan currently has\njonathan_toys = jonathan_toys_needed - 2\n# print the result\nprint(jonathan_toys)\n", "Let's write a program.\n```python\n# define the variables\njames_toys = 80\n# calculate the number of toys Jonathan needs\njonathan_toys_needed = 5 * james_toys + 2\n# calculate the number of toys Jonathan currently has\njonathan_toys = jonathan_toys_needed - 2\n# print the result\nprint(jonathan_toys)\n```"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["31", "37", "31.0", "\n# define the costs and prices\ncost_per_loaf = 3.00\nsandwiches_per_loaf = 10\ncheese_cost = 30.00\nprice_per_sandwich = 7.00\n\n# calculate the total cost\ntotal_cost = cost_per_loaf * (cheese_cost / sandwiches_per_loaf) + cheese_cost\n\n# calculate the total revenue\ntotal_revenue = price_per_sandwich * 10\n\n# calculate the net profit\nnet_profit = total_revenue - total_cost\n\n# print the net profit\nprint(net_profit)\n", "Let's write a program.\n```python\n# define the costs and prices\ncost_per_loaf = 3.00\nsandwiches_per_loaf = 10\ncheese_cost = 30.00\nprice_per_sandwich = 7.00\n\n# calculate the total cost\ntotal_cost = cost_per_loaf * (cheese_cost / sandwiches_per_loaf) + cheese_cost\n\n# calculate the total revenue\ntotal_revenue = price_per_sandwich * 10\n\n# calculate the net profit\nnet_profit = total_revenue - total_cost\n\n# print the net profit\nprint(net_profit)\n```"]}
+null
+null
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["540.8", "500", "540.8", "\n# calculate the percentage error\npercentage_error = (468 - 450) / 450 * 100\n# calculate the correct temperature\ncorrect_temperature = 520 + (percentage_error / 100 * 520)\nprint(correct_temperature)\n", "Let's write a program.\n```python\n# calculate the percentage error\npercentage_error = (468 - 450) / 450 * 100\n# calculate the correct temperature\ncorrect_temperature = 520 + (percentage_error / 100 * 520)\nprint(correct_temperature)\n```"]}
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["1", "2", "1.0", "\n# define the variables\ncontacts_per_box = 90\ndays_per_box = 45\nbox_price = 100\ndiscount = 0.1\nboxes = 2\n\n# calculate the discounted price per box\ndiscounted_price_per_box = box_price * (1 - discount)\n\n# calculate the total cost for 2 boxes\ntotal_cost = discounted_price_per_box * boxes\n\n# calculate the cost per pair of contacts\ncost_per_pair = total_cost / (contacts_per_box * boxes)\n\n# print the result\nprint(cost_per_pair)\n", "Let's write a program.\n```python\n# define the variables\ncontacts_per_box = 90\ndays_per_box = 45\nbox_price = 100\ndiscount = 0.1\nboxes = 2\n\n# calculate the discounted price per box\ndiscounted_price_per_box = box_price * (1 - discount)\n\n# calculate the total cost for 2 boxes\ntotal_cost = discounted_price_per_box * boxes\n\n# calculate the cost per pair of contacts\ncost_per_pair = total_cost / (contacts_per_box * boxes)\n\n# print the result\nprint(cost_per_pair)\n```"]}
+null
+null
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["318", "319", "318", "\n# define the initial number of people invited\ninitial_people = 100\n# each person invites 2 friends\nfriends = initial_people * 2\n# Alex calls 10 friends and 8 of them bring their spouses\nadditional_people = 10 + 8\n# total number of seats needed\ntotal_seats = initial_people + friends + additional_people\nprint(total_seats)\n", "Let's write a program.\n```python\n# define the initial number of people invited\ninitial_people = 100\n# each person invites 2 friends\nfriends = initial_people * 2\n# Alex calls 10 friends and 8 of them bring their spouses\nadditional_people = 10 + 8\n# total number of seats needed\ntotal_seats = initial_people + friends + additional_people\nprint(total_seats)\n```"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["114", "104", "114", "\n# define the number of games Steve gets each year\ngames_per_month_first_year = 1\ngames_per_month_second_year = 2\ngames_per_month_third_year = 4\ngames_per_christmas = 5\n\n# calculate the total number of games Steve gets each year\ntotal_games_first_year = games_per_month_first_year * 12 + 5\ntotal_games_second_year = games_per_month_second_year * 12 + 5\ntotal_games_third_year = games_per_month_third_year * 12 + 5\n\n# calculate the total number of games Steve has after 3 years\ntotal_games = total_games_first_year + total_games_second_year + total_games_third_year + 5*3\n\nprint(total_games)\n", "Let's write a program.\n```python\n# define the number of games Steve gets each year\ngames_per_month_first_year = 1\ngames_per_month_second_year = 2\ngames_per_month_third_year = 4\ngames_per_christmas = 5\n\n# calculate the total number of games Steve gets each year\ntotal_games_first_year = games_per_month_first_year * 12 + 5\ntotal_games_second_year = games_per_month_second_year * 12 + 5\ntotal_games_third_year = games_per_month_third_year * 12 + 5\n\n# calculate the total number of games Steve has after 3 years\ntotal_games = total_games_first_year + total_games_second_year + total_games_third_year + 5*3\n\nprint(total_games)\n```"]}
+null
+{"version": "fail_code_result_match", "details": ["1260", "1800", "1260.0", "\n# define the variables\nruiz_rate = 120 / 2  # pounds per hour\nmarissa_rate = 3/4 * ruiz_rate  # pounds per hour\n\n# calculate total pounds made in 12 hours\ntotal_pounds = 12 * (ruiz_rate + marissa_rate)\n\nprint(total_pounds)\n", "Let's write a program.\n```python\n# define the variables\nruiz_rate = 120 / 2  # pounds per hour\nmarissa_rate = 3/4 * ruiz_rate  # pounds per hour\n\n# calculate total pounds made in 12 hours\ntotal_pounds = 12 * (ruiz_rate + marissa_rate)\n\nprint(total_pounds)\n```"]}
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["850000", "1450000", "850000.0", "\n# define the initial funding and the number of months\ninitial_funding = 100000\ninitial_months = 5\n\n# calculate the total cost\ntotal_cost = initial_funding + initial_funding * 1.5 * (10 - initial_months)\n\n# print the result\nprint(total_cost)\n", "Let's write a program.\n```python\n# define the initial funding and the number of months\ninitial_funding = 100000\ninitial_months = 5\n\n# calculate the total cost\ntotal_cost = initial_funding + initial_funding * 1.5 * (10 - initial_months)\n\n# print the result\nprint(total_cost)\n```"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["372000", "262500", "372000.0", "\n# define the initial salary and the raise percentage\ninitial_salary = 20000\nraise_percentage = 5/100\n\n# calculate the new salary after the raise\nnew_salary = initial_salary + (initial_salary * raise_percentage)\n\n# calculate the bonus\nbonus = initial_salary / 2\n\n# calculate the total monthly salary\ntotal_monthly_salary = new_salary + bonus\n\n# calculate the total annual salary\ntotal_annual_salary = total_monthly_salary * 12\n\n# print the result\nprint(total_annual_salary)\n", "Let's write a program.\n```python\n# define the initial salary and the raise percentage\ninitial_salary = 20000\nraise_percentage = 5/100\n\n# calculate the new salary after the raise\nnew_salary = initial_salary + (initial_salary * raise_percentage)\n\n# calculate the bonus\nbonus = initial_salary / 2\n\n# calculate the total monthly salary\ntotal_monthly_salary = new_salary + bonus\n\n# calculate the total annual salary\ntotal_annual_salary = total_monthly_salary * 12\n\n# print the result\nprint(total_annual_salary)\n```"]}
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["160000", "162000", "160000", "\n# define the initial number of likes\ninitial_likes = 2000\n# calculate the number of likes after 3 weeks\nlikes_after_3_weeks = initial_likes * 70\n# add the new likes received recently\ntotal_likes = likes_after_3_weeks + 20000\n# print the total number of likes\nprint(total_likes)\n", "Let's write a program.\n```python\n# define the initial number of likes\ninitial_likes = 2000\n# calculate the number of likes after 3 weeks\nlikes_after_3_weeks = initial_likes * 70\n# add the new likes received recently\ntotal_likes = likes_after_3_weeks + 20000\n# print the total number of likes\nprint(total_likes)\n```"]}
+null
+null
+{"version": "fail_grading_match", "details": [["105"], "75", ["105"], "Let's reason step by step.\nHe rode the carriage for 9-5=4 hours\nSo the first hour cost 15*1=$15\nThe next 3 hours cost 15*2=$30 per hour\nSo the total cost for those hours was 3*30=$90\nSo the total cost was 15+90=$105\nThe answer is 105"]}
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["-10", "10", "-10", "\n# define the variables\ntotal_pages = 200\npages_per_day = 10\ndays = 30\n\n# calculate the number of days Mike will need to finish the book\ndays_needed = total_pages / pages_per_day\n\n# calculate the number of days before the deadline Mike will finish his reading\ndays_before_deadline = days_needed - days\n\n# print the result\nprint(int(days_before_deadline))\n", "Let's write a program.\n```python\n# define the variables\ntotal_pages = 200\npages_per_day = 10\ndays = 30\n\n# calculate the number of days Mike will need to finish the book\ndays_needed = total_pages / pages_per_day\n\n# calculate the number of days before the deadline Mike will finish his reading\ndays_before_deadline = days_needed - days\n\n# print the result\nprint(int(days_before_deadline))\n```"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["10"], "2", ["10"], "Let's reason step by step.\nChristina had twelve good days and eight bad days, so the total number of good and bad days is 12 + 8 = 20.\nThe rest of the days were neutral, so the number of neutral days is 30 - 20 = 10.\nHer first eight days were good, her second eight days were bad, and her third eight days were neutral, so the number of good, bad, and neutral days in the first 24 days is 8 + 8 + 8 = 24.\nThe next three days were good, neutral, and good, so the number of good, bad, and neutral days in the last three days is 3 + 0 + 3 = 6.\nTherefore, the total number of good, bad, and neutral days in the month is 24 + 6 = 30.\nSince the number of good and bad days is 20, the number of good days left in the month is 30 - 20 = 10.\nThe answer is 10"]}
+null
+null
+{"version": "fail_code_result_match", "details": ["25", "33", "25", "\n# define the initial number of toys and dogs\ninitial_toys = 4\ninitial_dogs = 4\n\n# calculate the number of toys needed for the additional dogs\nadditional_dogs = 8\nadditional_toys = additional_dogs\n\n# calculate the number of toys needed for the dogs that came back\ndogs_came_back = 2 * additional_dogs\ntoys_for_came_back = dogs_came_back\n\n# calculate the number of toys needed for the dogs that left\ndogs_left = 3\ntoys_for_left = dogs_left\n\n# calculate the total number of toys needed\ntotal_toys = initial_toys + additional_toys + toys_for_came_back - toys_for_left\n\nprint(total_toys)\n", "Let's write a program.\n```python\n# define the initial number of toys and dogs\ninitial_toys = 4\ninitial_dogs = 4\n\n# calculate the number of toys needed for the additional dogs\nadditional_dogs = 8\nadditional_toys = additional_dogs\n\n# calculate the number of toys needed for the dogs that came back\ndogs_came_back = 2 * additional_dogs\ntoys_for_came_back = dogs_came_back\n\n# calculate the number of toys needed for the dogs that left\ndogs_left = 3\ntoys_for_left = dogs_left\n\n# calculate the total number of toys needed\ntotal_toys = initial_toys + additional_toys + toys_for_came_back - toys_for_left\n\nprint(total_toys)\n```"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["14"], "13", ["14"], "Let's reason step by step.\nLet's assume the age of one triplet is x.\nThen the age of one twin is x + 7.\nThe combined ages of the twins and triplets is x + (x + 7) + x + (x + 7) = 44.\nCombining like terms, we get 4x + 14 = 44.\nSubtracting 14 from both sides, we get 4x = 30.\nDividing both sides by 4, we get x = 7.5.\nTherefore, one of the twins is x + 7 = 7.5 + 7 = 14.5 years old.\nThe answer is 14"]}
+null
+{"version": "fail_code_result_match", "details": ["12", "7", "12.0", "\n# define the cost of each item\nlollipop_cost = 0.40\ncandy_cost = 3.20 / 4\n\n# calculate the total cost for 10 lollipops and 10 candies\ntotal_cost = 10 * lollipop_cost + 10 * candy_cost\n\n# print the result\nprint(total_cost)\n", "Let's write a program.\n```python\n# define the cost of each item\nlollipop_cost = 0.40\ncandy_cost = 3.20 / 4\n\n# calculate the total cost for 10 lollipops and 10 candies\ntotal_cost = 10 * lollipop_cost + 10 * candy_cost\n\n# print the result\nprint(total_cost)\n```"]}
+null
+{"version": "fail_code_result_match", "details": ["61", "25", "61.0", "\n# define the cost of vaccines and the total bill\nvaccine_cost = 20\nnum_vaccines = 2\ntotal_bill = vaccine_cost * num_vaccines + 0.6 * (vaccine_cost * num_vaccines)\n\n# calculate the amount left\namount_left = 125 - total_bill\n\n# print the result\nprint(amount_left)\n", "Let's write a program.\n```python\n# define the cost of vaccines and the total bill\nvaccine_cost = 20\nnum_vaccines = 2\ntotal_bill = vaccine_cost * num_vaccines + 0.6 * (vaccine_cost * num_vaccines)\n\n# calculate the amount left\namount_left = 125 - total_bill\n\n# print the result\nprint(amount_left)\n```"]}
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["126", "135", "126", "\n# define the variables\ntotal_boxes = 15\nfireworks_per_box = 20\npercentage_of_city_fireworks = 0.4\nboxes_in_backyard = 3\nfireworks_per_box_in_backyard = 5\n\n# calculate the total number of fireworks\ntotal_fireworks = total_boxes * fireworks_per_box + boxes_in_backyard * fireworks_per_box_in_backyard\n\n# calculate the number of fireworks Hannah will see\nfireworks_she_will_see = total_fireworks * percentage_of_city_fireworks\n\n# print the result\nprint(int(fireworks_she_will_see))\n", "Let's write a program.\n```python\n# define the variables\ntotal_boxes = 15\nfireworks_per_box = 20\npercentage_of_city_fireworks = 0.4\nboxes_in_backyard = 3\nfireworks_per_box_in_backyard = 5\n\n# calculate the total number of fireworks\ntotal_fireworks = total_boxes * fireworks_per_box + boxes_in_backyard * fireworks_per_box_in_backyard\n\n# calculate the number of fireworks Hannah will see\nfireworks_she_will_see = total_fireworks * percentage_of_city_fireworks\n\n# print the result\nprint(int(fireworks_she_will_see))\n```"]}
+{"version": "fail_code_result_match", "details": ["400", "200", "400", "\n# define the number of people\nnum_people = 13 + 7\n# define the number of drinks and snacks per seat\nnum_drinks_per_seat = 2\nnum_snacks_per_seat = 3\n# define the cost of drinks and snacks\ncost_per_drink = 2\ncost_per_snack = 2\n# calculate the total cost\ntotal_cost = num_people * (num_drinks_per_seat + num_snacks_per_seat) * (cost_per_drink + cost_per_snack)\nprint(total_cost)\n", "Let's write a program.\n```python\n# define the number of people\nnum_people = 13 + 7\n# define the number of drinks and snacks per seat\nnum_drinks_per_seat = 2\nnum_snacks_per_seat = 3\n# define the cost of drinks and snacks\ncost_per_drink = 2\ncost_per_snack = 2\n# calculate the total cost\ntotal_cost = num_people * (num_drinks_per_seat + num_snacks_per_seat) * (cost_per_drink + cost_per_snack)\nprint(total_cost)\n```"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["2050", "2450", "2050", "\n# define the variables\ntotal_time = 5  # total time in minutes\ntime_with_arms_raised = 2  # time with arms raised in minutes\n\n# define the tap rates\ntap_rate_with_arms = 200  # tap rate with arms in taps per minute\ntap_rate_without_arms = 300 + 250  # tap rate without arms in taps per minute\n\n# calculate the total number of taps\ntotal_taps = (time_with_arms_raised * tap_rate_with_arms) + ((total_time - time_with_arms_raised) * tap_rate_without_arms)\n\nprint(total_taps)\n", "Let's write a program.\n```python\n# define the variables\ntotal_time = 5  # total time in minutes\ntime_with_arms_raised = 2  # time with arms raised in minutes\n\n# define the tap rates\ntap_rate_with_arms = 200  # tap rate with arms in taps per minute\ntap_rate_without_arms = 300 + 250  # tap rate without arms in taps per minute\n\n# calculate the total number of taps\ntotal_taps = (time_with_arms_raised * tap_rate_with_arms) + ((total_time - time_with_arms_raised) * tap_rate_without_arms)\n\nprint(total_taps)\n```"]}
+{"version": "fail_code_result_match", "details": ["195", "255", "195", "\n# define the costs\ndamage_cost = 450\nfine_cost = 120\nasphalt_cost = 25 * 3\n\n# calculate the total cost\ntotal_cost = damage_cost + fine_cost + asphalt_cost\n\n# calculate the savings\nsavings = total_cost - damage_cost\n\n# print the savings\nprint(savings)\n", "Let's write a program.\n```python\n# define the costs\ndamage_cost = 450\nfine_cost = 120\nasphalt_cost = 25 * 3\n\n# calculate the total cost\ntotal_cost = damage_cost + fine_cost + asphalt_cost\n\n# calculate the savings\nsavings = total_cost - damage_cost\n\n# print the savings\nprint(savings)\n```"]}
+null
+{"version": "fail_grading_match", "details": [["6"], "18", ["6"], "Let's reason step by step.\nEach pizza had 12 slices, so 4 pizzas had a total of 12 x 4 = 48 slices.\nBryce and two friends ate 2/3 of their pizzas, so they ate 2/3 x 12 = 8 slices each.\nThe two remaining friends ate 3/4 of their pizzas, so they ate 3/4 x 12 = 9 slices each.\nIn total, Bryce and his two friends ate 8 x 3 = 24 slices.\nThe two remaining friends ate 9 x 2 = 18 slices.\nSo, in total, they ate 24 + 18 = 42 slices.\nTherefore, there were 48 - 42 = 6 slices of pizza left.\nThe answer is 6"]}
+null
+null
+{"version": "fail_code_result_match", "details": ["200", "112", "200", "\n# define the number of students' cars and teachers' cars\nstudents_cars = 64\nteachers_cars = 32\n\n# define the number of windows in each car\nstudents_windows = 4\nteachers_windows = 2\n\n# calculate the total number of windows\ntotal_windows = students_cars * students_windows + teachers_cars * teachers_windows\n\n# calculate the number of windows Hannah smashes\nhannah_windows = total_windows * (1/4 + 3/4 * (teachers_cars / students_cars))\n\n# print the result\nprint(int(hannah_windows))\n", "Let's write a program.\n```python\n# define the number of students' cars and teachers' cars\nstudents_cars = 64\nteachers_cars = 32\n\n# define the number of windows in each car\nstudents_windows = 4\nteachers_windows = 2\n\n# calculate the total number of windows\ntotal_windows = students_cars * students_windows + teachers_cars * teachers_windows\n\n# calculate the number of windows Hannah smashes\nhannah_windows = total_windows * (1/4 + 3/4 * (teachers_cars / students_cars))\n\n# print the result\nprint(int(hannah_windows))\n```"]}
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["6"], "5", ["6"], "Let's reason step by step.\nGreg found $20 and he wants to split it equally among his 3 younger siblings.\nTo find out how much money each sibling gets, we divide the total amount of money by the number of siblings.\nSo, each sibling gets $20 / 3 = $6.67\nSince we can't have a fraction of a dollar, each sibling gets $6.\nThe answer is 6"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["6", "3", "6", "\n# define the total number of students and the current number of groups\ntotal_students = 54\ncurrent_groups = 6\n\n# calculate the number of students per group\nstudents_per_group = total_students / current_groups\n\n# define the required number of groups\nrequired_groups = 12\n\n# calculate the number of students required for the required number of groups\nrequired_students = required_groups * students_per_group\n\n# calculate the number of additional groups needed\nadditional_groups = required_students - total_students\n\n# print the result\nprint(int(additional_groups/students_per_group))\n", "Let's write a program.\n```python\n# define the total number of students and the current number of groups\ntotal_students = 54\ncurrent_groups = 6\n\n# calculate the number of students per group\nstudents_per_group = total_students / current_groups\n\n# define the required number of groups\nrequired_groups = 12\n\n# calculate the number of students required for the required number of groups\nrequired_students = required_groups * students_per_group\n\n# calculate the number of additional groups needed\nadditional_groups = required_students - total_students\n\n# print the result\nprint(int(additional_groups/students_per_group))\n```"]}
+null
+null
+{"version": "fail_code_result_match", "details": ["300", "240", "300.0", "\n# define the variables\ntotal_bill_per_month = 100\nnumber_of_roommates = 4\nmonths_per_year = 12\n\n# calculate the total bill per year\ntotal_bill_per_year = total_bill_per_month * months_per_year\n\n# calculate the share per roommate per year\nshare_per_roommate_per_year = total_bill_per_year / number_of_roommates\n\n# print the result\nprint(share_per_roommate_per_year)\n", "Let's write a program.\n```python\n# define the variables\ntotal_bill_per_month = 100\nnumber_of_roommates = 4\nmonths_per_year = 12\n\n# calculate the total bill per year\ntotal_bill_per_year = total_bill_per_month * months_per_year\n\n# calculate the share per roommate per year\nshare_per_roommate_per_year = total_bill_per_year / number_of_roommates\n\n# print the result\nprint(share_per_roommate_per_year)\n```"]}
+null
+{"version": "fail_code_result_match", "details": ["92", "89", "92", "\n# define the initial number of stickers\nsmall_stickers = 30\nlarge_stickers = 40\n\n# calculate the number of buttons Lorraine gets\nlarge_buttons = 0.9 * small_stickers / 3 + 0.5 * large_stickers\nsmall_buttons = 0.1 * small_stickers + 0.5 * large_stickers * 3\n\n# calculate the total number of buttons\ntotal_buttons = large_buttons + small_buttons\n\nprint(int(total_buttons))\n", "Let's write a program.\n```python\n# define the initial number of stickers\nsmall_stickers = 30\nlarge_stickers = 40\n\n# calculate the number of buttons Lorraine gets\nlarge_buttons = 0.9 * small_stickers / 3 + 0.5 * large_stickers\nsmall_buttons = 0.1 * small_stickers + 0.5 * large_stickers * 3\n\n# calculate the total number of buttons\ntotal_buttons = large_buttons + small_buttons\n\nprint(int(total_buttons))\n```"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["600"], "675", ["600"], "Let's reason step by step.\nIf Ezra read twice as many books as Ahmed, then Ahmed read 300/2 = 150 books.\nTogether, they read 300 + 150 = 450 books.\nIf Ezra decided to read 150 more books, then he read a total of 300 + 150 = 450 books.\nTherefore, they have read a total of 450 + 150 = 600 books altogether.\nThe answer is 600"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["330", "255", "330.0", "\n# define the variables\ndrive_time = 6 # hours\ndrive_speed = 50 # miles per hour\nhike_time = 1.5 # hours\nhike_speed = drive_speed / 2 - 5 # miles per hour\n\n# calculate the distance\ndrive_distance = drive_time * drive_speed\nhike_distance = hike_time * hike_speed\ntotal_distance = drive_distance + hike_distance\n\nprint(total_distance)\n", "Let's write a program.\n```python\n# define the variables\ndrive_time = 6 # hours\ndrive_speed = 50 # miles per hour\nhike_time = 1.5 # hours\nhike_speed = drive_speed / 2 - 5 # miles per hour\n\n# calculate the distance\ndrive_distance = drive_time * drive_speed\nhike_distance = hike_time * hike_speed\ntotal_distance = drive_distance + hike_distance\n\nprint(total_distance)\n```"]}
+null
+null
+{"version": "fail_code_result_match", "details": ["27", "54", "27", "\n# define the variables\nusual_days = 5\nusual_rides = 3\nextra_days = 2\nextra_rides = 2 * usual_rides\n\n# calculate total rides\ntotal_rides = (usual_days * usual_rides) + (extra_days * extra_rides)\n\n# print the result\nprint(total_rides)\n", "Let's write a program.\n```python\n# define the variables\nusual_days = 5\nusual_rides = 3\nextra_days = 2\nextra_rides = 2 * usual_rides\n\n# calculate total rides\ntotal_rides = (usual_days * usual_rides) + (extra_days * extra_rides)\n\n# print the result\nprint(total_rides)\n```"]}
+null
+null
+null
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["-4", "4", "-4", "\n# define the variables\nday_temp = 45\nnight_temp = day_temp - 33\npipe_freeze_temp = 32\nlog_heats = 5\n\n# calculate the number of logs needed\nlogs_needed = (night_temp - pipe_freeze_temp) / log_heats\n\n# print the result\nprint(int(logs_needed))\n", "Let's write a program.\n```python\n# define the variables\nday_temp = 45\nnight_temp = day_temp - 33\npipe_freeze_temp = 32\nlog_heats = 5\n\n# calculate the number of logs needed\nlogs_needed = (night_temp - pipe_freeze_temp) / log_heats\n\n# print the result\nprint(int(logs_needed))\n```"]}
+{"version": "fail_code_result_match", "details": ["12", "108", "12", "\n# total number of people\ntotal_people = 90\n# size of each group\ngroup_size = 9\n# total number of groups\ntotal_groups = total_people / group_size\n# number of groups that brought back seashells\ngroups_with_seashells = total_groups * 3/5\n# total number of seashells\ntotal_seashells = groups_with_seashells * 2\nprint(int(total_seashells))\n", "Let's write a program.\n```python\n# total number of people\ntotal_people = 90\n# size of each group\ngroup_size = 9\n# total number of groups\ntotal_groups = total_people / group_size\n# number of groups that brought back seashells\ngroups_with_seashells = total_groups * 3/5\n# total number of seashells\ntotal_seashells = groups_with_seashells * 2\nprint(int(total_seashells))\n```"]}
+null
+null
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["1040000", "2880000", "1040000", "\n# define the initial number of employees, monthly hiring, salary per employee and number of months\ninitial_employees = 200\nmonthly_hiring = 20\nsalary_per_employee = 4000\nmonths = 3\n\n# calculate the total number of employees after three months\ntotal_employees = initial_employees + monthly_hiring * months\n\n# calculate the total amount of money the company pays to its employees after three months\ntotal_salary = total_employees * salary_per_employee\n\n# print the result\nprint(total_salary)\n", "Let's write a program.\n```python\n# define the initial number of employees, monthly hiring, salary per employee and number of months\ninitial_employees = 200\nmonthly_hiring = 20\nsalary_per_employee = 4000\nmonths = 3\n\n# calculate the total number of employees after three months\ntotal_employees = initial_employees + monthly_hiring * months\n\n# calculate the total amount of money the company pays to its employees after three months\ntotal_salary = total_employees * salary_per_employee\n\n# print the result\nprint(total_salary)\n```"]}
+null
+{"version": "fail_code_result_match", "details": ["-10", "20", "-10.0", "\n# define the initial salary and the hours worked\nbilly_initial_salary = 10\nsally_initial_salary = billy_initial_salary + 0.50\nhours_worked = 20\n\n# calculate the total earnings for Billy and Sally\nbilly_earnings = billy_initial_salary * hours_worked\nsally_earnings = sally_initial_salary * hours_worked\n\n# calculate the difference\ndifference = billy_earnings - sally_earnings\n\n# print the result\nprint(difference)\n", "Let's write a program.\n```python\n# define the initial salary and the hours worked\nbilly_initial_salary = 10\nsally_initial_salary = billy_initial_salary + 0.50\nhours_worked = 20\n\n# calculate the total earnings for Billy and Sally\nbilly_earnings = billy_initial_salary * hours_worked\nsally_earnings = sally_initial_salary * hours_worked\n\n# calculate the difference\ndifference = billy_earnings - sally_earnings\n\n# print the result\nprint(difference)\n```"]}
+null
+null
+null
+{"version": "fail_execution", "details": ["local variable 'goats_needed' referenced before assignment", "\n# define the number of each stuffed animal\npuppies = 3\nkoalas = 5\nzebras = 2\nfrogs = 4\n\n# calculate the total number of stuffed animals\ntotal_animals = puppies + koalas + zebras + frogs\n\n# calculate the number of stuffed goats needed to make them 30% of the total\ngoats_needed = 0.3 * (total_animals + goats_needed)\n\n# solve for goats_needed\ngoats_needed = 0.3 * (total_animals + goats_needed)\ngoats_needed = (0.3 * total_animals) / (1 - 0.3)\n\n# print the result\nprint(int(goats_needed))\n", "Let's write a program.\n```python\n# define the number of each stuffed animal\npuppies = 3\nkoalas = 5\nzebras = 2\nfrogs = 4\n\n# calculate the total number of stuffed animals\ntotal_animals = puppies + koalas + zebras + frogs\n\n# calculate the number of stuffed goats needed to make them 30% of the total\ngoats_needed = 0.3 * (total_animals + goats_needed)\n\n# solve for goats_needed\ngoats_needed = 0.3 * (total_animals + goats_needed)\ngoats_needed = (0.3 * total_animals) / (1 - 0.3)\n\n# print the result\nprint(int(goats_needed))\n```"]}
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["0.7", "70", "0.7", "\n# define the number of students and the number of students who passed\nthird_graders = 500\nthird_graders_passed = 340\nfourth_graders = 100\nfourth_graders_passed = 40\nfifth_graders = 400\n\n# calculate the pass rate for each grade\nthird_graders_pass_rate = third_graders_passed / third_graders\nfourth_graders_pass_rate = fourth_graders_passed / fourth_graders\nfifth_graders_pass_rate = 2 * fourth_graders_pass_rate\n\n# calculate the overall pass rate\noverall_pass_rate = (third_graders_passed + fourth_graders_passed + fifth_graders_pass_rate * fifth_graders) / (third_graders + fourth_graders + fifth_graders)\n\n# print the overall pass rate\nprint(overall_pass_rate)\n", "Let's write a program.\n```python\n# define the number of students and the number of students who passed\nthird_graders = 500\nthird_graders_passed = 340\nfourth_graders = 100\nfourth_graders_passed = 40\nfifth_graders = 400\n\n# calculate the pass rate for each grade\nthird_graders_pass_rate = third_graders_passed / third_graders\nfourth_graders_pass_rate = fourth_graders_passed / fourth_graders\nfifth_graders_pass_rate = 2 * fourth_graders_pass_rate\n\n# calculate the overall pass rate\noverall_pass_rate = (third_graders_passed + fourth_graders_passed + fifth_graders_pass_rate * fifth_graders) / (third_graders + fourth_graders + fifth_graders)\n\n# print the overall pass rate\nprint(overall_pass_rate)\n```"]}
+null
+null
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["83", "79", "83", "\n# define the number of flowers and petals for each type\nflowers_5 = 3\nflowers_6 = 4\nflowers_4 = 5\nflowers_7 = 6\n\n# calculate the total number of petals before dropping and blowing away\ntotal_petals = flowers_5*5 + flowers_6*6 + flowers_4*4 + flowers_7*7\n\n# subtract the petals of the flowers dropped and blown away\ntotal_petals -= (flowers_5 + flowers_6 + flowers_4 + flowers_7)\n\n# print the result\nprint(total_petals)\n", "Let's write a program.\n```python\n# define the number of flowers and petals for each type\nflowers_5 = 3\nflowers_6 = 4\nflowers_4 = 5\nflowers_7 = 6\n\n# calculate the total number of petals before dropping and blowing away\ntotal_petals = flowers_5*5 + flowers_6*6 + flowers_4*4 + flowers_7*7\n\n# subtract the petals of the flowers dropped and blown away\ntotal_petals -= (flowers_5 + flowers_6 + flowers_4 + flowers_7)\n\n# print the result\nprint(total_petals)\n```"]}
+null
+{"version": "fail_code_result_match", "details": ["14", "11", "14.0", "\n# define the time in minutes\ntotal_time = 4 * 60  # 4 hours in minutes\n\n# define the time each person can play\njack_time = 20\nfriend1_time = jack_time / 2\nfriend2_time = jack_time * 1.5\n\n# calculate the total time used\ntotal_time_used = jack_time + 2 * friend1_time + friend2_time\n\n# calculate the number of quarters used\nquarters_used = total_time_used / 20\n\n# calculate the total cost\ntotal_cost = quarters_used * 4  # 4 people playing\n\nprint(total_cost)\n", "Let's write a program.\n```python\n# define the time in minutes\ntotal_time = 4 * 60  # 4 hours in minutes\n\n# define the time each person can play\njack_time = 20\nfriend1_time = jack_time / 2\nfriend2_time = jack_time * 1.5\n\n# calculate the total time used\ntotal_time_used = jack_time + 2 * friend1_time + friend2_time\n\n# calculate the number of quarters used\nquarters_used = total_time_used / 20\n\n# calculate the total cost\ntotal_cost = quarters_used * 4  # 4 people playing\n\nprint(total_cost)\n```"]}
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["18", "14", "18", "\n# define the scores\nsasha_first_game = 14\njulie_first_game = sasha_first_game - 4\nsasha_second_game = julie_first_game - 6\n\n# calculate total score\ntotal_score = sasha_first_game + sasha_second_game\n\n# print the result\nprint(total_score)\n", "Let's write a program.\n```python\n# define the scores\nsasha_first_game = 14\njulie_first_game = sasha_first_game - 4\nsasha_second_game = julie_first_game - 6\n\n# calculate total score\ntotal_score = sasha_first_game + sasha_second_game\n\n# print the result\nprint(total_score)\n```"]}
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["-21", "11", "-21.0", "\n# define the variables\nbook_weight = 4  # in pounds\nbook_cost = 32  # in dollars\ndistance = 20  # in miles\nshipping_cost_per_pound = 0.35  # in dollars\nshipping_cost_per_mile = 0.08  # in dollars\nrefund_percentage = 0.75  # in decimal\n\n# calculate the total shipping cost\ntotal_shipping_cost = book_weight * shipping_cost_per_pound + distance * shipping_cost_per_mile\n\n# calculate the refund amount\nrefund_amount = book_cost * refund_percentage\n\n# calculate the total money Milly will lose\nmoney_lost = total_shipping_cost - refund_amount\n\n# print the result\nprint(money_lost)\n", "Let's write a program.\n```python\n# define the variables\nbook_weight = 4  # in pounds\nbook_cost = 32  # in dollars\ndistance = 20  # in miles\nshipping_cost_per_pound = 0.35  # in dollars\nshipping_cost_per_mile = 0.08  # in dollars\nrefund_percentage = 0.75  # in decimal\n\n# calculate the total shipping cost\ntotal_shipping_cost = book_weight * shipping_cost_per_pound + distance * shipping_cost_per_mile\n\n# calculate the refund amount\nrefund_amount = book_cost * refund_percentage\n\n# calculate the total money Milly will lose\nmoney_lost = total_shipping_cost - refund_amount\n\n# print the result\nprint(money_lost)\n```"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["180", "120", "180", "\n# define the cost of the laptop, the discount, the money Erika already has, and the money her mom gives her\nlaptop_cost = 600\ndiscount = 200\nmoney_she_has = 150\nmoney_from_mom = 80\nextra_money_needed = 50\n\n# calculate the cost of the laptop after the discount\ndiscounted_laptop_cost = laptop_cost - discount\n\n# calculate the total money Erika has\ntotal_money = money_she_has + money_from_mom\n\n# calculate the money she has in her purse\nmoney_in_purse = total_money - extra_money_needed\n\n# print the result\nprint(money_in_purse)\n", "Let's write a program.\n```python\n# define the cost of the laptop, the discount, the money Erika already has, and the money her mom gives her\nlaptop_cost = 600\ndiscount = 200\nmoney_she_has = 150\nmoney_from_mom = 80\nextra_money_needed = 50\n\n# calculate the cost of the laptop after the discount\ndiscounted_laptop_cost = laptop_cost - discount\n\n# calculate the total money Erika has\ntotal_money = money_she_has + money_from_mom\n\n# calculate the money she has in her purse\nmoney_in_purse = total_money - extra_money_needed\n\n# print the result\nprint(money_in_purse)\n```"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["2000", "7000", "2000.0", "\n# calculate the number of chickens Isaias plans to sell\nchickens_to_sell = 300 * 3/5\n# calculate the total amount of money Isaias needs to make a profit of $2000\ntotal_money_needed = 2000 + chickens_to_sell * 50\n# calculate the amount of money Isaias bought the chickens for\nmoney_bought = total_money_needed - chickens_to_sell * 50\nprint(money_bought)\n", "Let's write a program.\n```python\n# calculate the number of chickens Isaias plans to sell\nchickens_to_sell = 300 * 3/5\n# calculate the total amount of money Isaias needs to make a profit of $2000\ntotal_money_needed = 2000 + chickens_to_sell * 50\n# calculate the amount of money Isaias bought the chickens for\nmoney_bought = total_money_needed - chickens_to_sell * 50\nprint(money_bought)\n```"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["13"], "1", ["13"], "Let's reason step by step.\nMartha bought 7-5=2 notebooks.\nJoseph had 3*5=15 notebooks.\nMartha has 15-2=13 more notebooks than Martha.\nThe answer is 13"]}
+null
+null
+null
+{"version": "fail_grading_match", "details": [["2"], "1", ["2"], "Let's reason step by step.\nCalvin has enough soup to fill four adult's bowls or eight child's bowls.\nHe is an adult and will be eating with his adult wife and their two children.\nSo, there are a total of 1 + 1 + 2 = 4 people eating.\nIf everyone eats one bowl at a meal, then there will be 8 - 4 = 4 bowls of soup left over.\nSince each child can have one bowl of soup for lunch, each child will be able to have 4 / 2 = 2 bowls of soup for lunch.\nThe answer is 2"]}
+null
+{"version": "fail_code_result_match", "details": ["58", "16", "58.0", "\n# define the number of masks and the amount of material needed for each type of mask\nsmall_masks = 20\nlarge_masks = 8\nsmall_material = 2\nlarge_material = 2.25\n\n# calculate the total amount of material needed\ntotal_material = small_masks * small_material + large_masks * large_material\n\n# print the result\nprint(total_material)\n", "Let's write a program.\n```python\n# define the number of masks and the amount of material needed for each type of mask\nsmall_masks = 20\nlarge_masks = 8\nsmall_material = 2\nlarge_material = 2.25\n\n# calculate the total amount of material needed\ntotal_material = small_masks * small_material + large_masks * large_material\n\n# print the result\nprint(total_material)\n```"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["4", "2", "4", "\n# define the total number of cups and the number of rows\ntotal_cups = 27\nrows = 3\n\n# calculate the number of cups in each row\ncups_per_row = total_cups / rows\n\n# calculate the number of cups of mint tea in each row\nmint_cups_per_row = cups_per_row / 2\n\n# print the result\nprint(int(mint_cups_per_row))\n", "Let's write a program.\n```python\n# define the total number of cups and the number of rows\ntotal_cups = 27\nrows = 3\n\n# calculate the number of cups in each row\ncups_per_row = total_cups / rows\n\n# calculate the number of cups of mint tea in each row\nmint_cups_per_row = cups_per_row / 2\n\n# print the result\nprint(int(mint_cups_per_row))\n```"]}
+null
+null
+{"version": "fail_code_result_match", "details": ["11", "1", "11", "\n# define the cost of each item\nticket_cost = 10\npopcorn_cost = 8\ncandy_cost = 2\n\n# define the amount of money Colby has\nmoney = 150\n\n# define the cost of the items Colby already bought\nalready_bought = 2 * popcorn_cost + 4 * candy_cost\n\n# calculate the remaining money Colby has\nremaining_money = money - already_bought\n\n# calculate the cost of a movie on a Friday or Saturday\nmovie_cost_friday_saturday = ticket_cost\n\n# calculate the cost of a movie on any other day\nmovie_cost_other_day = ticket_cost\n\n# calculate the number of movies Colby can see\nnum_movies_friday_saturday = (remaining_money - 5 * movie_cost_friday_saturday) // movie_cost_friday_saturday\nnum_movies_other_day = (remaining_money - 8 * movie_cost_other_day) // movie_cost_other_day\n\n# calculate the total number of movies Colby can see\ntotal_movies = num_movies_friday_saturday + num_movies_other_day\n\nprint(total_movies)\n", "Let's write a program.\n```python\n# define the cost of each item\nticket_cost = 10\npopcorn_cost = 8\ncandy_cost = 2\n\n# define the amount of money Colby has\nmoney = 150\n\n# define the cost of the items Colby already bought\nalready_bought = 2 * popcorn_cost + 4 * candy_cost\n\n# calculate the remaining money Colby has\nremaining_money = money - already_bought\n\n# calculate the cost of a movie on a Friday or Saturday\nmovie_cost_friday_saturday = ticket_cost\n\n# calculate the cost of a movie on any other day\nmovie_cost_other_day = ticket_cost\n\n# calculate the number of movies Colby can see\nnum_movies_friday_saturday = (remaining_money - 5 * movie_cost_friday_saturday) // movie_cost_friday_saturday\nnum_movies_other_day = (remaining_money - 8 * movie_cost_other_day) // movie_cost_other_day\n\n# calculate the total number of movies Colby can see\ntotal_movies = num_movies_friday_saturday + num_movies_other_day\n\nprint(total_movies)\n```"]}
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["70"], "50", ["70"], "Let's reason step by step.\nLet's assume the age of Jean is J\nSince Paul is 10 years older than Jean, the age of Paul is J + 10\nSince Peter's age is equal to the sum of Paul and Jean's age, the age of Peter is J + (J + 10) = 2J + 10\nThe combined age of Peter, Paul, and Jean is J + (J + 10) + J = 3J + 10\nWe know that the combined age is 100 years old, so 3J + 10 = 100\nSubtracting 10 from both sides, we get 3J = 90\nDividing both sides by 3, we get J = 30\nTherefore, the age of Jean is 30 years old\nSince Peter's age is equal to the sum of Paul and Jean's age, the age of Peter is 30 + (30 + 10) = 70 years old\nThe answer is 70"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["178.75", "205", "178.75", "\n# define the constants\nvisit_charge = 40\nlabor_charge_per_hour = 35\nparts_charge = 60\n\n# calculate the total charge\ntotal_charge = visit_charge + 2.25 * labor_charge_per_hour + parts_charge\n\n# print the result\nprint(total_charge)\n", "Let's write a program.\n```python\n# define the constants\nvisit_charge = 40\nlabor_charge_per_hour = 35\nparts_charge = 60\n\n# calculate the total charge\ntotal_charge = visit_charge + 2.25 * labor_charge_per_hour + parts_charge\n\n# print the result\nprint(total_charge)\n```"]}
+{"version": "fail_grading_match", "details": [["70"], "50", ["70"], "Let's reason step by step.\nHe got 10*15=$150 worth of CDs\nThe CDs were 40% off so he paid 100-40=60% of the original price\nSo he paid 150*.6=$90 for the CDs\nHe sold 5 CDs for $40 so he got 5*40=$200\nSo he was out 90-200=$70\nThe answer is 70"]}
+null
+null
+null
+null
+null
+{"version": "fail_execution", "details": ["name 'L\u00e9o' is not defined", "\n# define the ages\nDeanna = 26\nMarcus = Deanna - 5\nLeo = Marcus * 2\nprint(L\u00e9o)\n", "Let's write a program.\n```python\n# define the ages\nDeanna = 26\nMarcus = Deanna - 5\nLeo = Marcus * 2\nprint(L\u00e9o)\n```"]}
+null
+null
+{"version": "fail_grading_match", "details": [["900"], "360", ["900"], "Let's reason step by step.\nHe worked 15 hours because 3 = 11 - 8\nHe stapled 60 reports because 30 x 2 = 60\nHe stapled 900 reports because 60 x 15 = 900\nThe answer is 900"]}
+{"version": "fail_code_result_match", "details": ["1837", "452", "1837", "\n# define the usual sleep hours and the extra sleep hours\nusual_sleep_hours = 8\nextra_sleep_hours = 23\n\n# calculate the total sleep hours\ntotal_sleep_hours = usual_sleep_hours + extra_sleep_hours\n\n# convert the total sleep hours to minutes\ntotal_sleep_minutes = total_sleep_hours * 60\n\n# subtract the extra sleep minutes\nsleep_minutes = total_sleep_minutes - 23\n\n# print the result\nprint(sleep_minutes)\n", "Let's write a program.\n```python\n# define the usual sleep hours and the extra sleep hours\nusual_sleep_hours = 8\nextra_sleep_hours = 23\n\n# calculate the total sleep hours\ntotal_sleep_hours = usual_sleep_hours + extra_sleep_hours\n\n# convert the total sleep hours to minutes\ntotal_sleep_minutes = total_sleep_hours * 60\n\n# subtract the extra sleep minutes\nsleep_minutes = total_sleep_minutes - 23\n\n# print the result\nprint(sleep_minutes)\n```"]}
+null
+null
+{"version": "fail_code_result_match", "details": ["3", "1", "3", "\n# define the total number of emails\ntotal_emails = 16\n\n# calculate the number of work emails\nwork_emails = 7\n\n# calculate the remaining emails\nremaining_emails = total_emails - work_emails\n\n# calculate the number of emails to family\nfamily_emails = 2/3 * remaining_emails\n\n# calculate the number of emails to boyfriend\nboyfriend_emails = 1/3 * remaining_emails\n\n# print the result\nprint(int(boyfriend_emails))\n", "Let's write a program.\n```python\n# define the total number of emails\ntotal_emails = 16\n\n# calculate the number of work emails\nwork_emails = 7\n\n# calculate the remaining emails\nremaining_emails = total_emails - work_emails\n\n# calculate the number of emails to family\nfamily_emails = 2/3 * remaining_emails\n\n# calculate the number of emails to boyfriend\nboyfriend_emails = 1/3 * remaining_emails\n\n# print the result\nprint(int(boyfriend_emails))\n```"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["100"], "120", ["100"], "Let's reason step by step.\nMrs. Harrington bought 12 boxes of oranges.\nShe gave her mom and her sister 2 boxes of oranges each, so she gave away a total of 2 + 2 = 4 boxes of oranges.\nShe kept 1/4 of the oranges, which is 1/4 * 12 = 3 boxes of oranges.\nSo she sold 12 - 4 - 3 = 5 boxes of oranges.\nEach box contains 20 oranges, so she sold a total of 5 * 20 = 100 oranges.\nThe answer is 100"]}
+null
+{"version": "fail_grading_match", "details": [["7"], "5", ["7"], "Let's reason step by step.\nTyler needs to earn $18 + $13 + $8 = $49 to afford his books.\nHe has already saved $14, so he needs to earn an additional $49 - $14 = $35.\nTyler earns $5 per hour, so he needs to work $35 / $5 = 7 hours.\nTherefore, Tyler has to work 7 hours to afford his books.\nThe answer is 7"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["164.39999999999998", "342", "164.39999999999998", "\n# convert the length of the flower bed to feet\nflower_bed_length = 111\n# convert the width of the flowers to feet\nflower_width = 12/12\n# calculate the number of flowers needed\nflowers_needed = flower_bed_length / (flower_width + 1.5)\n# subtract the number of flowers already owned\nflowers_to_buy = flowers_needed - 17\n# calculate the cost\ncost = flowers_to_buy * 6\nprint(cost)\n", "Let's write a program.\n```python\n# convert the length of the flower bed to feet\nflower_bed_length = 111\n# convert the width of the flowers to feet\nflower_width = 12/12\n# calculate the number of flowers needed\nflowers_needed = flower_bed_length / (flower_width + 1.5)\n# subtract the number of flowers already owned\nflowers_to_buy = flowers_needed - 17\n# calculate the cost\ncost = flowers_to_buy * 6\nprint(cost)\n```"]}
+null
+null
+null
+{"version": "fail_grading_match", "details": [["18"], "6", ["18"], "Let's reason step by step.\nShe sets 25% of her paycheck aside so that's 2000*.25 = $500.00\nShe makes $2,000.00 a month and sets $500.00 aside each month so she has 2000-500 = $1500.00 left over each month\nShe has $1500.00 left over each month and she spends $1000.00 on shoes each month so she can buy 1500/1000 = 1.5 pairs of shoes each month\nShe can buy 1.5 pairs of shoes each month and there are 12 months in a year so she can buy 1.5*12 = 18 pairs of shoes in a year\nThe answer is 18"]}
+{"version": "fail_code_result_match", "details": ["10", "45", "10.0", "\n# define the rate of peeling and sauteing\npeeling_rate = 6 # shrimp per minute\nsauteing_rate = 30 / 10 # shrimp per minute\n\n# calculate the total rate\ntotal_rate = peeling_rate + sauteing_rate\n\n# calculate the time needed to cook 90 shrimp\ntime_needed = 90 / total_rate\n\n# print the result\nprint(time_needed)\n", "Let's write a program.\n```python\n# define the rate of peeling and sauteing\npeeling_rate = 6 # shrimp per minute\nsauteing_rate = 30 / 10 # shrimp per minute\n\n# calculate the total rate\ntotal_rate = peeling_rate + sauteing_rate\n\n# calculate the time needed to cook 90 shrimp\ntime_needed = 90 / total_rate\n\n# print the result\nprint(time_needed)\n```"]}
+null
+{"version": "fail_grading_match", "details": [["35"], "15", ["35"], "Let's reason step by step.\nIf Bill's dad saw the comet when he was 30 years old, and the comet orbits the sun every 75 years, then Bill's dad was 30 + 75 = 105 years old when he saw the comet for the second time.\nIf Bill saw the comet a second time when he was three times the age his father was when he saw the Comet, then Bill was 105 / 3 = 35 years old when he saw the comet for the first time.\nThe answer is 35"]}
+null
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["13", "3", "13.0", "\n# define the total age of the children\ntotal_age = 20\n\n# define the age of Akbar and Alessandro\nakbar_age = 3\nalessandro_age = 4\n\n# calculate the total age of Akbar and Alessandro\ntotal_older_children_age = akbar_age + alessandro_age\n\n# calculate the total age of the younger children\nyounger_children_age = total_age - total_older_children_age\n\n# calculate the average age of the group\naverage_age = younger_children_age / 2\n\n# calculate the age of Wilfred\nwilfred_age = 2 * average_age\n\n# print the age of Wilfred\nprint(wilfred_age)\n", "Let's write a program.\n```python\n# define the total age of the children\ntotal_age = 20\n\n# define the age of Akbar and Alessandro\nakbar_age = 3\nalessandro_age = 4\n\n# calculate the total age of Akbar and Alessandro\ntotal_older_children_age = akbar_age + alessandro_age\n\n# calculate the total age of the younger children\nyounger_children_age = total_age - total_older_children_age\n\n# calculate the average age of the group\naverage_age = younger_children_age / 2\n\n# calculate the age of Wilfred\nwilfred_age = 2 * average_age\n\n# print the age of Wilfred\nprint(wilfred_age)\n```"]}
+{"version": "fail_grading_match", "details": [["6200"], "6600", ["6200"], "Let's reason step by step.\nWalter collected $500 from his neighbors and $1500 from the online fund, so he collected a total of $500 + $1500 = $2000.\nHis lawyer is going to donate three times as much as everyone else, so his lawyer will donate 3 * $2000 = $6000.\nWalter's friend is going to give him an additional $200, so his lawyer will contribute $6000 + $200 = $6200.\nThe answer is 6200"]}
+null
+null
+{"version": "fail_code_result_match", "details": ["7", "1", "7.0", "\n# define the time spent on each activity in minutes\ntime_at_clinic = 9 * 60  # 9 hours in minutes\ntime_per_inpatient = 20  # 20 minutes per inpatient\ntime_per_appointment = 30  # 30 minutes per appointment\n\n# calculate the total time spent on rounds and appointments\ntotal_rounds_time = 9 * time_per_inpatient\ntotal_appointments_time = 10 * time_per_appointment\n\n# calculate the total time spent\ntotal_time_spent = time_at_clinic + total_rounds_time + total_appointments_time\n\n# calculate the time left to update records\ntime_left = 24 * 60 - total_time_spent  # 24 hours in minutes\n\n# convert the time left to hours\ntime_left_hours = time_left / 60\n\n# print the result\nprint(time_left_hours)\n", "Let's write a program.\n```python\n# define the time spent on each activity in minutes\ntime_at_clinic = 9 * 60  # 9 hours in minutes\ntime_per_inpatient = 20  # 20 minutes per inpatient\ntime_per_appointment = 30  # 30 minutes per appointment\n\n# calculate the total time spent on rounds and appointments\ntotal_rounds_time = 9 * time_per_inpatient\ntotal_appointments_time = 10 * time_per_appointment\n\n# calculate the total time spent\ntotal_time_spent = time_at_clinic + total_rounds_time + total_appointments_time\n\n# calculate the time left to update records\ntime_left = 24 * 60 - total_time_spent  # 24 hours in minutes\n\n# convert the time left to hours\ntime_left_hours = time_left / 60\n\n# print the result\nprint(time_left_hours)\n```"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["87.77429467084639", "94", "87.77429467084639", "\n# Assuming the power bank has a total capacity of 100%\n# Let's denote the initial charge as x\n# After 5 hours, the charge is x - 5*9% of x = x - 0.45x = 0.55x\n# After 3 more hours, the charge is 0.55x - 3*7% of 0.55x = 0.55x - 0.231x = 0.319x\n# We know that 0.319x = 28% of 100% = 28\n# So, we can solve for x\n\nx = 28 / 0.319\nprint(x)\n", "Let's write a program.\n```python\n# Assuming the power bank has a total capacity of 100%\n# Let's denote the initial charge as x\n# After 5 hours, the charge is x - 5*9% of x = x - 0.45x = 0.55x\n# After 3 more hours, the charge is 0.55x - 3*7% of 0.55x = 0.55x - 0.231x = 0.319x\n# We know that 0.319x = 28% of 100% = 28\n# So, we can solve for x\n\nx = 28 / 0.319\nprint(x)\n```"]}
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["139", "138", "139", "\ninitial_price = 120\nyears = 3\nprice_increase = 0.05\n\nfinal_price = initial_price * ((1 + price_increase) ** years)\n\nprint(round(final_price))\n", "Let's write a program.\n```python\ninitial_price = 120\nyears = 3\nprice_increase = 0.05\n\nfinal_price = initial_price * ((1 + price_increase) ** years)\n\nprint(round(final_price))\n```"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["40", "35", "40", "\n# calculate the number of soda bottles\nnum_bottles = 24 // 3\n# calculate the total time\ntotal_time = num_bottles * 5\nprint(total_time)\n", "Let's write a program.\n```python\n# calculate the number of soda bottles\nnum_bottles = 24 // 3\n# calculate the total time\ntotal_time = num_bottles * 5\nprint(total_time)\n```"]}
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["80", "160", "80", "\n# define the dimensions of the bed\nbed_length = 6\nbed_width = 8\n\n# calculate the dimensions of the fabric needed\nfabric_length = bed_length + 2\nfabric_width = bed_width + 2\n\n# calculate the area of the fabric needed\nfabric_area = fabric_length * fabric_width\n\n# print the result\nprint(fabric_area)\n", "Let's write a program.\n```python\n# define the dimensions of the bed\nbed_length = 6\nbed_width = 8\n\n# calculate the dimensions of the fabric needed\nfabric_length = bed_length + 2\nfabric_width = bed_width + 2\n\n# calculate the area of the fabric needed\nfabric_area = fabric_length * fabric_width\n\n# print the result\nprint(fabric_area)\n```"]}
+null
+null
+{"version": "fail_code_result_match", "details": ["10.833333333333334", "3", "10.833333333333334", "\n# define the losses and wins\nfirst_loss = 5\nsecond_win = 2 * first_loss + 1\nthird_loss = 1.5 * second_win\n\n# calculate the average loss\naverage_loss = (first_loss + second_win + third_loss) / 3\n\n# print the result\nprint(average_loss)\n", "Let's write a program.\n```python\n# define the losses and wins\nfirst_loss = 5\nsecond_win = 2 * first_loss + 1\nthird_loss = 1.5 * second_win\n\n# calculate the average loss\naverage_loss = (first_loss + second_win + third_loss) / 3\n\n# print the result\nprint(average_loss)\n```"]}
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["47.25", "189", "47.25", "\n# define the variables\ntotal_days = 3 * 7  # 3 weeks\nwork_per_day = 3/8  # 3/8 of a day\npainters = 4\n\n# calculate total work in hours\ntotal_work = total_days * work_per_day * 24  # 24 hours in a day\n\n# calculate work per painter\nwork_per_painter = total_work / painters\n\n# print the result\nprint(work_per_painter)\n", "Let's write a program.\n```python\n# define the variables\ntotal_days = 3 * 7  # 3 weeks\nwork_per_day = 3/8  # 3/8 of a day\npainters = 4\n\n# calculate total work in hours\ntotal_work = total_days * work_per_day * 24  # 24 hours in a day\n\n# calculate work per painter\nwork_per_painter = total_work / painters\n\n# print the result\nprint(work_per_painter)\n```"]}
+null
+{"version": "fail_code_result_match", "details": ["9860.78", "7400", "9860.78", "\ninitial_price = 20000\nyears = 2010 - 2007\ndepreciation_rate = 0.21\n\nfinal_price = initial_price * ((1 - depreciation_rate) ** years)\n\nprint(final_price)\n", "Let's write a program.\n```python\ninitial_price = 20000\nyears = 2010 - 2007\ndepreciation_rate = 0.21\n\nfinal_price = initial_price * ((1 - depreciation_rate) ** years)\n\nprint(final_price)\n```"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["6"], "2", ["6"], "Let's reason step by step.\nImma feeds her cats twice a day, so she uses 60 grams x 2 = 120 grams of cat food per day.\nIf she has 720 grams of cat food, it will last 720 grams / 120 grams per day = 6 days.\nThe answer is 6"]}
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["34"], "14", ["34"], "Let's reason step by step.\n20 x 70% = 14 pizzas were eaten by the glee club.\nThe football team ordered 20 x 2 = 40 pizzas.\nThe football team ate 40 x 80% = 32 pizzas.\nA total of 14 + 32 = 46 pizzas were eaten.\nThere are 20 + 40 - 46 = 34 pizzas left.\nThe answer is 34"]}
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["12", "18", "12.0", "\n# define the cost of butter per pound\nbutter_cost_per_pound = 4.00\n\n# define the discount\ndiscount = 0.5\n\n# calculate the cost of butter for 6 pounds\ntotal_cost = 6 * butter_cost_per_pound * (1 - discount)\n\n# print the result\nprint(total_cost)\n", "Let's write a program.\n```python\n# define the cost of butter per pound\nbutter_cost_per_pound = 4.00\n\n# define the discount\ndiscount = 0.5\n\n# calculate the cost of butter for 6 pounds\ntotal_cost = 6 * butter_cost_per_pound * (1 - discount)\n\n# print the result\nprint(total_cost)\n```"]}
+null
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["-20", "16", "-20", "\n# define the cost of each rose and a dozen roses\ncost_per_rose = 2\ncost_per_dozen = 15\n\n# calculate the total cost of the roses\ntotal_cost = 15 * cost_per_rose\n\n# calculate the change in dollars\nchange_dollars = 5 * 5 - total_cost\n\n# convert the change to quarters\nchange_quarters = change_dollars / 0.25\n\n# print the result\nprint(int(change_quarters))\n", "Let's write a program.\n```python\n# define the cost of each rose and a dozen roses\ncost_per_rose = 2\ncost_per_dozen = 15\n\n# calculate the total cost of the roses\ntotal_cost = 15 * cost_per_rose\n\n# calculate the change in dollars\nchange_dollars = 5 * 5 - total_cost\n\n# convert the change to quarters\nchange_quarters = change_dollars / 0.25\n\n# print the result\nprint(int(change_quarters))\n```"]}
+null
+{"version": "fail_code_result_match", "details": ["100", "145", "100.0", "\n# define the time for each train\nfirst_train_time = 10\nsecond_train_time = 20\nthird_train_time = 60\nfourth_train_time = 20\n\n# calculate the total waiting time\ntotal_waiting_time = first_train_time + second_train_time/2 + third_train_time + fourth_train_time\n\nprint(total_waiting_time)\n", "Let's write a program.\n```python\n# define the time for each train\nfirst_train_time = 10\nsecond_train_time = 20\nthird_train_time = 60\nfourth_train_time = 20\n\n# calculate the total waiting time\ntotal_waiting_time = first_train_time + second_train_time/2 + third_train_time + fourth_train_time\n\nprint(total_waiting_time)\n```"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["28.333333333333332", "30", "28.333333333333332", "\n# define the variables\nperiods_per_day = 6\nextra_classes = 2\nclass_duration = 40 # in minutes\ndays_per_week = 5\nextra_days = 2 # Saturday and Sunday\nextra_learning_time_fraction = 1/16\n\n# calculate total class time in minutes\ntotal_class_time = (periods_per_day + extra_classes) * class_duration * days_per_week\n\n# calculate extra learning time in minutes\nextra_learning_time = total_class_time * extra_learning_time_fraction\n\n# calculate total learning time in minutes\ntotal_learning_time = total_class_time + extra_learning_time\n\n# convert total learning time to hours\ntotal_learning_time_hours = total_learning_time / 60\n\nprint(total_learning_time_hours)\n", "Let's write a program.\n```python\n# define the variables\nperiods_per_day = 6\nextra_classes = 2\nclass_duration = 40 # in minutes\ndays_per_week = 5\nextra_days = 2 # Saturday and Sunday\nextra_learning_time_fraction = 1/16\n\n# calculate total class time in minutes\ntotal_class_time = (periods_per_day + extra_classes) * class_duration * days_per_week\n\n# calculate extra learning time in minutes\nextra_learning_time = total_class_time * extra_learning_time_fraction\n\n# calculate total learning time in minutes\ntotal_learning_time = total_class_time + extra_learning_time\n\n# convert total learning time to hours\ntotal_learning_time_hours = total_learning_time / 60\n\nprint(total_learning_time_hours)\n```"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["102", "40", "102.0", "\n# define the variables\ncurrent_salary = 100000\nsaving_rate = 0.2\nretirement_period = 20\nliving_expense_rate = 0.4\n\n# calculate the annual savings\nannual_savings = current_salary * saving_rate\n\n# calculate the annual living expenses\nannual_living_expenses = current_salary * living_expense_rate\n\n# calculate the number of years needed to save for retirement\nyears_needed = retirement_period * current_salary / annual_savings\n\n# calculate the number of years needed to cover living expenses\nyears_to_cover_living_expenses = annual_living_expenses / annual_savings\n\n# calculate the total number of years needed\ntotal_years_needed = years_needed + years_to_cover_living_expenses\n\n# print the result\nprint(total_years_needed)\n", "Let's write a program.\n```python\n# define the variables\ncurrent_salary = 100000\nsaving_rate = 0.2\nretirement_period = 20\nliving_expense_rate = 0.4\n\n# calculate the annual savings\nannual_savings = current_salary * saving_rate\n\n# calculate the annual living expenses\nannual_living_expenses = current_salary * living_expense_rate\n\n# calculate the number of years needed to save for retirement\nyears_needed = retirement_period * current_salary / annual_savings\n\n# calculate the number of years needed to cover living expenses\nyears_to_cover_living_expenses = annual_living_expenses / annual_savings\n\n# calculate the total number of years needed\ntotal_years_needed = years_needed + years_to_cover_living_expenses\n\n# print the result\nprint(total_years_needed)\n```"]}
+null
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["62.06896551724138", "60", "62.06896551724138", "\n# define the total miles and the miles she plans to hike each day\ntotal_miles = 9300\nmiles_per_day = 125 * 2\n\n# calculate the number of days in June\ndays_in_june = 30\n\n# calculate the total miles she plans to hike in June\ntotal_miles_planned = miles_per_day * days_in_june\n\n# calculate the remaining miles she needs to hike\nremaining_miles = total_miles - total_miles_planned\n\n# calculate the number of days she has left to hike\ndays_left = days_in_june - 1\n\n# calculate the additional miles per day she needs to hike\nadditional_miles_per_day = remaining_miles / days_left\n\nprint(additional_miles_per_day)\n", "Let's write a program.\n```python\n# define the total miles and the miles she plans to hike each day\ntotal_miles = 9300\nmiles_per_day = 125 * 2\n\n# calculate the number of days in June\ndays_in_june = 30\n\n# calculate the total miles she plans to hike in June\ntotal_miles_planned = miles_per_day * days_in_june\n\n# calculate the remaining miles she needs to hike\nremaining_miles = total_miles - total_miles_planned\n\n# calculate the number of days she has left to hike\ndays_left = days_in_june - 1\n\n# calculate the additional miles per day she needs to hike\nadditional_miles_per_day = remaining_miles / days_left\n\nprint(additional_miles_per_day)\n```"]}
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["1"], "5", ["1"], "Let's reason step by step.\nBefore buying the new guppies and goldfishes, Tate has a total of 4 + 7 = 11 female guppies.\nHe also has a total of 3 + 5 = 8 male goldfishes.\nAfter buying the new guppies and goldfishes, Tate has a total of 11 + 1 = 12 female guppies.\nHe also has a total of 8 + 2 + 3 = 13 male guppies and goldfishes.\nTherefore, Tate has 12 - 13 = -1 more female fishes than male fishes.\nSince the result is negative, it means Tate has 1 more male fish than female fish.\nThe answer is 1"]}
+{"version": "fail_code_result_match", "details": ["20", "18", "20", "\n# define the time taken by each person\namalia_time = 4\nmegan_time = amalia_time + 2\ndiro_time = amalia_time + 4 + 2\n\n# calculate total time\ntotal_time = amalia_time + megan_time + diro_time\n\n# print the result\nprint(total_time)\n", "Let's write a program.\n```python\n# define the time taken by each person\namalia_time = 4\nmegan_time = amalia_time + 2\ndiro_time = amalia_time + 4 + 2\n\n# calculate total time\ntotal_time = amalia_time + megan_time + diro_time\n\n# print the result\nprint(total_time)\n```"]}
+null
+null
+{"version": "fail_grading_match", "details": [["270"], "18", ["270"], "Let's reason step by step.\n2 workers produce 6*2=12 toys an hour\n2 workers produce 4*2=8 toys an hour\nAll 4 workers produce 12+8=20 toys an hour\n5 workers produce 20+5=25 toys an hour\nDuring a 10 hour shift, 5 workers produce 25*10=250 toys\nThe fifth worker produces 20+250=270 toys\nThe answer is 270"]}
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["25"], "8", ["25"], "Let's reason step by step.\nLet's say Arnold and Madeline painted x eggs each.\nCamden and Sarah painted a total of 30 eggs, so let's say Sarah painted y eggs and Camden painted y + 12 eggs.\nThe total number of eggs painted is x + x + y + (y + 12) = 56.\nCombining like terms, we get 2x + 2y + 12 = 56.\nSubtracting 12 from both sides, we get 2x + 2y = 44.\nDividing both sides by 2, we get x + y = 22.\nSince Arnold and Madeline painted the same number of eggs, Arnold painted x eggs.\nSince Camden painted 12 more eggs than Sarah, Camden painted y + 12 eggs.\nTo find out how many more eggs Camden painted than Arnold, we subtract Arnold's number of eggs from Camden's number of eggs: (y + 12) - x.\nSubstituting x + y = 22, we get (22 - x) + 12 - x = 34 - 2x.\nSince Arnold and Madeline painted the same number of eggs, Arnold painted x eggs.\nSo, Camden painted 34 - 2x eggs.\nTo find out how many more eggs Camden painted than Arnold, we subtract Arnold's number of eggs from Camden's number of eggs: (34 - 2x) - x = 34 - 3x.\nSince Arnold and Madeline painted the same number of eggs, Arnold painted x eggs.\nSo, Camden painted 34 - 3x eggs.\nTo find out how many more eggs Camden painted than Arnold, we subtract Arnold's number of eggs from Camden's number of eggs: (34 - 3x) - x = 34 - 4x.\nSince Arnold and Madeline painted the same number of eggs, Arnold painted x eggs.\nSo, Camden painted 34 - 4x eggs.\nTo find out how many more eggs Camden painted than Arnold, we subtract Arnold's number of eggs from Camden's number of eggs: (34 - 4x) - x = 34 - 5x.\nSince Arnold and Madeline painted the same number of eggs, Arnold painted x eggs.\nSo, Camden painted 34 - 5x eggs.\nTo find out how many more eggs Camden painted than Arnold, we subtract Arnold's number of eggs from Camden's number of eggs: (34 - 5x) - x = 34 - 6x.\nSince Arnold and Madeline painted the same number of eggs, Arnold painted x eggs.\nSo, Camden painted 34 - 6x eggs.\nTo find out how many more eggs Camden painted than Arnold, we subtract Arnold's number of eggs from Camden's number of eggs: (34 - 6x) - x = 34 - 7x.\nSince Arnold and Madeline painted the same number of eggs, Arnold painted x eggs.\nSo, Camden painted 34 - 7x eggs.\nTo find out how many more eggs Camden painted than Arnold, we subtract Arnold's number of eggs from Camden's number of eggs: (34 - 7x) - x = 34 - 8x.\nSince Arnold and Madeline painted the same number of eggs, Arnold painted x eggs.\nSo, Camden painted 34 - 8x eggs.\nTo find out how many more eggs Camden painted than Arnold, we subtract Arnold's number of eggs from Camden's number of eggs: (34 - 8x) - x = 34 - 9x.\nSince Arnold and Madeline painted the same number of eggs, Arnold painted x eggs.\nSo, Camden painted 34 - 9x eggs.\nTo find out how many more eggs Camden painted than Arnold, we subtract Arnold's number of eggs from Camden's number of eggs: (34 - 9x) - x = 34 - 10x.\nSince Arnold and Madeline painted the same number of eggs, Arnold painted x eggs.\nSo, Camden painted 34 - 10x eggs.\nTo find out how many more eggs Camden painted than Arnold, we subtract Arnold's number of eggs from Camden's number of eggs: (34 - 10x) - x = 34 - 11x.\nSince Arnold and Madeline painted the same number of eggs, Arnold painted x eggs.\nSo, Camden painted 34 - 11x eggs.\nTo find out how many more eggs Camden painted than Arnold, we subtract Arnold's number of eggs from Camden's number of eggs: (34 - 11x) - x = 34 - 12x.\nSince Arnold and Madeline painted the same number of eggs, Arnold painted x eggs.\nSo, Camden painted 34 - 12x eggs.\nTo find out how many more eggs Camden painted than Arnold, we subtract Arnold's number of eggs from Camden's number of eggs: (34 - 12x) - x = 34 - 13x.\nSince Arnold and Madeline painted the same number of eggs, Arnold painted x eggs.\nSo, Camden painted 34 - 13x eggs.\nTo find out how many more eggs Camden painted than Arnold, we subtract Arnold's number of eggs from Camden's number of eggs: (34 - 13x) - x = 34 - 14x.\nSince Arnold and Madeline painted the same number of eggs, Arnold painted x eggs.\nSo, Camden painted 34 - 14x eggs.\nTo find out how many more eggs Camden painted than Arnold, we subtract Arnold's number of eggs from Camden's number of eggs: (34 - 14x) - x = 34 - 15x.\nSince Arnold and Madeline painted the same number of eggs, Arnold painted x eggs.\nSo, Camden painted 34 - 15x eggs.\nTo find out how many more eggs Camden painted than Arnold, we subtract Arnold's number of eggs from Camden's number of eggs: (34 - 15x) - x = 34 - 16x.\nSince Arnold and Madeline painted the same number of eggs, Arnold painted x eggs.\nSo, Camden painted 34 - 16x eggs.\nTo find out how many more eggs Camden painted than Arnold, we subtract Arnold's number of eggs from Camden's number of eggs: (34 - 16x) - x = 34 - 17x.\nSince Arnold and Madeline painted the same number of eggs, Arnold painted x eggs.\nSo, Camden painted 34 - 17x eggs.\nTo find out how many more eggs Camden painted than Arnold, we subtract Arnold's number of eggs from Camden's number of eggs: (34 - 17x) - x = 34 - 18x.\nSince Arnold and Madeline painted the same number of eggs, Arnold painted x eggs.\nSo, Camden painted 34 - 18x eggs.\nTo find out how many more eggs Camden painted than Arnold, we subtract Arnold's number of eggs from Camden's number of eggs: (34 - 18x) - x = 34 - 19x.\nSince Arnold and Madeline painted the same number of eggs, Arnold painted x eggs.\nSo, Camden painted 34 - 19x eggs.\nTo find out how many more eggs Camden painted than Arnold, we subtract Arnold's number of eggs from Camden's number of eggs: (34 - 19x) - x = 34 - 20x.\nSince Arnold and Madeline painted the same number of eggs, Arnold painted x eggs.\nSo, Camden painted 34 - 20x eggs.\nTo find out how many more eggs Camden painted than Arnold, we subtract Arnold's number of eggs from Camden's number of eggs: (34 - 20x) - x = 34 - 21x.\nSince Arnold and Madeline painted the same number of eggs, Arnold painted x eggs.\nSo, Camden painted 34 - 21x eggs.\nTo find out how many more eggs Camden painted than Arnold, we subtract Arnold's number of eggs from Camden's number of eggs: (34 - 21x) - x = 34 - 22x.\nSince Arnold and Madeline painted the same number of eggs, Arnold painted x eggs.\nSo, Camden painted 34 - 22x eggs.\nTo find out how many more eggs Camden painted than Arnold, we subtract Arnold's number of eggs from Camden's number of eggs: (34 - 22x) - x = 34 - 23x.\nSince Arnold and Madeline painted the same number of eggs, Arnold painted x eggs.\nSo, Camden painted 34 - 23x eggs.\nTo find out how many more eggs Camden painted than Arnold, we subtract Arnold's number of eggs from Camden's number of eggs: (34 - 23x) - x = 34 - 24x.\nSince Arnold and Madeline painted the same number of eggs, Arnold painted x eggs.\nSo, Camden painted 34 - 24x eggs.\nTo find out how many more eggs Camden painted than Arnold, we subtract Arnold's number of eggs from Camden's number of eggs: (34 - 24x) - x = 34 - 25x.\nSince Arnold and Madeline painted the same number of eggs, Arnold painted x eggs.\nSo, Camden painted 34 - 25x eggs"]}
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["2"], "26", ["2"], "Let's reason step by step.\n24+24=48\n60-48=12\n12-10=2\nBob will have 2 marbles.\nThe answer is 2"]}
+{"version": "fail_code_result_match", "details": ["8", "68", "8", "\n# define the variables\nmug1_temp = 33\nmug2_temp = 0\nwater_bottle_temp = 40\n# calculate the minimum temperature of the second mug\nmug2_temp = water_bottle_temp - mug1_temp + 1\nprint(mug2_temp)\n", "Let's write a program.\n```python\n# define the variables\nmug1_temp = 33\nmug2_temp = 0\nwater_bottle_temp = 40\n# calculate the minimum temperature of the second mug\nmug2_temp = water_bottle_temp - mug1_temp + 1\nprint(mug2_temp)\n```"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_execution", "details": ["invalid syntax (<string>, line 4)", "\n# define the total number of reports and the number of reports received on Monday, Tuesday, Thursday and Friday\ntotal Reports = 5168\nMondayTuesdayReports = 1907\nThursdayFridayReports = 2136\n\n# calculate the number of reports received on Wednesday\nWednesdayReports = total Reports - MondayTuesdayReports - ThursdayFridayReports\n\n# print the result\nprint(WednesdayReports)\n", "Let's write a program.\n```python\n# define the total number of reports and the number of reports received on Monday, Tuesday, Thursday and Friday\ntotal Reports = 5168\nMondayTuesdayReports = 1907\nThursdayFridayReports = 2136\n\n# calculate the number of reports received on Wednesday\nWednesdayReports = total Reports - MondayTuesdayReports - ThursdayFridayReports\n\n# print the result\nprint(WednesdayReports)\n```"]}
+{"version": "fail_code_result_match", "details": ["2660", "170", "2660.0", "\n# define the total land and the prices\ntotal_land = 80\nprice1 = 50\nprice2 = 30\nprice3 = 3\n\n# calculate the land sold in the first and second transactions\nland_sold1 = total_land / 2\nland_sold2 = total_land / 4\n\n# calculate the remaining land\nremaining_land = total_land - land_sold1 - land_sold2\n\n# calculate the total earnings\nearnings = land_sold1 * price1 + land_sold2 * price2 + remaining_land * price3\n\nprint(earnings)\n", "Let's write a program.\n```python\n# define the total land and the prices\ntotal_land = 80\nprice1 = 50\nprice2 = 30\nprice3 = 3\n\n# calculate the land sold in the first and second transactions\nland_sold1 = total_land / 2\nland_sold2 = total_land / 4\n\n# calculate the remaining land\nremaining_land = total_land - land_sold1 - land_sold2\n\n# calculate the total earnings\nearnings = land_sold1 * price1 + land_sold2 * price2 + remaining_land * price3\n\nprint(earnings)\n```"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["0", "10", "0", "\n# define the cost of regular box and the number of pods\nregular_box_cost = 12\nregular_box_pods = 100\n\n# calculate the number of pods in the special box\nspecial_box_pods = regular_box_pods * 1.2\n\n# calculate the cost per cycle with the special box\ncost_per_cycle = special_box_pods / regular_box_cost\n\n# calculate the number of cycles for $1\ncycles_for_dollar = 1 / cost_per_cycle\n\n# print the result\nprint(int(cycles_for_dollar))\n", "Let's write a program.\n```python\n# define the cost of regular box and the number of pods\nregular_box_cost = 12\nregular_box_pods = 100\n\n# calculate the number of pods in the special box\nspecial_box_pods = regular_box_pods * 1.2\n\n# calculate the cost per cycle with the special box\ncost_per_cycle = special_box_pods / regular_box_cost\n\n# calculate the number of cycles for $1\ncycles_for_dollar = 1 / cost_per_cycle\n\n# print the result\nprint(int(cycles_for_dollar))\n```"]}
+{"version": "fail_grading_match", "details": [["300"], "240", ["300"], "Let's reason step by step.\nThomas withdraws $1000 in 20 dollar bills, so he has 1000/20 = 50 bills.\nHe loses 10 bills, so he has 50 - 10 = 40 bills remaining.\nHe uses half of the remaining bills to pay for a bill, so he uses 40/2 = 20 bills.\nAfter paying for the bill, he has 40 - 20 = 20 bills remaining.\nHe then triples his money, so he has 20 * 3 = 60 bills.\nHe converts all his bills to 5 dollar bills, so he has 60 * 5 = 300 5 dollar bills.\nThe answer is 300"]}
+null
+null
+null
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["-40/7", "20", "-40/7", "\nfrom sympy import Eq, Symbol, solve\r\n\r\n# x = age of colin\r\nx = Symbol('x')\r\neq = Eq((x+7)*5, (x+25)/3)\r\n\r\nanswer = solve(eq)\r\n\r\nprint(answer[0])\n", "Let's write a program.\n```python\nfrom sympy import Eq, Symbol, solve\r\n\r\n# x = age of colin\r\nx = Symbol('x')\r\neq = Eq((x+7)*5, (x+25)/3)\r\n\r\nanswer = solve(eq)\r\n\r\nprint(answer[0])\n```"]}
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["169", "19", "169", "\n# define the variables\nbulk_pack = 50\nfirst_day_used = 38\nsecond_day_used = first_day_used - 10\nthird_day_used = bulk_pack / 2\nthird_day_left = 78\n\n# calculate the total bandages used\ntotal_used = first_day_used + second_day_used + third_day_used\n\n# calculate the total bandages at the beginning\ntotal_bandages = total_used + third_day_left\n\n# print the result\nprint(int(total_bandages))\n", "Let's write a program.\n```python\n# define the variables\nbulk_pack = 50\nfirst_day_used = 38\nsecond_day_used = first_day_used - 10\nthird_day_used = bulk_pack / 2\nthird_day_left = 78\n\n# calculate the total bandages used\ntotal_used = first_day_used + second_day_used + third_day_used\n\n# calculate the total bandages at the beginning\ntotal_bandages = total_used + third_day_left\n\n# print the result\nprint(int(total_bandages))\n```"]}
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["2100"], "2400", ["2100"], "Let's reason step by step.\nHe buys 10*2=20 bottles of cognac\nEach bottle of cognac costs 600/10=$60\nSo each bottle of scotch costs 60*1.5=$90\nSo he spends 20*60=$1200 on cognac\nSo he spends 10*90=$900 on scotch\nSo he spends 1200+900=$2100\nThe answer is 2100"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["55", "20", "55.0", "\n# define the initial number of people on the bus\ninitial_people = 20\n# define the number of people who entered at the first station\nfirst_station = 40\n# calculate the number of people who entered at the second station\nsecond_station = 3/4 * first_station\n# calculate the total number of people on the bus after the second station\ntotal_people = initial_people + first_station + second_station\n# calculate the number of people required to fill the remaining spaces on the bus\nremaining_spaces = 200 - total_people\n# calculate the number of people required to fill the remaining spaces on the bus after the number of passengers doubled at the third station\nfinal_people = remaining_spaces / 2\n# print the result\nprint(final_people)\n", "Let's write a program.\n```python\n# define the initial number of people on the bus\ninitial_people = 20\n# define the number of people who entered at the first station\nfirst_station = 40\n# calculate the number of people who entered at the second station\nsecond_station = 3/4 * first_station\n# calculate the total number of people on the bus after the second station\ntotal_people = initial_people + first_station + second_station\n# calculate the number of people required to fill the remaining spaces on the bus\nremaining_spaces = 200 - total_people\n# calculate the number of people required to fill the remaining spaces on the bus after the number of passengers doubled at the third station\nfinal_people = remaining_spaces / 2\n# print the result\nprint(final_people)\n```"]}
+{"version": "fail_code_result_match", "details": ["57", "75", "57.0", "\n# define the initial cost and number of visits per year\ninitial_cost = 2\nvisits_per_year = 3\n\n# calculate the total cost for the first 5 years\ntotal_cost_first_5_years = initial_cost * visits_per_year * 5\n\n# calculate the increased cost after 5 years\nincreased_cost = initial_cost * 1.5\n\n# calculate the total cost for the next 3 years\ntotal_cost_next_3_years = increased_cost * visits_per_year * 3\n\n# calculate the total cost for all 8 years\ntotal_cost = total_cost_first_5_years + total_cost_next_3_years\n\nprint(total_cost)\n", "Let's write a program.\n```python\n# define the initial cost and number of visits per year\ninitial_cost = 2\nvisits_per_year = 3\n\n# calculate the total cost for the first 5 years\ntotal_cost_first_5_years = initial_cost * visits_per_year * 5\n\n# calculate the increased cost after 5 years\nincreased_cost = initial_cost * 1.5\n\n# calculate the total cost for the next 3 years\ntotal_cost_next_3_years = increased_cost * visits_per_year * 3\n\n# calculate the total cost for all 8 years\ntotal_cost = total_cost_first_5_years + total_cost_next_3_years\n\nprint(total_cost)\n```"]}
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["64.8", "90", "64.8", "\n# define the costs\nmanicure_cost = 35\npedicure_cost = 40\nnail_art_cost = 3\ndiscount = 0.2\n\n# calculate the total cost without discount\ntotal_cost = manicure_cost + pedicure_cost + 2*nail_art_cost\n\n# apply the discount\ntotal_cost_after_discount = total_cost * (1 - discount)\n\n# print the result\nprint(total_cost_after_discount)\n", "Let's write a program.\n```python\n# define the costs\nmanicure_cost = 35\npedicure_cost = 40\nnail_art_cost = 3\ndiscount = 0.2\n\n# calculate the total cost without discount\ntotal_cost = manicure_cost + pedicure_cost + 2*nail_art_cost\n\n# apply the discount\ntotal_cost_after_discount = total_cost * (1 - discount)\n\n# print the result\nprint(total_cost_after_discount)\n```"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["10", "50", "10.0", "\n# define the variables\ntotal_classrooms = 80\ntotal_days = 5\ntime_per_classroom = 15 # in minutes\nwork_hours_per_day = 8 # in hours\n\n# calculate total time needed to clean all classrooms in minutes\ntotal_time_needed = total_classrooms * time_per_classroom\n\n# convert total work hours to minutes\ntotal_work_time = total_days * work_hours_per_day * 60\n\n# calculate average time spent cleaning classrooms per day in minutes\naverage_time_per_day = total_time_needed / total_days\n\n# calculate percentage of work time spent cleaning classrooms\npercentage_cleaning = (average_time_per_day / total_work_time) * 100\n\nprint(percentage_cleaning)\n", "Let's write a program.\n```python\n# define the variables\ntotal_classrooms = 80\ntotal_days = 5\ntime_per_classroom = 15 # in minutes\nwork_hours_per_day = 8 # in hours\n\n# calculate total time needed to clean all classrooms in minutes\ntotal_time_needed = total_classrooms * time_per_classroom\n\n# convert total work hours to minutes\ntotal_work_time = total_days * work_hours_per_day * 60\n\n# calculate average time spent cleaning classrooms per day in minutes\naverage_time_per_day = total_time_needed / total_days\n\n# calculate percentage of work time spent cleaning classrooms\npercentage_cleaning = (average_time_per_day / total_work_time) * 100\n\nprint(percentage_cleaning)\n```"]}
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["30"], "750", ["30"], "Let's reason step by step.\nFor every 25 telephone calls, Jason gets one person to come into the car dealership.\nFor every two customers that come into the car dealership, one will buy a car.\nSo, for every 25 telephone calls, Jason gets 25/2 = 12.5 customers.\nAnd for every 12.5 customers, Jason gets 12.5/1 = 12.5 cars sold.\nTo sell 15 cars, Jason would need to make 15/12.5 = 1.2 times the number of telephone calls.\nTherefore, Jason would need to make 1.2 * 25 = 30 telephone calls to sell 15 cars and earn his bonus.\nThe answer is 30"]}
+null
+null
+null
+{"version": "fail_execution", "details": ["invalid syntax (<string>, line 4)", "\n# define the number of helmets\nh helmets = 20\n# calculate the number of robots and footballs\nr robots = h helmets / 2\nf footballs = h helmets * 2\n# calculate the total number of items\ntotal_items = r robots + h helmets + f footballs\nprint(int(total_items))\n", "Let's write a program.\n```python\n# define the number of helmets\nh helmets = 20\n# calculate the number of robots and footballs\nr robots = h helmets / 2\nf footballs = h helmets * 2\n# calculate the total number of items\ntotal_items = r robots + h helmets + f footballs\nprint(int(total_items))\n```"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["1152", "36", "1152", "\n# define the constants\nlemons_per_cup = 6\ncups_per_gallon = 16\ngallons_for_party = 4\nextra_gallon_factor = 2\n\n# calculate the number of lemons needed for the party\nlemons_for_party = lemons_per_cup * cups_per_gallon * gallons_for_party\n\n# calculate the number of lemons needed for the extra gallon\nlemons_for_extra_gallon = lemons_per_cup * cups_per_gallon * gallons_for_party * extra_gallon_factor\n\n# calculate the total number of lemons needed\ntotal_lemons = lemons_for_party + lemons_for_extra_gallon\n\nprint(total_lemons)\n", "Let's write a program.\n```python\n# define the constants\nlemons_per_cup = 6\ncups_per_gallon = 16\ngallons_for_party = 4\nextra_gallon_factor = 2\n\n# calculate the number of lemons needed for the party\nlemons_for_party = lemons_per_cup * cups_per_gallon * gallons_for_party\n\n# calculate the number of lemons needed for the extra gallon\nlemons_for_extra_gallon = lemons_per_cup * cups_per_gallon * gallons_for_party * extra_gallon_factor\n\n# calculate the total number of lemons needed\ntotal_lemons = lemons_for_party + lemons_for_extra_gallon\n\nprint(total_lemons)\n```"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["96", "84", "96", "\n# define the ages\nsister_age = 16\nbrother_age = 12\nolder_brother_age = brother_age * 2\n\n# calculate total age\ntotal_age = 2 * brother_age + 3 * sister_age + older_brother_age\n\n# print the result\nprint(total_age)\n", "Let's write a program.\n```python\n# define the ages\nsister_age = 16\nbrother_age = 12\nolder_brother_age = brother_age * 2\n\n# calculate total age\ntotal_age = 2 * brother_age + 3 * sister_age + older_brother_age\n\n# print the result\nprint(total_age)\n```"]}
+{"version": "fail_code_result_match", "details": ["1500", "34", "1500", "\n# define the variables\nmeditation_time_per_day = 15 # in minutes\nyoga_time_per_day = 60 # in minutes\ndays_per_week = 5\nweeks = 4\n\n# calculate total time spent on meditation and yoga\ntotal_meditation_time = meditation_time_per_day * days_per_week * weeks\ntotal_yoga_time = yoga_time_per_day * days_per_week * weeks\n\n# calculate total time spent\ntotal_time = total_meditation_time + total_yoga_time\n\n# print the result\nprint(total_time)\n", "Let's write a program.\n```python\n# define the variables\nmeditation_time_per_day = 15 # in minutes\nyoga_time_per_day = 60 # in minutes\ndays_per_week = 5\nweeks = 4\n\n# calculate total time spent on meditation and yoga\ntotal_meditation_time = meditation_time_per_day * days_per_week * weeks\ntotal_yoga_time = yoga_time_per_day * days_per_week * weeks\n\n# calculate total time spent\ntotal_time = total_meditation_time + total_yoga_time\n\n# print the result\nprint(total_time)\n```"]}
+null
+null
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["32", "36", "32.0", "\n# define the original prices\ntshirt_price = 8\nshoes_price = 40\n\n# calculate the discounted prices\ntshirt_price_discounted = tshirt_price * 0.5\nshoes_price_discounted = shoes_price * 0.6\n\n# calculate the total amount spent\ntotal_amount_spent = 2 * tshirt_price_discounted + shoes_price_discounted\n\nprint(total_amount_spent)\n", "Let's write a program.\n```python\n# define the original prices\ntshirt_price = 8\nshoes_price = 40\n\n# calculate the discounted prices\ntshirt_price_discounted = tshirt_price * 0.5\nshoes_price_discounted = shoes_price * 0.6\n\n# calculate the total amount spent\ntotal_amount_spent = 2 * tshirt_price_discounted + shoes_price_discounted\n\nprint(total_amount_spent)\n```"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["2180", "2280", "2180", "\n# define the amounts raised by each person\nalexandra = 430\nkim = alexandra + 320\nmaryam = 300 + 400\nsarah = 300\n\n# calculate the total amount raised\ntotal = alexandra + kim + maryam + sarah\n\n# print the result\nprint(total)\n", "Let's write a program.\n```python\n# define the amounts raised by each person\nalexandra = 430\nkim = alexandra + 320\nmaryam = 300 + 400\nsarah = 300\n\n# calculate the total amount raised\ntotal = alexandra + kim + maryam + sarah\n\n# print the result\nprint(total)\n```"]}
+{"version": "fail_code_result_match", "details": ["32", "64", "32", "\n# define the variables\nvanessa_miles = 4\naaron_miles = vanessa_miles / 2\naaron_time = 16\n\n# calculate vanessa's time\nvanessa_time = aaron_time * 2\n\n# print the result\nprint(vanessa_time)\n", "Let's write a program.\n```python\n# define the variables\nvanessa_miles = 4\naaron_miles = vanessa_miles / 2\naaron_time = 16\n\n# calculate vanessa's time\nvanessa_time = aaron_time * 2\n\n# print the result\nprint(vanessa_time)\n```"]}
+null
+null
+null
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["30", "5", "30", "legs=70\r\nchicken=2\r\ncow=4\r\ntotal_animal=20\r\nchicken_animal=legs-(total_animal*2)\r\nprint(chicken_animal)", "Let's write a program.\n```python\nlegs=70\r\nchicken=2\r\ncow=4\r\ntotal_animal=20\r\nchicken_animal=legs-(total_animal*2)\r\nchicken_animal\r\n```"]}
+null

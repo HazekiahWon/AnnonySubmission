@@ -1,0 +1,1319 @@
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["220"], "160", ["220"], "Let's reason step by step.\nNormally, Carla can download 2 GB/minute, so it would take her 200 GB / 2 GB/minute = 100 minutes to download the file.\nHowever, 40% of the way through the download, she has to restart, which takes 20 minutes.\nSo, the total time it takes to download the file is 100 minutes + 20 minutes + 100 minutes = 220 minutes.\nThe answer is 220"]}
+{"version": "fail_grading_match", "details": [["400"], "45", ["400"], "Let's reason step by step.\nJohn drives for 3 hours at a speed of 60 mph, so he covers a distance of 3 * 60 = 180 miles.\nHe then turns around and drives for 4 hours, but spends the first 2 hours in standstill traffic, so he only drives for 4 - 2 = 2 hours.\nDuring this time, he drives at a speed of 30 mph, so he covers a distance of 2 * 30 = 60 miles.\nHe then spends the next half-hour driving at a speed of 80 mph, so he covers a distance of 0.5 * 80 = 40 miles.\nFinally, he drives for the remaining time of the 4 hours, which is 4 - 2 - 0.5 = 1.5 hours, at a speed of 80 mph, so he covers a distance of 1.5 * 80 = 120 miles.\nIn total, he covers a distance of 180 + 60 + 40 + 120 = 400 miles.\nSince he started at home, he is 400 miles away from home at the end of those 4 hours.\nThe answer is 400"]}
+null
+null
+{"version": "fail_grading_match", "details": [["794"], "694", ["794"], "Let's reason step by step.\n3 dozen donuts cost 3 x $68 = $204.\n2 dozen mini cupcakes cost 2 x $80 = $160.\n6 dozen mini cheesecakes cost 6 x $55 = $330.\nThe total cost of the pastries is $204 + $160 + $330 = $794.\nThe answer is 794"]}
+{"version": "fail_code_result_match", "details": ["12", "13", "12", "\n# define the initial cost, yearly income and yearly cost\ninitial_cost = 90\nyearly_income = 7 * 1.5\nyearly_cost = 3\n\n# calculate the number of years before earning money\nyears = 0\nwhile initial_cost > 0:\n    initial_cost -= yearly_income - yearly_cost\n    years += 1\n\nprint(years)\n", "Let's write a program.\n```python\n# define the initial cost, yearly income and yearly cost\ninitial_cost = 90\nyearly_income = 7 * 1.5\nyearly_cost = 3\n\n# calculate the number of years before earning money\nyears = 0\nwhile initial_cost > 0:\n    initial_cost -= yearly_income - yearly_cost\n    years += 1\n\nprint(years)\n```"]}
+{"version": "fail_code_result_match", "details": ["36", "18", "36", "\n# define the variables\nvacuum_cleaners_left = 5\n\n# calculate the number of vacuum cleaners Melanie started with\nvacuum_cleaners_sold = vacuum_cleaners_left * 2\nvacuum_cleaners_before_red_house = vacuum_cleaners_sold + 2\nvacuum_cleaners_before_green_house = vacuum_cleaners_before_red_house * 3\n\n# print the result\nprint(vacuum_cleaners_before_green_house)\n", "Let's write a program.\n```python\n# define the variables\nvacuum_cleaners_left = 5\n\n# calculate the number of vacuum cleaners Melanie started with\nvacuum_cleaners_sold = vacuum_cleaners_left * 2\nvacuum_cleaners_before_red_house = vacuum_cleaners_sold + 2\nvacuum_cleaners_before_green_house = vacuum_cleaners_before_red_house * 3\n\n# print the result\nprint(vacuum_cleaners_before_green_house)\n```"]}
+null
+null
+{"version": "fail_grading_match", "details": [["460"], "230", ["460"], "Let's reason step by step.\nIn the first day, one train travels 80 miles west, and the other also travels 80 miles west. Together, they cover 80+80 = 160 miles.\nThe next day, one train travels 150 miles north, and the other also travels 150 miles north. Together, they cover 150+150 = 300 miles.\nIn the two days, the trains cover a total distance of 300+160 = 460 miles.\nThe answer is 460"]}
+null
+null
+{"version": "fail_grading_match", "details": [["4"], "6", ["4"], "Let's reason step by step.\nMarissa has walked 6 miles in 2 hours, so she has 12 - 6 = 6 miles left to walk.\nShe has 12 - 2 = 10 hours total to walk the trail.\nTo have an average speed of 4 miles per hour, she needs to walk 4 * 10 = 40 miles in total.\nSince she has already walked 6 miles, she needs to walk 40 - 6 = 34 miles in the remaining time.\nTherefore, she needs to walk at a speed of 34 / 8 = 4.25 miles per hour to reach her goal.\nThe answer is 4"]}
+{"version": "fail_code_result_match", "details": ["14.666666666666666", "15", "14.666666666666666", "\n# define the initial volumes and water fractions\norange_drink_volume = 10\norange_drink_water_fraction = 2/3\npineapple_drink_volume = 15\npineapple_drink_water_fraction = 3/5\n\n# calculate the volume of water in each drink\norange_drink_water_volume = orange_drink_volume * orange_drink_water_fraction\npineapple_drink_water_volume = pineapple_drink_volume * pineapple_drink_water_fraction\n\n# calculate the total water volume before spilling\ntotal_water_volume = orange_drink_water_volume + pineapple_drink_water_volume\n\n# subtract the spilled volume\ntotal_water_volume -= 1\n\n# calculate the final water volume\nfinal_water_volume = total_water_volume\n\n# print the result\nprint(final_water_volume)\n", "Let's write a program.\n```python\n# define the initial volumes and water fractions\norange_drink_volume = 10\norange_drink_water_fraction = 2/3\npineapple_drink_volume = 15\npineapple_drink_water_fraction = 3/5\n\n# calculate the volume of water in each drink\norange_drink_water_volume = orange_drink_volume * orange_drink_water_fraction\npineapple_drink_water_volume = pineapple_drink_volume * pineapple_drink_water_fraction\n\n# calculate the total water volume before spilling\ntotal_water_volume = orange_drink_water_volume + pineapple_drink_water_volume\n\n# subtract the spilled volume\ntotal_water_volume -= 1\n\n# calculate the final water volume\nfinal_water_volume = total_water_volume\n\n# print the result\nprint(final_water_volume)\n```"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["11"], "2", ["11"], "Let's reason step by step.\nJohn sells 13 lego sets for $15 each, so he earns 13 * $15 = $195\nHe buys 8 video games for $20 each, so he spends 8 * $20 = $160\nHe has $5 left, so his total earnings from selling lego sets is $195 - $160 - $5 = $30\nSince he sells each lego set for $15, he must have sold $30 / $15 = 2 lego sets\nTherefore, he still has 13 - 2 = 11 lego sets\nThe answer is 11"]}
+{"version": "fail_grading_match", "details": [["3"], "10", ["3"], "Let's reason step by step.\nHe runs 3*3=9 miles on the first day\nHe runs 9/2=4.5 miles on each of the other two days\nSo he runs 9+4.5*2=18 miles in total\nThat means he runs at 60/18=3.333 miles per hour\nThe answer is 3"]}
+{"version": "fail_grading_match", "details": [["24"], "18", ["24"], "Let's reason step by step.\nIf Dana can skip at a rate of speed that is half as fast as she can run, then she can run at a rate of speed 3 * 2 = 6 miles per hour.\nIf she spends one-third of the time running and two-thirds of the time walking, then she spends 6 * (1/3) = 2 hours running.\nAnd she spends 6 * (2/3) = 4 hours walking.\nIf she can run at a rate of speed 6 miles per hour, then in 2 hours she can travel 6 * 2 = 12 miles.\nIf she can walk at a rate of speed 3 miles per hour, then in 4 hours she can travel 3 * 4 = 12 miles.\nTherefore, in six hours, she can travel a total of 12 + 12 = 24 miles.\nThe answer is 24"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["22"], "17", ["22"], "Let's reason step by step.\n1 is bad, 20% are unripe, 2 are sour, so 1+20%+2 = 3.2 oranges are not good.\nThere are 25 oranges in total, so 25-3.2 = 21.8 oranges are good.\nThe answer is 22"]}
+null
+{"version": "fail_grading_match", "details": [["52500"], "25000", ["52500"], "Let's reason step by step.\nFor the first 20 years, Marcy will receive an annual pension of $50,000/year.\nAfter 20 years, she will start receiving 5% of the value of the pension per year.\nSo, for the next 10 years, she will receive 5% of $50,000/year, which is $50,000 * 0.05 = $2,500/year.\nTherefore, her annual pension after 30 years will be $50,000 + $2,500 = $52,500/year.\nThe answer is 52500"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["7.5", "60", "7.5", "\n# define the total square footage of the sandcastle\ntotal_square_footage = 16 + 8 + 4 + 2\n\n# calculate the average square footage\naverage_square_footage = total_square_footage / 4\n\n# print the result\nprint(average_square_footage)\n", "Let's write a program.\n```python\n# define the total square footage of the sandcastle\ntotal_square_footage = 16 + 8 + 4 + 2\n\n# calculate the average square footage\naverage_square_footage = total_square_footage / 4\n\n# print the result\nprint(average_square_footage)\n```"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["484"], "44", ["484"], "Let's reason step by step.\nGene has been vacationing for 34 - 23 = 11 years.\nHe goes on 4 vacations a year, so he has 11 x 4 = 44 vacation shirts.\nEach row of the quilt is made of blocks from a different year of vacations, so he has 11 rows.\nTherefore, Gene has a total of 44 x 11 = 484 quilt blocks.\nThe answer is 484"]}
+null
+{"version": "fail_code_result_match", "details": ["878.4600000000003", "9360", "878.4600000000003", "\n# define the initial salary\ninitial_salary = 600\n# define the increase rate\nincrease_rate = 0.10\n# calculate the salary after 5 years\nsalary_after_5_years = initial_salary * (1 + increase_rate)\n# calculate the salary after 8 years\nsalary_after_8_years = salary_after_5_years * (1 + increase_rate)**3\n# print the result\nprint(salary_after_8_years)\n", "Let's write a program.\n```python\n# define the initial salary\ninitial_salary = 600\n# define the increase rate\nincrease_rate = 0.10\n# calculate the salary after 5 years\nsalary_after_5_years = initial_salary * (1 + increase_rate)\n# calculate the salary after 8 years\nsalary_after_8_years = salary_after_5_years * (1 + increase_rate)**3\n# print the result\nprint(salary_after_8_years)\n```"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["7"], "6", ["7"], "Let's reason step by step.\nHe needs to read a total of 4 + 20 + 7 + 8 = 49 pages\nHe has 4 + 1 = 5 days left to read\nHe needs to read 49 - 15 = 34 pages in 5 days\nHe needs to read 34 / 5 = 6.8 pages a day\nThe answer is 7"]}
+{"version": "fail_grading_match", "details": [["20"], "26", ["20"], "Let's reason step by step.\nJohn drinks a glass of water with breakfast, lunch, dinner, and before he goes to bed, so that's 4 glasses of water per day.\nHe does this every weekday, so that's 4 glasses x 5 weekdays = 20 glasses of water in a week.\nOn the weekends, he likes to have a soda with dinner instead, so he doesn't drink any water.\nTherefore, John drinks a total of 20 glasses of water in a week.\nThe answer is 20"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["0"], "90", ["0"], "Let's reason step by step.\nShe bought the first ten boards for $10 each, so the total cost was 10 * $10 = $100.\nShe bought the next five for $16 each, so the total cost was 5 * $16 = $80.\nThe total cost for all the boards was $100 + $80 = $180.\nShe sells the first ten for $10 each, so she earns 10 * $10 = $100.\nShe sells the next five for $16 each, so she earns 5 * $16 = $80.\nThe total earnings from selling all the boards is $100 + $80 = $180.\nTo calculate the profit, we subtract the total cost from the total earnings, so the profit is $180 - $180 = $0.\nThe answer is 0"]}
+null
+null
+null
+{"version": "fail_grading_match", "details": [["96000"], "95200", ["96000"], "Let's reason step by step.\nIf Adrien's salary increased by 40% four years later, he was earning 1.4*40000 = $56000\nThe total salary the two were receiving four years later is $56000+$40000 = $96000\nThe answer is 96000"]}
+null
+null
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["4", "10", "4", "\n# define the variables\ntotal_spoons = 12\nused_spoons = 3\nhusband_spoons = 5\n\n# calculate the spoons in the package Julia bought\njulia_spoons = total_spoons - used_spoons - husband_spoons\n\n# print the result\nprint(julia_spoons)\n", "Let's write a program.\n```python\n# define the variables\ntotal_spoons = 12\nused_spoons = 3\nhusband_spoons = 5\n\n# calculate the spoons in the package Julia bought\njulia_spoons = total_spoons - used_spoons - husband_spoons\n\n# print the result\nprint(julia_spoons)\n```"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["78", "48", "78", "\n# define the variables\ndave_ate = 14\nseagull_ate = dave_ate / 2\npigeons_ate = 3 * 3\nraccoon_ate = (dave_ate + seagull_ate + pigeons_ate - 1) * 3 / 2\ntotal_fries = dave_ate + seagull_ate + pigeons_ate + raccoon_ate + 5\n\nprint(int(total_fries))\n", "Let's write a program.\n```python\n# define the variables\ndave_ate = 14\nseagull_ate = dave_ate / 2\npigeons_ate = 3 * 3\nraccoon_ate = (dave_ate + seagull_ate + pigeons_ate - 1) * 3 / 2\ntotal_fries = dave_ate + seagull_ate + pigeons_ate + raccoon_ate + 5\n\nprint(int(total_fries))\n```"]}
+null
+null
+null
+{"version": "fail_grading_match", "details": [["280"], "80", ["280"], "Let's reason step by step.\nBlake runs back and forth 15 times, so he runs a total of 15 * 2 = 30 times the length of the field.\nSince the field is 100 yards long, Blake runs a total of 30 * 100 = 3000 yards.\nKelly runs back and forth once, so she runs a total of 1 * 2 = 2 times the length of the field.\nSince the field is 100 yards long, Kelly runs a total of 2 * 100 = 200 yards.\nKelly then runs to the 40-yard line and back, so she runs a total of 2 * 40 = 80 yards.\nShe does this 34 times, so she runs a total of 34 * 80 = 2720 yards.\nThe winner runs a total of 3000 yards, while the loser runs a total of 2720 yards.\nTherefore, the winner runs 3000 - 2720 = 280 yards farther than the loser.\nThe answer is 280"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["6"], "95", ["6"], "Let's reason step by step.\nIt will take 90 seconds to peel each potato because 60 x 1 1/2 = 90\nIt will take 30 seconds to cut each potato because 60 x 5 = 300\nIt will take 330 seconds to prep all the potatoes because 300 + 90 = 390\nIt will take 6.5 minutes to prep all the potatoes because 390 / 60 = 6.5\nThe answer is 6"]}
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["14", "23", "14", "\n# define the variables\njan_age = 30\n# two years ago, Mark was 5 years older than half Jan's age\nmark_age_two_years_ago = (jan_age/2) - 5\n# so, Mark's current age\nmark_age = mark_age_two_years_ago + 2\n# Jean is two years older than Mark\njean_age = mark_age + 2\n# print Jean's age\nprint(int(jean_age))\n", "Let's write a program.\n```python\n# define the variables\njan_age = 30\n# two years ago, Mark was 5 years older than half Jan's age\nmark_age_two_years_ago = (jan_age/2) - 5\n# so, Mark's current age\nmark_age = mark_age_two_years_ago + 2\n# Jean is two years older than Mark\njean_age = mark_age + 2\n# print Jean's age\nprint(int(jean_age))\n```"]}
+null
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["106.12080000000002", "106", "106.12080000000002", "\n# define the initial amount, interest rate and number of months\ninitial_amount = 100\ninterest_rate = 0.02\nmonths = 3\n\n# calculate the total amount after 3 months\ntotal_amount = initial_amount * (1 + interest_rate)**months\n\n# print the result\nprint(total_amount)\n", "Let's write a program.\n```python\n# define the initial amount, interest rate and number of months\ninitial_amount = 100\ninterest_rate = 0.02\nmonths = 3\n\n# calculate the total amount after 3 months\ntotal_amount = initial_amount * (1 + interest_rate)**months\n\n# print the result\nprint(total_amount)\n```"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["10000"], "7500", ["10000"], "Let's reason step by step.\nSince Publisher A pays 5 cents per sentence, Mark makes 5*1000=5000 cents from Publisher A.\nSince Publisher B pays twice what Publisher A pays, Publisher B pays 2*5=10 cents per sentence.\nSince Mark edits an equal number of sentences for both publishers, he edits 1000/2=500 sentences for Publisher B.\nFrom Publisher B, Mark makes 500*10=5000 cents.\nIn total, Mark makes 5000+5000=10000 cents per week.\nThe answer is 10000"]}
+null
+null
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["120", "98", "120", "\n# define the scores of the first five tests\nscores = [89, 71, 92, 100, 86]\n\n# calculate the current average\ncurrent_average = sum(scores) / len(scores)\n\n# calculate the score needed on the sixth test to get an average of 93\nrequired_score = 93 * 6 - sum(scores)\n\n# print the result\nprint(required_score)\n", "Let's write a program.\n```python\n# define the scores of the first five tests\nscores = [89, 71, 92, 100, 86]\n\n# calculate the current average\ncurrent_average = sum(scores) / len(scores)\n\n# calculate the score needed on the sixth test to get an average of 93\nrequired_score = 93 * 6 - sum(scores)\n\n# print the result\nprint(required_score)\n```"]}
+null
+null
+null
+{"version": "fail_grading_match", "details": [["155"], "145", ["155"], "Let's reason step by step.\nHalf a dozen plates is equal to 6 plates, so the total cost of buying the plates is 6 * $6000 = $36000.\nTwenty dozen cups is equal to 20 * 12 = 240 cups.\nThe total cost of buying the cups is $36000 + $1200 = $37200.\nTo find the cost of each cup, we divide the total cost by the number of cups: $37200 / 240 = $155.\nTherefore, the total cost of buying each cup is $155.\nThe answer is 155"]}
+{"version": "fail_grading_match", "details": [["6"], "10", ["6"], "Let's reason step by step.\nShe needs to earn $30 + $20 + $20 = $70 total.\nShe has already earned $5 x 4 = $20 from babysitting.\nShe has earned $4 x 4 = $16 from mowing the lawn.\nShe has saved $10 + $20 + $16 = $46 total.\nShe needs to earn $70 - $46 = $24 more.\nShe needs to mow the lawn $24 / $4 = 6 times.\nThe answer is 6"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["42"], "33", ["42"], "Let's reason step by step.\nFirst find the total number of cards James has: 30 cards + 20 cards + 40 cards = 90 cards\nThen subtract the number of water type cards he loses from the total number of cards: 90 cards - 8 cards = 82 cards\nThen add the number of grass type cards he buys to the total number of cards: 82 cards + 14 cards = 96 cards\nThen divide the number of water type cards by the total number of cards and multiply by 100% to express the answer as a percentage: 40 cards / 96 cards * 100% = 41.666...%, which rounds down to 42%\nThe answer is 42"]}
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["7", "21", "7.0", "\n# define the variables\ntomatoes_per_day = 6\ndays_per_week = 7\n# calculate the total tomatoes needed per week\ntotal_tomatoes_needed = tomatoes_per_day * days_per_week\n# calculate the number of tomatoes his girlfriend eats per day\ngirlfriend_tomatoes_per_day = tomatoes_per_day / 2\n# calculate the total tomatoes his girlfriend eats per week\ngirlfriend_total_tomatoes_needed = girlfriend_tomatoes_per_day * days_per_week\n# calculate the number of tomatoes Steve needs to grow\nsteve_tomatoes_needed = total_tomatoes_needed - girlfriend_total_tomatoes_needed\n# calculate the number of vines needed\nvines_needed = steve_tomatoes_needed / 3\nprint(vines_needed)\n", "Let's write a program.\n```python\n# define the variables\ntomatoes_per_day = 6\ndays_per_week = 7\n# calculate the total tomatoes needed per week\ntotal_tomatoes_needed = tomatoes_per_day * days_per_week\n# calculate the number of tomatoes his girlfriend eats per day\ngirlfriend_tomatoes_per_day = tomatoes_per_day / 2\n# calculate the total tomatoes his girlfriend eats per week\ngirlfriend_total_tomatoes_needed = girlfriend_tomatoes_per_day * days_per_week\n# calculate the number of tomatoes Steve needs to grow\nsteve_tomatoes_needed = total_tomatoes_needed - girlfriend_total_tomatoes_needed\n# calculate the number of vines needed\nvines_needed = steve_tomatoes_needed / 3\nprint(vines_needed)\n```"]}
+null
+{"version": "fail_code_result_match", "details": ["5", "31", "5", "\n# Python program to calculate total pens\ndef total_pens(bought_pens):\n    # calculate the number of full pens made from empty pens\n    full_pens = bought_pens // 5\n    # calculate the number of empty pens left\n    empty_pens_left = bought_pens % 5\n    # calculate the total number of pens\n    total = full_pens + empty_pens_left\n    return total\n\n# number of pens bought\nbought_pens = 25\n# calculate and print the total number of pens\nprint(total_pens(bought_pens))\n", "Let's write a program.\n```python\n# Python program to calculate total pens\ndef total_pens(bought_pens):\n    # calculate the number of full pens made from empty pens\n    full_pens = bought_pens // 5\n    # calculate the number of empty pens left\n    empty_pens_left = bought_pens % 5\n    # calculate the total number of pens\n    total = full_pens + empty_pens_left\n    return total\n\n# number of pens bought\nbought_pens = 25\n# calculate and print the total number of pens\nprint(total_pens(bought_pens))\n```"]}
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["6"], "7", ["6"], "Let's reason step by step.\nThere are 32-4=28 snails in the second aquarium.\nThe difference between the number of snails in the two aquariums is 28-4=24 snails.\nThere are 24/2=12 fish in both aquariums.\nEach aquarium has 12/2=6 fish in them.\nThe answer is 6"]}
+null
+{"version": "fail_grading_match", "details": [["34"], "32", ["34"], "Let's reason step by step.\nFirst, we need to find the total cost of the party supplies. We add up the cost of each item: $12 + $43 + $15 + $4 + $22 = $102.\nNext, we need to divide the total cost by the number of people sharing the cost. In this case, there are 3 people (Isabelle and her two parents), so we divide $102 by 3: $102 / 3 = $34.\nEach person paid $34.\nThe answer is 34"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["71"], "91", ["71"], "Let's reason step by step.\nIt takes 20 minutes for the oil to heat up to 300 degrees.\nIt then takes 40% longer for the oil to heat up to the desired temperature of 400 degrees.\n40% of 20 minutes is 0.4 * 20 = 8 minutes.\nSo, it takes 20 + 8 = 28 minutes for the oil to heat up to 400 degrees.\nAfter warming the oil, it takes 5 minutes less time to cook than it took to warm up the oil.\nSo, it takes 28 - 5 = 23 minutes to cook the chicken.\nTherefore, it takes a total of 20 + 28 + 23 = 71 minutes from starting the oil to having cooked chicken.\nThe answer is 71"]}
+null
+null
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["630", "315", "630.0", "\n# define the total number of stitches\ntotal_stitches = 1800\n\n# calculate the number of stitches for the collar\ncollar_stitches = total_stitches / 10\n\n# calculate the number of stitches for the rosette\nrosette_stitches = 2 * collar_stitches\n\n# calculate the number of stitches for the body\nbody_stitches = total_stitches - collar_stitches - rosette_stitches\n\n# calculate the number of stitches for each sleeve\nsleeve_stitches = (body_stitches / 2)\n\n# print the result\nprint(sleeve_stitches)\n", "Let's write a program.\n```python\n# define the total number of stitches\ntotal_stitches = 1800\n\n# calculate the number of stitches for the collar\ncollar_stitches = total_stitches / 10\n\n# calculate the number of stitches for the rosette\nrosette_stitches = 2 * collar_stitches\n\n# calculate the number of stitches for the body\nbody_stitches = total_stitches - collar_stitches - rosette_stitches\n\n# calculate the number of stitches for each sleeve\nsleeve_stitches = (body_stitches / 2)\n\n# print the result\nprint(sleeve_stitches)\n```"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["400", "500", "400", "\n# define the initial bid and the increment\ninitial_bid = 200\nincrement = 50\n\n# calculate the final bid\nfinal_bid = initial_bid + 3 * increment\n\n# calculate the cost of the desk\ncost = final_bid + increment\n\n# print the cost\nprint(cost)\n", "Let's write a program.\n```python\n# define the initial bid and the increment\ninitial_bid = 200\nincrement = 50\n\n# calculate the final bid\nfinal_bid = initial_bid + 3 * increment\n\n# calculate the cost of the desk\ncost = final_bid + increment\n\n# print the cost\nprint(cost)\n```"]}
+null
+null
+{"version": "fail_grading_match", "details": [["6"], "8", ["6"], "Let's reason step by step.\nTo make a 32-page tabloid, we need to fold the paper in half 5 times.\nEach time we fold the paper, we double the number of pages.\nSo, after 5 folds, we have $2^5 = 32$ pages.\nTherefore, we need $\\boxed{6}$ pieces of paper to make a 32-page tabloid.\nThe answer is 6"]}
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["8"], "16", ["8"], "Let's reason step by step.\nIf Joey loses 8 pounds in 4 weeks, then he loses 8/4 = 2 pounds per week.\nSince Sandy needs 4 weeks to lose the same amount of weight that Joey loses in a single week, it will take Sandy 4 * 2 = 8 weeks to lose the same amount of weight.\nThe answer is 8"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["24", "9", "24", "\n# define the total number of pencils\ntotal_pencils = 26 + 46\n\n# define the number of pencils in each box\npencils_per_box = 3\n\n# calculate the total number of boxes needed\ntotal_boxes = total_pencils // pencils_per_box\n\n# if there are any remaining pencils, add one more box\nif total_pencils % pencils_per_box != 0:\n    total_boxes += 1\n\nprint(total_boxes)\n", "Let's write a program.\n```python\n# define the total number of pencils\ntotal_pencils = 26 + 46\n\n# define the number of pencils in each box\npencils_per_box = 3\n\n# calculate the total number of boxes needed\ntotal_boxes = total_pencils // pencils_per_box\n\n# if there are any remaining pencils, add one more box\nif total_pencils % pencils_per_box != 0:\n    total_boxes += 1\n\nprint(total_boxes)\n```"]}
+null
+{"version": "fail_grading_match", "details": [["7"], "14", ["7"], "Let's reason step by step.\nIf 5 people leave with 7 new records, then they must have traded a total of 7 * 2 = 14 old records.\nSince each person traded 2 old records, the total number of old records brought in by the 5 people is 14 / 2 = 7.\nThe answer is 7"]}
+null
+{"version": "fail_code_result_match", "details": ["16", "14", "16", "\n# define the variables\npeople_at_terminal = 0\npeople_at_first_stop = 5\npeople_at_second_stop = 7\npeople_at_third_stop = 20\npeople_got_in_at_second_stop = 8\n\n# calculate the total number of people who got on the bus at the terminal\npeople_at_terminal = people_at_third_stop - people_at_second_stop + people_got_in_at_second_stop - people_at_first_stop\n\n# print the result\nprint(people_at_terminal)\n", "Let's write a program.\n```python\n# define the variables\npeople_at_terminal = 0\npeople_at_first_stop = 5\npeople_at_second_stop = 7\npeople_at_third_stop = 20\npeople_got_in_at_second_stop = 8\n\n# calculate the total number of people who got on the bus at the terminal\npeople_at_terminal = people_at_third_stop - people_at_second_stop + people_got_in_at_second_stop - people_at_first_stop\n\n# print the result\nprint(people_at_terminal)\n```"]}
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["49.150000000000006", "31", "49.150000000000006", "\n# define the variables\nlast_spent = 80\ncurrent_spent = 43\nreward_per_dollar = 1/20\ncoupon_multiplier = 2\n\n# calculate the rewards earned\nrewards_earned = (current_spent + last_spent) * reward_per_dollar\n\n# calculate the discount from the coupon\ncoupon_discount = rewards_earned * coupon_multiplier\n\n# calculate the total paid\ntotal_paid = current_spent - rewards_earned + coupon_discount\n\nprint(total_paid)\n", "Let's write a program.\n```python\n# define the variables\nlast_spent = 80\ncurrent_spent = 43\nreward_per_dollar = 1/20\ncoupon_multiplier = 2\n\n# calculate the rewards earned\nrewards_earned = (current_spent + last_spent) * reward_per_dollar\n\n# calculate the discount from the coupon\ncoupon_discount = rewards_earned * coupon_multiplier\n\n# calculate the total paid\ntotal_paid = current_spent - rewards_earned + coupon_discount\n\nprint(total_paid)\n```"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["5", "4", "5", "\n# define the initial number of balls and the number of weeks\ninitial_balls = 3\nweeks = 4\n\n# calculate the number of balls after the fourth week\nballs_after_four_weeks = initial_balls + weeks\n\n# calculate the number of balls dropped\nballs_dropped = 3\n\n# calculate the number of balls caught\nballs_caught = 2\n\n# calculate the number of balls lost\nballs_lost = 1\n\n# calculate the number of balls Josh starts juggling with\nballs_josh_juggles = balls_after_four_weeks - balls_dropped + balls_caught - balls_lost\n\n# print the result\nprint(balls_josh_juggles)\n", "Let's write a program.\n```python\n# define the initial number of balls and the number of weeks\ninitial_balls = 3\nweeks = 4\n\n# calculate the number of balls after the fourth week\nballs_after_four_weeks = initial_balls + weeks\n\n# calculate the number of balls dropped\nballs_dropped = 3\n\n# calculate the number of balls caught\nballs_caught = 2\n\n# calculate the number of balls lost\nballs_lost = 1\n\n# calculate the number of balls Josh starts juggling with\nballs_josh_juggles = balls_after_four_weeks - balls_dropped + balls_caught - balls_lost\n\n# print the result\nprint(balls_josh_juggles)\n```"]}
+{"version": "fail_code_result_match", "details": ["270", "260", "270", "\n# define the weights of the animals\npink_frog = 50\nblue_beetle = pink_frog\ngreen_toad = pink_frog\nyellow_snake = pink_frog + 20\nred_bird = pink_frog - 20\n\n# calculate the total weight\ntotal_weight = pink_frog + blue_beetle + green_toad + yellow_snake + red_bird + 20\n\n# print the result\nprint(total_weight)\n", "Let's write a program.\n```python\n# define the weights of the animals\npink_frog = 50\nblue_beetle = pink_frog\ngreen_toad = pink_frog\nyellow_snake = pink_frog + 20\nred_bird = pink_frog - 20\n\n# calculate the total weight\ntotal_weight = pink_frog + blue_beetle + green_toad + yellow_snake + red_bird + 20\n\n# print the result\nprint(total_weight)\n```"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["8"], "20", ["8"], "Let's reason step by step.\nJohn spends 6 hours boating and half that time swimming, so he spends 6/2 = 3 hours swimming.\nHe also watched 3 different shows which were 2 hours each, so he spends 3 * 2 = 6 hours watching shows.\nThis was 30% of the time he spent, so the total time he spent on these activities is 6 / 0.3 = 20 hours.\nHe spent 40% of his time sightseeing, so the total time he spent sightseeing is 20 * 0.4 = 8 hours.\nThe answer is 8"]}
+null
+null
+null
+{"version": "fail_grading_match", "details": [["12"], "2", ["12"], "Let's reason step by step.\nShe has $90 - $5 for tokens = $85 left.\nShe has $85 - $10 for each go-kart ride = $65 left.\nShe has $65 - $5 for each mini-golf round = $60 left.\nShe can invite $60 / $5 per mini-golf round = 12 friends.\nThe answer is 12"]}
+null
+{"version": "fail_grading_match", "details": [["2"], "4", ["2"], "Let's reason step by step.\nHe had $5 left after buying candy because 10 / 2 = 5\nHe spent $2 on gumballs because 40 x .05 = 2\nHe had $3 left after buying gumballs because 5 - 2 = 3\nHe bought 2 pounds of candy because 3 / 1.5 = 2\nThe answer is 2"]}
+null
+{"version": "fail_code_result_match", "details": ["26.666666666666668", "20", "26.666666666666668", "\n# define the distances\ndistance_12 = 75\ndistance_23 = 100\ndistance_31 = distance_23 - 50\n\n# calculate the total distance for one trip\ntotal_distance_one_trip = distance_12 + distance_23 + distance_31\n\n# calculate the total distance for three trips\ntotal_distance_three_trips = total_distance_one_trip * 3\n\n# calculate the number of days until the next service\ndays_until_service = 18000 / total_distance_three_trips\n\n# print the result\nprint(days_until_service)\n", "Let's write a program.\n```python\n# define the distances\ndistance_12 = 75\ndistance_23 = 100\ndistance_31 = distance_23 - 50\n\n# calculate the total distance for one trip\ntotal_distance_one_trip = distance_12 + distance_23 + distance_31\n\n# calculate the total distance for three trips\ntotal_distance_three_trips = total_distance_one_trip * 3\n\n# calculate the number of days until the next service\ndays_until_service = 18000 / total_distance_three_trips\n\n# print the result\nprint(days_until_service)\n```"]}
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["24"], "18", ["24"], "Let's reason step by step.\nIf Sara scored 8 points, then Erin has 3 * 8 = 24 points more than Sara.\nSo Erin has a total of 24 + 14 = 38 points.\nTherefore, Erin had 38 - 14 = 24 points before.\nThe answer is 24"]}
+{"version": "fail_grading_match", "details": [["1208"], "1198", ["1208"], "Let's reason step by step.\nThere are 44 seniors who need to receive awards.\nEach senior receives a picture frame that costs $20.\nSo the total cost of the picture frames is 44 * $20 = $880.\nEach picture frame needs to be etched with the logo for an additional 20% cost per frame.\nThe additional cost for each frame is 20% * $20 = $4.\nSo the total additional cost for all the frames is 44 * $4 = $176.\n2 of the seniors will also receive pins that are $5 each.\nSo the total cost of the pins is 2 * $5 = $10.\n1/4 of the seniors are officers and they will need to receive cords that are $12 each.\nThere are 44 * 1/4 = 11 officers.\nSo the total cost of the cords is 11 * $12 = $132.\nThe total cost of all the senior gifts is $880 + $176 + $10 + $132 = $1208.\nThe answer is 1208"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["760.4166666666667", "803", "760.4166666666667", "\n# define the variables\nprincipal = 3650\nrate = 10/100\ntime = 5/12\n\n# calculate the total interest\ntotal_interest = principal * rate * time\n\n# calculate the total amount to be paid\ntotal_amount = principal + total_interest\n\n# calculate the amount to be paid per month\namount_per_month = total_amount / 5\n\n# print the result\nprint(amount_per_month)\n", "Let's write a program.\n```python\n# define the variables\nprincipal = 3650\nrate = 10/100\ntime = 5/12\n\n# calculate the total interest\ntotal_interest = principal * rate * time\n\n# calculate the total amount to be paid\ntotal_amount = principal + total_interest\n\n# calculate the amount to be paid per month\namount_per_month = total_amount / 5\n\n# print the result\nprint(amount_per_month)\n```"]}
+null
+null
+{"version": "fail_grading_match", "details": [["3"], "2", ["3"], "Let's reason step by step.\nEach pitcher holds 12 cups of lemonade, so 3 pitchers hold 3 x 12 = 36 cups of lemonade.\nMillie spends $18 to buy enough supplies to make 36 cups of lemonade.\nShe sells each cup of lemonade for $1, so she makes 36 x $1 = $36 from selling all of the lemonade.\nHer profit per hour is the total amount she makes from selling lemonade minus the cost of supplies.\nSince she sells an average of 4 cups per hour, she makes 4 x $1 = $4 per hour.\nHer profit per hour is $4 - ($18 / 36) = $4 - $0.5 = $3.5\nThe answer is 3"]}
+null
+null
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["-12", "6", "-12", "\n# define the cost of a ride ticket and a ride bracelet\nride_ticket_cost = 2\nride_bracelet_cost = 30\n\n# calculate the cost for David and Dasha\ndavid_cost = ride_bracelet_cost\ndasha_cost = 9 * ride_ticket_cost\n\n# calculate the total cost\ntotal_cost = david_cost + dasha_cost\n\n# calculate the amount David saves\ndavid_savings = dasha_cost - david_cost\n\n# print the result\nprint(david_savings)\n", "Let's write a program.\n```python\n# define the cost of a ride ticket and a ride bracelet\nride_ticket_cost = 2\nride_bracelet_cost = 30\n\n# calculate the cost for David and Dasha\ndavid_cost = ride_bracelet_cost\ndasha_cost = 9 * ride_ticket_cost\n\n# calculate the total cost\ntotal_cost = david_cost + dasha_cost\n\n# calculate the amount David saves\ndavid_savings = dasha_cost - david_cost\n\n# print the result\nprint(david_savings)\n```"]}
+null
+null
+{"version": "fail_grading_match", "details": [["44"], "34", ["44"], "Let's reason step by step.\nHe pays $10*2=$20 for Hulu and Disney without the bundle\nHe gets a 20% discount on the $20 so that's $20*.20=$4 discount\nThat means he pays $20-$4=$16 for the streaming services\nHe used to pay $60 for cable and now he pays $16 for streaming so he saved $60-$16=$44\nThe answer is 44"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["260", "200", "260", "\n# define the initial number of cannolis\ncannolis = 40\n# Allan bought 60 more cannolis\ncannolis += 60\n# there is twice as much corn as cannolis\ncorns = 2 * cannolis\n# Allan bought 40 fewer corns than the number of cannolis\ncorns -= 40\n# calculate the combined total of the number of corns and cannolis\ntotal = corns + cannolis\nprint(total)\n", "Let's write a program.\n```python\n# define the initial number of cannolis\ncannolis = 40\n# Allan bought 60 more cannolis\ncannolis += 60\n# there is twice as much corn as cannolis\ncorns = 2 * cannolis\n# Allan bought 40 fewer corns than the number of cannolis\ncorns -= 40\n# calculate the combined total of the number of corns and cannolis\ntotal = corns + cannolis\nprint(total)\n```"]}
+null
+null
+{"version": "fail_grading_match", "details": [["30000"], "168000", ["30000"], "Let's reason step by step.\nIn May, the company hired 40 employees, and each employee was paid $15 per hour for a 40-hour workweek.\nSo, the total amount paid to the employees in May is 40 employees * $15/hour * 40 hours = $24,000.\nIn June, 1/4 of the employees' contracts expired, which means 1/4 * 40 employees = 10 employees' contracts expired.\nSince each employee was paid $15 per hour for a 40-hour workweek, the total amount paid to the employees in June is 10 employees * $15/hour * 40 hours = $6,000.\nTherefore, the total amount of money the company paid to the employees in the two months is $24,000 + $6,000 = $30,000.\nThe answer is 30000"]}
+{"version": "fail_grading_match", "details": [["6"], "3", ["6"], "Let's reason step by step.\nShe bought 2 pounds of taffy at $3 for 1 pound and 1/2 off so that's 3*.5 = $1.50\nShe bought 4 magnets at $0.25 each so that's 4*.25 = $1\nShe spent $1.50 on taffy, $1.50 on seashells, $1 on magnets so she spent 1.5+1.5+1 = $4\nShe started with $10 and spent $4 so she has 10-4 = $6 left\nThe answer is 6"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["268"], "284", ["268"], "Let's reason step by step.\nFor the first 6 months, the cost is 6 months x $8/month = $48\nFor the next 2 months at the normal price, the cost is 2 months x $12/month = $24\nFor the remaining 14 months at the increased price, the cost is 14 months x $14/month = $196\nIn total, the cost for 2 years of the service is $48 + $24 + $196 = $268\nThe answer is 268"]}
+{"version": "fail_code_result_match", "details": ["-6", "8", "-6", "\n# define the cost of tattered jeans\ntattered_jeans = 28\n# calculate the cost of jogger jeans\njogger_jeans = tattered_jeans - 6\n# calculate the total savings\ntotal_savings = 6\n# calculate the savings from jogger jeans\njogger_savings = total_savings / 3\n# calculate the savings from tattered jeans\ntattered_savings = total_savings - jogger_savings\n# calculate the original cost difference\noriginal_cost_difference = jogger_jeans - tattered_jeans\nprint(original_cost_difference)\n", "Let's write a program.\n```python\n# define the cost of tattered jeans\ntattered_jeans = 28\n# calculate the cost of jogger jeans\njogger_jeans = tattered_jeans - 6\n# calculate the total savings\ntotal_savings = 6\n# calculate the savings from jogger jeans\njogger_savings = total_savings / 3\n# calculate the savings from tattered jeans\ntattered_savings = total_savings - jogger_savings\n# calculate the original cost difference\noriginal_cost_difference = jogger_jeans - tattered_jeans\nprint(original_cost_difference)\n```"]}
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["149", "150", "149", "\n# define the cost of the ticket and the price per card\nticket_cost = 100\nprice_per_card = 1.5\n\n# define the amount of money Kenny has left after buying the ticket\nmoney_left = 50\n\n# calculate the amount of money Kenny made from selling his cards\nmoney_from_cards = ticket_cost + money_left\n\n# calculate the number of cards Kenny sold\ncards_sold = money_from_cards / price_per_card\n\n# calculate the number of cards Kenny started with\ncards_started_with = cards_sold / (1 - 1/3)\n\n# print the result\nprint(int(cards_started_with))\n", "Let's write a program.\n```python\n# define the cost of the ticket and the price per card\nticket_cost = 100\nprice_per_card = 1.5\n\n# define the amount of money Kenny has left after buying the ticket\nmoney_left = 50\n\n# calculate the amount of money Kenny made from selling his cards\nmoney_from_cards = ticket_cost + money_left\n\n# calculate the number of cards Kenny sold\ncards_sold = money_from_cards / price_per_card\n\n# calculate the number of cards Kenny started with\ncards_started_with = cards_sold / (1 - 1/3)\n\n# print the result\nprint(int(cards_started_with))\n```"]}
+{"version": "fail_code_result_match", "details": ["22", "26", "22", "\n# define the number of guests\ntotal_guests = 36\n# calculate the number of guests who can have two hotdogs\ntwo_hotdogs = total_guests / 2\n# calculate the number of guests who showed up\nactual_guests = 40\n# calculate the number of guests who did not get a second hotdog\nno_second_hotdog = actual_guests - two_hotdogs\n# print the result\nprint(int(no_second_hotdog))\n", "Let's write a program.\n```python\n# define the number of guests\ntotal_guests = 36\n# calculate the number of guests who can have two hotdogs\ntwo_hotdogs = total_guests / 2\n# calculate the number of guests who showed up\nactual_guests = 40\n# calculate the number of guests who did not get a second hotdog\nno_second_hotdog = actual_guests - two_hotdogs\n# print the result\nprint(int(no_second_hotdog))\n```"]}
+null
+null
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["1", "5", "1", "\n# define the cost of chips and candy bars\ncost_chips = 0.40\ncost_candy = 0.75\n\n# define the total money George spent and the number of chips he bought\ntotal_money = 5\nnum_chips = 3\n\n# calculate the money left after buying chips\nmoney_left = total_money - num_chips * cost_chips\n\n# calculate the money left as a percentage\nmoney_left_percent = money_left / total_money * 100\n\n# since 1% of his money is left, the rest was spent on candy bars\nmoney_spent_on_candy = total_money - money_left\n\n# calculate the number of candy bars George bought\nnum_candy = money_spent_on_candy / cost_candy\n\n# print the result\nprint(int(num_candy))\n", "Let's write a program.\n```python\n# define the cost of chips and candy bars\ncost_chips = 0.40\ncost_candy = 0.75\n\n# define the total money George spent and the number of chips he bought\ntotal_money = 5\nnum_chips = 3\n\n# calculate the money left after buying chips\nmoney_left = total_money - num_chips * cost_chips\n\n# calculate the money left as a percentage\nmoney_left_percent = money_left / total_money * 100\n\n# since 1% of his money is left, the rest was spent on candy bars\nmoney_spent_on_candy = total_money - money_left\n\n# calculate the number of candy bars George bought\nnum_candy = money_spent_on_candy / cost_candy\n\n# print the result\nprint(int(num_candy))\n```"]}
+null
+null
+{"version": "fail_grading_match", "details": [["8"], "7", ["8"], "Let's reason step by step.\nThere are 34 + 22 = 56 oranges in total.\nIf they share them equally with their 6 friends, there are 56/7 = 8 oranges for each person.\nThe answer is 8"]}
+null
+{"version": "fail_grading_match", "details": [["7"], "17", ["7"], "Let's reason step by step.\nIf it takes Wayne 4 minutes to be driven to the theater, then the drive from Wayne's hotel takes 4 minutes.\nThe drive from Bernadette's apartment takes four times as long as the drive from Wayne's hotel, so it takes 4 * 4 = 16 minutes.\nBernadette wants to arrive 5 minutes before Wayne, so she needs to leave 5 minutes earlier than Wayne.\nSince the drive from Wayne's hotel takes 4 minutes, Wayne needs to leave 4 minutes earlier than the time it takes to be driven to the theater.\nTherefore, Wayne needs to leave 4 + 5 = 9 minutes earlier than the time it takes to be driven to the theater.\nSince the drive from Bernadette's apartment takes 16 minutes, she needs to leave 16 minutes earlier than the time it takes to be driven to the theater.\nTherefore, Bernadette needs to leave 16 - 9 = 7 minutes earlier than Wayne.\nThe answer is 7"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["1"], "4", ["1"], "Let's reason step by step.\nIf you buy a movie ticket for $12 and buy one popcorn and a soda at regular price, the total cost would be $12 + $3 + $3 = $18.\nIf you didn't buy the super ticket and ended up saving $2, then the regular price of popcorn would be $18 - $20 + $3 = $1.\nThe regular price of popcorn is $1.\nThe answer is 1"]}
+null
+null
+null
+{"version": "fail_grading_match", "details": [["240"], "150", ["240"], "Let's reason step by step.\nMarin eats 4 apples a day, so in 30 days, he eats 4 * 30 = 120 apples.\nNancy also eats 4 apples a day, so in 30 days, she eats 4 * 30 = 120 apples.\nTogether, they eat 120 + 120 = 240 apples in 30 days.\nThe answer is 240"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["-4", "6", "-4", "\n# define the initial position\nposition = 1\n# Finley fell back 5 spots\nposition -= 5\n# she moved ahead 2 spots\nposition += 2\n# she fell behind 3\nposition -= 3\n# she jumped ahead 1 spot\nposition += 1\n# print the final position\nprint(position)\n", "Let's write a program.\n```python\n# define the initial position\nposition = 1\n# Finley fell back 5 spots\nposition -= 5\n# she moved ahead 2 spots\nposition += 2\n# she fell behind 3\nposition -= 3\n# she jumped ahead 1 spot\nposition += 1\n# print the final position\nprint(position)\n```"]}
+null
+{"version": "fail_grading_match", "details": [["100"], "1", ["100"], "Let's reason step by step.\nBecky bought 20 apples for 45 cents each, so she paid 20 * 45 = 900 cents.\nShe received a $1 discount, so her total cost was 900 - 100 = 800 cents.\nKelly bought 20 apples for 50 cents each, so she paid 20 * 50 = 1000 cents.\nShe received a 10 percent discount, so her total cost was 1000 - 100 = 900 cents.\nKelly paid 900 - 800 = 100 cents more than Becky.\nThe answer is 100"]}
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["3"], "20", ["3"], "Let's reason step by step.\nThere are 3*7=21 days in three weeks.\nJason will walk 4*21=84 times in three weeks.\nHe needs to spend 240/84=2.857 minutes walking each day.\nThe answer is 3"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["100"], "25", ["100"], "Let's reason step by step.\nHeather buys 2 packs of razors, so she gets 2 packs x 4 razors/pack = 8 razors in total.\nThe cost of each pack is $4.00, so the total cost of 2 packs is $4.00 x 2 = $8.00.\nShe has a $2.00 coupon, so the total cost after the coupon is $8.00 - $2.00 = $6.00.\nSince she gets one free, she is actually paying for 1 pack, which is $4.00.\nSo each individual razor costs $4.00 / 4 = $1.00.\nTo convert to cents, we multiply by 100, so each individual razor costs 100 cents.\nThe answer is 100"]}
+{"version": "fail_code_result_match", "details": ["53", "21", "53.0", "\n# define the heights of the cheerleaders in inches\ncheerleaders_heights = [64]*9 + [60]\n\n# calculate the total height of the human pyramid in inches\ntotal_height_inches = sum(cheerleaders_heights)\n\n# convert the total height to feet\ntotal_height_feet = total_height_inches / 12\n\n# print the total height of the human pyramid in feet\nprint(total_height_feet)\n", "Let's write a program.\n```python\n# define the heights of the cheerleaders in inches\ncheerleaders_heights = [64]*9 + [60]\n\n# calculate the total height of the human pyramid in inches\ntotal_height_inches = sum(cheerleaders_heights)\n\n# convert the total height to feet\ntotal_height_feet = total_height_inches / 12\n\n# print the total height of the human pyramid in feet\nprint(total_height_feet)\n```"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["8076.923076923077", "525", "8076.923076923077", "\n# define the variables\ntotal_weight_to_lose = 30\ncalories_to_lose_one_pound = 3500\ndays_left = 31 - 19 + 1  # December 31st to July 19th\n\n# calculate total calories to burn\ntotal_calories_to_burn = total_weight_to_lose * calories_to_lose_one_pound\n\n# calculate daily calorie deficit\ndaily_calorie_deficit = total_calories_to_burn / days_left\n\nprint(daily_calorie_deficit)\n", "Let's write a program.\n```python\n# define the variables\ntotal_weight_to_lose = 30\ncalories_to_lose_one_pound = 3500\ndays_left = 31 - 19 + 1  # December 31st to July 19th\n\n# calculate total calories to burn\ntotal_calories_to_burn = total_weight_to_lose * calories_to_lose_one_pound\n\n# calculate daily calorie deficit\ndaily_calorie_deficit = total_calories_to_burn / days_left\n\nprint(daily_calorie_deficit)\n```"]}
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["96"], "160", ["96"], "Let's reason step by step.\nShe bought 8 packs of 5 canvas bags for $4 each, so she spent 8 * 5 * $4 = $160 on the bags.\nShe sold each bag for $8, so she earned 8 * $8 = $64 from selling the bags.\nTo find the profit, we subtract the cost from the earnings, so the profit is $64 - $160 = -$96.\nSince the profit is negative, it means Tara actually lost money on the bags.\nThe answer is 96"]}
+{"version": "fail_execution", "details": ["name 'punch_per_minute' is not defined", "\n# define the variables\npunches_per_minute = 25\nminutes_per_round = 3\nrounds = 5\n\n# calculate the total number of punches\ntotal_punches = punch_per_minute * minutes_per_round * rounds\n\n# print the result\nprint(total_punches)\n", "Let's write a program.\n```python\n# define the variables\npunches_per_minute = 25\nminutes_per_round = 3\nrounds = 5\n\n# calculate the total number of punches\ntotal_punches = punch_per_minute * minutes_per_round * rounds\n\n# print the result\nprint(total_punches)\n```"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["48"], "36", ["48"], "Let's reason step by step.\nJosh spent 4 hours working out every week for 8 weeks, so he spent 4 * 8 = 32 hours in total.\nHe spent 5 hours each for two consecutive weeks, so he spent 5 * 2 = 10 hours in total for those two weeks.\nHe also spent 6 hours in one week.\nTherefore, the total number of hours he has spent working out across the 8 weeks is 32 + 10 + 6 = 48 hours.\nThe answer is 48"]}
+{"version": "fail_grading_match", "details": [["72"], "66", ["72"], "Let's reason step by step.\nAfter the first stop, 48 - 8 = 40 passengers are on the bus.\n5 times as many people as the number who got off from the bus get into the bus, so 5 * 8 = 40 people get on the bus.\nSo after the first stop, there are 40 + 40 = 80 passengers on the bus.\nAt the second stop, 21 passengers get off, so there are 80 - 21 = 59 passengers on the bus.\n3 times fewer passengers get on, so 40 / 3 = 13 passengers get on the bus.\nSo after the second stop, there are 59 + 13 = 72 passengers on the bus.\nThe answer is 72"]}
+{"version": "fail_grading_match", "details": [["9"], "25", ["9"], "Let's reason step by step.\nJame is 27-5=22 years old\nTwice Jame's age is 22*2=44\nSo in 8 years Jame's cousin will be 44-5=39 years old\nThat means Jame's cousin is 39-8=31 years old\nSo the age difference between the two is 31-22=9 years\nThe answer is 9"]}
+null
+{"version": "fail_code_result_match", "details": ["840", "300", "840", "\n# define the number of boys and girls\nboys = 20 / 2\ngirls = 20 / 2\n\n# define the number of shells each boy brought\nshells_per_boy = 60\n\n# calculate the total number of shells the boys brought\ntotal_shells_boys = boys * shells_per_boy\n\n# calculate the number of shells each girl brought\nshells_per_girl = total_shells_boys + 4 * total_shells_boys / girls\n\n# print the result\nprint(int(shells_per_girl))\n", "Let's write a program.\n```python\n# define the number of boys and girls\nboys = 20 / 2\ngirls = 20 / 2\n\n# define the number of shells each boy brought\nshells_per_boy = 60\n\n# calculate the total number of shells the boys brought\ntotal_shells_boys = boys * shells_per_boy\n\n# calculate the number of shells each girl brought\nshells_per_girl = total_shells_boys + 4 * total_shells_boys / girls\n\n# print the result\nprint(int(shells_per_girl))\n```"]}
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["60"], "35", ["60"], "Let's reason step by step.\nFirst find the amount of the tip: $50 * 20% = $10\nThen add the tip to the cost of the meal to find the total: $10 + $50 = $60\nThe answer is 60"]}
+{"version": "fail_code_result_match", "details": ["75", "39", "75", "\n# define the initial amount\ninitial_amount = 18\n\n# calculate the amount after the eldest added $5 and $10\namount_after_adding = initial_amount + 5 + 10\n\n# calculate the amount after spending $8\namount_after_spending = amount_after_adding - 8\n\n# calculate the amount after tripling\nfinal_amount = amount_after_spending * 3\n\n# print the final amount\nprint(final_amount)\n", "Let's write a program.\n```python\n# define the initial amount\ninitial_amount = 18\n\n# calculate the amount after the eldest added $5 and $10\namount_after_adding = initial_amount + 5 + 10\n\n# calculate the amount after spending $8\namount_after_spending = amount_after_adding - 8\n\n# calculate the amount after tripling\nfinal_amount = amount_after_spending * 3\n\n# print the final amount\nprint(final_amount)\n```"]}
+{"version": "fail_code_result_match", "details": ["75", "50", "75.0", "\n# define the total savings target and the number of days in April\ntotal_savings = 1125\ndays_in_april = 30\n\n# calculate the savings target for the first half of the month\nfirst_half_savings = total_savings / 2\n\n# calculate the savings target for each day in the first half of the month\nfirst_half_daily_savings = first_half_savings / (days_in_april / 2)\n\n# calculate the savings target for each day in the second half of the month\nsecond_half_daily_savings = 2 * first_half_daily_savings\n\n# print the result\nprint(second_half_daily_savings)\n", "Let's write a program.\n```python\n# define the total savings target and the number of days in April\ntotal_savings = 1125\ndays_in_april = 30\n\n# calculate the savings target for the first half of the month\nfirst_half_savings = total_savings / 2\n\n# calculate the savings target for each day in the first half of the month\nfirst_half_daily_savings = first_half_savings / (days_in_april / 2)\n\n# calculate the savings target for each day in the second half of the month\nsecond_half_daily_savings = 2 * first_half_daily_savings\n\n# print the result\nprint(second_half_daily_savings)\n```"]}
+null
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["91", "130", "91", "\n# define the number of letters in the alphabet\nalphabet_length = 26\n\n# calculate the total number of letters Elise has written\ntotal_letters = 2 * alphabet_length + alphabet_length/2 + alphabet_length\n\n# print the result\nprint(int(total_letters))\n", "Let's write a program.\n```python\n# define the number of letters in the alphabet\nalphabet_length = 26\n\n# calculate the total number of letters Elise has written\ntotal_letters = 2 * alphabet_length + alphabet_length/2 + alphabet_length\n\n# print the result\nprint(int(total_letters))\n```"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["170"], "240", ["170"], "Let's reason step by step.\nIn the first week, Judy read for 15 minutes each night, so she read a total of 15 minutes x 7 nights = 105 minutes.\nIf she can read 2 pages per 1.5 minutes, then in 105 minutes she can read 105 minutes / 1.5 minutes per 2 pages = 70 pages.\nIn the second week, she read a total of 100 pages.\nTherefore, in two weeks, Judy read a total of 70 pages + 100 pages = 170 pages.\nThe answer is 170"]}
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["30"], "23", ["30"], "Let's reason step by step.\nPeter has $70 and wants to spend an equal amount each day for one week, so he will spend $70/7 = $10 each day.\nFrom Sunday through Wednesday, he spent his money on wooden action figures which cost $5 each, so he bought 3 * $5 = $15 worth of wooden action figures.\nHe has $70 - $15 = $55 left to spend for the rest of the week.\nFor the rest of the week, he will buy plastic action figures which cost $2 each, so he can buy $55 / $2 = 27 plastic action figures.\nIn total, Peter will have 3 wooden action figures + 27 plastic action figures = 30 action figures by the end of the week.\nThe answer is 30"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["540.8", "500", "540.8", "\n# calculate the percentage error\npercentage_error = (468 - 450) / 450 * 100\n# calculate the correct temperature\ncorrect_temperature = 520 + (percentage_error / 100 * 520)\nprint(correct_temperature)\n", "Let's write a program.\n```python\n# calculate the percentage error\npercentage_error = (468 - 450) / 450 * 100\n# calculate the correct temperature\ncorrect_temperature = 520 + (percentage_error / 100 * 520)\nprint(correct_temperature)\n```"]}
+null
+null
+{"version": "fail_grading_match", "details": [["136"], "120", ["136"], "Let's reason step by step.\nJudy bought 12 cups and twice as many dishes as cups, so she bought 12 x 2 = 24 dishes.\nHer friend brought 40 cups, so Judy's friend brought 40 + 20 = 60 dishes.\nIn total, Judy and her friend brought 12 + 40 = 52 cups.\nAnd they brought 24 + 60 = 84 dishes.\nTherefore, the total number of utensils brought by the two is 52 + 84 = 136.\nThe answer is 136"]}
+{"version": "fail_grading_match", "details": [["1"], "2", ["1"], "Let's reason step by step.\nEach box of contacts is $100.00 and currently 10% off, so the discount is 100 * 0.10 = $10.00\nThe discounted price of each box is 100 - 10 = $90.00\nIf Pete buys 2 boxes of contacts, the total cost would be 2 * 90 = $180.00\nSince each box contains 90 contacts, 2 boxes would contain a total of 90 * 2 = 180 contacts\nTherefore, each pair of contacts would cost 180 / 180 = $1.00\nThe answer is 1"]}
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["2"], "15", ["2"], "Let's reason step by step.\nIf Martin eats Cheerios every day for breakfast, he'll lose 1.25 pounds/week.\nAfter 5 weeks, he'll have lost 1.25 pounds/week x 5 weeks = 6.25 pounds.\nIf Martin eats donuts every day for breakfast, he'll gain 1.75 pounds/week.\nAfter 5 weeks, he'll have gained 1.75 pounds/week x 5 weeks = 8.75 pounds.\nThe difference in his weight at the end of 5 weeks between the two breakfast options is 8.75 pounds - 6.25 pounds = 2.5 pounds.\nThe answer is 2"]}
+{"version": "fail_grading_match", "details": [["318"], "319", ["318"], "Let's reason step by step.\nAlex invites 100 people via email.\nEach invited person says they will also invite 2 friends, so there will be 100 x 2 = 200 additional people.\nAlex calls 10 of her friends to invite them too.\n8 of them say they will be bringing their spouses, so there will be 8 additional people.\nIn total, Alex will need seats for 100 + 200 + 10 + 8 = 318 people.\nTherefore, Alex will need 318 seats.\nThe answer is 318"]}
+null
+null
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["340", "260", "340.0", "\n# define the cost of each item\nimplant_base_price = 2000\ncrown_extra_cost = 500\ndeposit = 600\nhourly_wage = 15\n\n# calculate the total cost\ntotal_cost = 2 * implant_base_price + crown_extra_cost + deposit\n\n# calculate the number of hours needed to work\nhours_needed = total_cost / hourly_wage\n\n# print the result\nprint(hours_needed)\n", "Let's write a program.\n```python\n# define the cost of each item\nimplant_base_price = 2000\ncrown_extra_cost = 500\ndeposit = 600\nhourly_wage = 15\n\n# calculate the total cost\ntotal_cost = 2 * implant_base_price + crown_extra_cost + deposit\n\n# calculate the number of hours needed to work\nhours_needed = total_cost / hourly_wage\n\n# print the result\nprint(hours_needed)\n```"]}
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["1260"], "1800", ["1260"], "Let's reason step by step.\nRuiz makes 120/2 = 60 pounds of chocolate in an hour.\nMarissa makes 3/4*60 = 45 pounds of chocolate in an hour.\nTogether, they make 60+45 = 105 pounds of chocolate in an hour.\nIn 12 hours, they will make 12*105 = 1260 pounds of chocolate together.\nThe answer is 1260"]}
+null
+null
+null
+{"version": "fail_grading_match", "details": [["20"], "10", ["20"], "Let's reason step by step.\nIf the jumbo bottle of shampoo costs $24.00 and will give you 120 washings, then each pump of shampoo will cost $24.00 / 120 = $0.20\nIf Jackie only uses 1 pump per wash, then each pump will cost $0.20\nTo convert this to cents, we multiply by 100, so each pump will cost 0.20 * 100 = 20 cents\nThe answer is 20"]}
+{"version": "fail_grading_match", "details": [["2.5"], "8", ["2.5"], "Let's reason step by step.\nJoe has $50 to spend.\nThe shirt he picks out has a price of $25, and there is a 30% discount, so he will pay 25 - (30% of 25) = $17.50 for the shirt.\nThe pair of shorts he picks out has a price of $35.\nThe total cost of the shirt and shorts is $17.50 + $35 = $52.50.\nJoe will have $50 - $52.50 = -$2.50 left after the purchase.\nSince he has a negative balance, it means he spent more than he had, so he will be short $2.50.\nThe answer is 2.5"]}
+null
+null
+{"version": "fail_grading_match", "details": [["10000000"], "1450000", ["10000000"], "Let's reason step by step.\nJohn gets initial funding of $100,000 for the first 5 months of research.\nAfter the first 5 months, his research takes 10 times longer, so it takes 5 * 10 = 50 months.\nEvery month after the first 5 months, his funding increases by 50%.\nSo, for the next 45 months, his funding increases by 50% each month.\nTo calculate the total cost of his research, we need to calculate the total funding for each month and then add them up.\nFor the first 5 months, the funding is $100,000 per month, so the total funding for those months is 5 * $100,000 = $500,000.\nFor the next 45 months, the funding increases by 50% each month.\nSo, for the 6th month, the funding is $100,000 + ($100,000 * 50%) = $150,000.\nFor the 7th month, the funding is $150,000 + ($150,000 * 50%) = $225,000.\nAnd so on...\nWe can calculate the funding for each month using the formula: funding = previous month's funding + (previous month's funding * 50%).\nAfter calculating the funding for each month, we can add them up to get the total cost of his research.\nThe total cost of his research is $500,000 + $150,000 + $225,000 + ... (for a total of 50 months).\nUsing a calculator or a computer program, we can find that the total cost of his research is approximately $10,000,000.\nThe answer is 10000000"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["378000"], "262500", ["378000"], "Let's reason step by step.\nHis raise is 20000*.05=$1000\nHis new salary is 20000+1000=$21000\nHis bonus is 21000/2=$10500\nSo he makes 21000+10500=$31500 a month\nThat means he makes 31500*12=$378,000 a year\nThe answer is 378000"]}
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["160000"], "162000", ["160000"], "Let's reason step by step.\nThree weeks later, the number of likes was 70 times as many as the initial number of likes, so there were 70 * 2000 = 140000 likes.\nIf she received 20000 more new likes recently, then the total number of likes is 140000 + 20000 = 160000 likes.\nThe answer is 160000"]}
+null
+null
+{"version": "fail_grading_match", "details": [["105"], "75", ["105"], "Let's reason step by step.\nHe was charged for 4 hours because 9-5=4\nThe first hour cost $15\nThe next 3 hours cost $30 per hour because 15*2=30\nThe total cost for those 3 hours was $90 because 3*30=90\nThe total cost was $105 because 15+90=105\nThe answer is 105"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["14"], "2", ["14"], "Let's reason step by step.\nChristina had 12 good days and 8 bad days, so the total number of good and bad days is 12 + 8 = 20.\nThe rest of the days were neutral, so the number of neutral days is 30 - 20 = 10.\nHer first eight days were good, her second eight days were bad, and her third eight days were neutral, so the number of good, bad, and neutral days in the first three weeks is 8 + 8 + 8 = 24.\nThe next three days were good, neutral, and good, so the number of good, bad, and neutral days in the last three days is 1 + 0 + 1 = 2.\nTherefore, the total number of good days in the month is 12 + 1 + 1 = 14.\nThe answer is 14"]}
+null
+null
+{"version": "fail_code_result_match", "details": ["25", "33", "25", "\n# define the initial number of toys and dogs\ninitial_toys = 4\ninitial_dogs = 4\n\n# calculate the number of toys needed for the additional dogs\nadditional_dogs = 8\nadditional_toys = additional_dogs\n\n# calculate the number of toys needed for the dogs that came back\ndogs_came_back = 2 * additional_dogs\ntoys_came_back = dogs_came_back\n\n# calculate the number of toys needed for the dogs that left\ndogs_left = 3\ntoys_left = dogs_left\n\n# calculate the total number of toys needed\ntotal_toys = initial_toys + additional_toys + toys_came_back - toys_left\n\nprint(total_toys)\n", "Let's write a program.\n```python\n# define the initial number of toys and dogs\ninitial_toys = 4\ninitial_dogs = 4\n\n# calculate the number of toys needed for the additional dogs\nadditional_dogs = 8\nadditional_toys = additional_dogs\n\n# calculate the number of toys needed for the dogs that came back\ndogs_came_back = 2 * additional_dogs\ntoys_came_back = dogs_came_back\n\n# calculate the number of toys needed for the dogs that left\ndogs_left = 3\ntoys_left = dogs_left\n\n# calculate the total number of toys needed\ntotal_toys = initial_toys + additional_toys + toys_came_back - toys_left\n\nprint(total_toys)\n```"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["14"], "13", ["14"], "Let's reason step by step.\nLet's assume the age of one triplet is x.\nSince one twin is 7 years older than one triplet, the age of one twin is x + 7.\nThe combined ages of the twins and triplets is 44, so we can write the equation: x + (x + 7) + x + (x + 7) = 44.\nSimplifying the equation, we get: 4x + 14 = 44.\nSubtracting 14 from both sides, we get: 4x = 30.\nDividing both sides by 4, we get: x = 7.5.\nSince the age of one triplet is 7.5, the age of one twin is 7.5 + 7 = 14.5.\nTherefore, one of the twins is 14.5 years old.\nThe answer is 14"]}
+null
+{"version": "fail_code_result_match", "details": ["12", "7", "12.0", "\n# define the cost of each item\nlollipop_cost = 0.40\ncandy_cost = 3.20 / 4\n\n# calculate the total cost for 10 lollipops and 10 candies\ntotal_cost = 10 * lollipop_cost + 10 * candy_cost\n\n# print the result\nprint(total_cost)\n", "Let's write a program.\n```python\n# define the cost of each item\nlollipop_cost = 0.40\ncandy_cost = 3.20 / 4\n\n# calculate the total cost for 10 lollipops and 10 candies\ntotal_cost = 10 * lollipop_cost + 10 * candy_cost\n\n# print the result\nprint(total_cost)\n```"]}
+null
+{"version": "fail_code_result_match", "details": ["61", "25", "61.0", "\n# define the cost of each vaccine and the number of vaccines\nvaccine_cost = 20\nnum_vaccines = 2\n\n# calculate the total cost of vaccines\ntotal_vaccine_cost = vaccine_cost * num_vaccines\n\n# calculate the cost of the heartworm check\nheartworm_cost = total_vaccine_cost * 0.6\n\n# calculate the total bill\ntotal_bill = total_vaccine_cost + heartworm_cost\n\n# calculate the amount left with John\namount_left = 125 - total_bill\n\n# print the result\nprint(amount_left)\n", "Let's write a program.\n```python\n# define the cost of each vaccine and the number of vaccines\nvaccine_cost = 20\nnum_vaccines = 2\n\n# calculate the total cost of vaccines\ntotal_vaccine_cost = vaccine_cost * num_vaccines\n\n# calculate the cost of the heartworm check\nheartworm_cost = total_vaccine_cost * 0.6\n\n# calculate the total bill\ntotal_bill = total_vaccine_cost + heartworm_cost\n\n# calculate the amount left with John\namount_left = 125 - total_bill\n\n# print the result\nprint(amount_left)\n```"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["12"], "8", ["12"], "Let's reason step by step.\nIf 40% of the water from the Colorado River is used by Colorado City, then the remaining 60% is not used by the city.\nIf 80% of the water used by the city is for industrial purposes, then 20% of the water used by the city is for non-industrial purposes.\nTo find the percentage of the river's total water used for non-industrial purposes, we need to find the percentage of the 60% that is used for non-industrial purposes.\n20% of 60% is (20/100) * 60 = 12%\nTherefore, 12% of the river's total water is used by the city for non-industrial purposes.\nThe answer is 12"]}
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["2", "6", "2.0", "\n# calculate the number of scoops Erin can buy\ntotal_money = 6.00\nscoop_cost = 1.50\n# since it's buy 2 get 1 free, Erin can buy 2/3 of the total scoops she can afford\ntotal_scoops = total_money // scoop_cost\nscoops_to_buy = total_scoops // 3 * 2\nprint(scoops_to_buy)\n", "Let's write a program.\n```python\n# calculate the number of scoops Erin can buy\ntotal_money = 6.00\nscoop_cost = 1.50\n# since it's buy 2 get 1 free, Erin can buy 2/3 of the total scoops she can afford\ntotal_scoops = total_money // scoop_cost\nscoops_to_buy = total_scoops // 3 * 2\nprint(scoops_to_buy)\n```"]}
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["930"], "770", ["930"], "Let's reason step by step.\nJohn makes a 6 egg omelet, so the eggs contribute 6 * 75 = 450 calories.\nHe also adds 2 oz of cheese, which contributes 2 * 120 = 240 calories.\nHe adds an equal amount of ham, so the ham also contributes 240 calories.\nTherefore, the total number of calories in the omelet is 450 + 240 + 240 = 930 calories.\nThe answer is 930"]}
+null
+null
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["-195", "255", "-195", "\n# define the costs\ncost_of_pothole = 450\nfine = 120\ncost_of_bucket = 25\nnumber_of_buckets = 3\n\n# calculate the total cost of fixing the pothole\ntotal_cost = cost_of_pothole + fine + number_of_buckets * cost_of_bucket\n\n# calculate the savings\nsavings = cost_of_pothole - total_cost\n\n# print the savings\nprint(savings)\n", "Let's write a program.\n```python\n# define the costs\ncost_of_pothole = 450\nfine = 120\ncost_of_bucket = 25\nnumber_of_buckets = 3\n\n# calculate the total cost of fixing the pothole\ntotal_cost = cost_of_pothole + fine + number_of_buckets * cost_of_bucket\n\n# calculate the savings\nsavings = cost_of_pothole - total_cost\n\n# print the savings\nprint(savings)\n```"]}
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["114"], "8", ["114"], "Let's reason step by step.\nHe chews 4 pieces of gum a day and there are 15 pieces per pack so 4/15 = .2666666666666667 packs of gum per day\nHe needs enough gum to last him 30 days and he uses .2666666666666667 packs per day so 30/.2666666666666667 = 113.99999999999997 packs of gum\nThe answer is 114"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["6"], "3", ["6"], "Let's reason step by step.\nIf there are 54 students and they need to be separated into 6 groups of equal size, then each group will have 54/6 = 9 students.\nIf the activity requires 12 groups, then there will be a total of 12 x 9 = 108 students.\nSince there are only 54 students, 108 - 54 = 54 more students are needed to form the additional groups.\nTherefore, 54/9 = 6 more groups are needed to form.\nThe answer is 6"]}
+null
+null
+{"version": "fail_grading_match", "details": [["300"], "240", ["300"], "Let's reason step by step.\nThere are 4 roommates and the electricity bill is $100 per month, so each roommate will pay $100 / 4 = $25 per month.\nTo find out how much each roommate will pay per year, we need to multiply the monthly payment by 12 (the number of months in a year).\nSo each roommate will pay $25 * 12 = $300 per year for electricity.\nThe answer is 300"]}
+null
+{"version": "fail_grading_match", "details": [["22"], "89", ["22"], "Let's reason step by step.\nFirst find the number of small stickers Lorraine trades: 30 stickers * 90% = 27 stickers\nThen find the number of large stickers Lorraine trades: 40 stickers * 50% = 20 stickers\nThen find the number of large buttons Lorraine gets from trading her large stickers: 20 stickers / 3 stickers per button = 6.67 buttons\nThen find the number of small buttons Lorraine gets from trading her small stickers: 27 stickers / 3 stickers per button = 9 buttons\nThen find the number of large stickers Lorraine has left: 40 stickers - 20 stickers = 20 stickers\nThen find the number of small buttons Lorraine gets from trading her remaining large stickers: 20 stickers / 3 stickers per button = 6.67 buttons\nThen add the number of each type of button to find the total number of buttons Lorraine has: 6.67 buttons + 9 buttons + 6.67 buttons = 22.34 buttons\nThe answer is 22"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["290"], "490", ["290"], "Let's reason step by step.\nIf George has 200 bananas, then he has 45% more pears than bananas.\n45% of 200 bananas is 0.45 * 200 = 90 pears.\nSo, George has 200 bananas + 90 pears = 290 fruits in total.\nThe answer is 290"]}
+null
+null
+{"version": "fail_grading_match", "details": [["600"], "675", ["600"], "Let's reason step by step.\nIf in one hour, Ezra read twice as many books as Ahmed, then Ahmed read 300/2 = 150 books.\nTogether, they read 300 + 150 = 450 books.\nIf Ezra decided to read 150 more books, then he read a total of 300 + 150 = 450 books.\nTherefore, they have read a total of 450 + 150 = 600 books altogether.\nThe answer is 600"]}
+{"version": "fail_grading_match", "details": [["95"], "110", ["95"], "Let's reason step by step.\nOn Monday, Tanya teaches 4 classes for 5 hours, so she earns 4 * $15 = $60 for the classes.\nShe also teaches for 5 hours, so she earns an additional $5 * 1 = $5 for the hours.\nTherefore, on Monday, Tanya earns a total of $60 + $5 = $65.\nOn Wednesday, Tanya teaches 2 classes for 2 hours, so she earns 2 * $15 = $30 for the classes.\nShe also teaches for 2 hours, so she earns an additional $5 * 0 = $0 for the hours (since she teaches less than 3 classes).\nTherefore, on Wednesday, Tanya earns a total of $30 + $0 = $30.\nIn total, Tanya earns $65 + $30 = $95 for these two days of teaching.\nThe answer is 95"]}
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["3600"], "4400", ["3600"], "Let's reason step by step.\nHe has 600/3=200 series movies\nThat means he has 600-200=400 movies left\n20% of those are older movies so that means 400*.4=160 movies\nSo he has 400-160=240 movies left\nThose cost $10 each so that's 240*10=$2400\nHe gets 200 series movies for 6 dollars each so that's 200*6=$1200\nSo in total it cost him 2400+1200=$3600\nThe answer is 3600"]}
+{"version": "fail_grading_match", "details": [["40"], "38", ["40"], "Let's reason step by step.\nWinston picked 6 pounds of peaches at $2.00 per pound, so he spent 6 * $2.00 = $12.00 on peaches.\nHe also picked 8 pounds of plums at $1.00 per pound, so he spent 8 * $1.00 = $8.00 on plums.\nLastly, he picked 6 pounds of apricots at $3.00 per pound, so he spent 6 * $3.00 = $18.00 on apricots.\nIn total, Winston spent $12.00 + $8.00 + $18.00 = $40.00 on fruit.\nThe answer is 40"]}
+{"version": "fail_code_result_match", "details": ["330", "255", "330.0", "\n# define the variables\ndrive_time = 6 # hours\ndrive_speed = 50 # miles per hour\nhike_time = 1.5 # hours\nhike_speed = drive_speed / 2 - 5 # miles per hour\n\n# calculate the distance\ndrive_distance = drive_time * drive_speed\nhike_distance = hike_time * hike_speed\ntotal_distance = drive_distance + hike_distance\n\n# print the result\nprint(total_distance)\n", "Let's write a program.\n```python\n# define the variables\ndrive_time = 6 # hours\ndrive_speed = 50 # miles per hour\nhike_time = 1.5 # hours\nhike_speed = drive_speed / 2 - 5 # miles per hour\n\n# calculate the distance\ndrive_distance = drive_time * drive_speed\nhike_distance = hike_time * hike_speed\ntotal_distance = drive_distance + hike_distance\n\n# print the result\nprint(total_distance)\n```"]}
+null
+{"version": "fail_code_result_match", "details": ["2", "17", "2.0", "\n# define the total cost and the cost of two pizzas\ntotal_cost = 64\ncost_of_two_pizzas = 30 * 2\n\n# calculate the cost of the other two pizzas\ncost_of_other_two_pizzas = total_cost - cost_of_two_pizzas\n\n# since the other two pizzas cost the same amount, divide the total cost by 2\ncost_of_each_of_the_other_two_pizzas = cost_of_other_two_pizzas / 2\n\n# print the result\nprint(cost_of_each_of_the_other_two_pizzas)\n", "Let's write a program.\n```python\n# define the total cost and the cost of two pizzas\ntotal_cost = 64\ncost_of_two_pizzas = 30 * 2\n\n# calculate the cost of the other two pizzas\ncost_of_other_two_pizzas = total_cost - cost_of_two_pizzas\n\n# since the other two pizzas cost the same amount, divide the total cost by 2\ncost_of_each_of_the_other_two_pizzas = cost_of_other_two_pizzas / 2\n\n# print the result\nprint(cost_of_each_of_the_other_two_pizzas)\n```"]}
+{"version": "fail_grading_match", "details": [["27"], "54", ["27"], "Let's reason step by step.\nChase and Rider can ride their bikes thrice a day for 5 days, so they ride 3 x 5 = 15 times on those days.\nOn two other days, they ride twice the times they do on usual days, so they ride 3 x 2 = 6 times on those days.\nIn total, they ride their bikes 15 + 6 + 6 = 27 times a week.\nThe answer is 27"]}
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["12"], "108", ["12"], "Let's reason step by step.\nThere were 90 people in total, and they were split into groups of 9, so there were 90/9 = 10 groups.\nIf 3/5 of the groups had members bring back 2 seashells each, then 3/5 * 10 = 6 groups brought back seashells.\nEach group brought back 2 seashells, so 6 groups * 2 seashells = 12 seashells were brought back.\nThe answer is 12"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["5"], "6", ["5"], "Let's reason step by step.\nFirst find the total number of stuffed animals Bubbles has: 3 stuffed puppies + 5 stuffed koalas + 2 stuffed zebras + 4 stuffed frogs = 14 stuffed animals\nThen multiply the total number of stuffed animals by 30% to find the number of stuffed goats that corresponds to 30%: 14 stuffed animals * 30% = 4.2 stuffed animals\nSince Bubbles can't have a fraction of a stuffed animal, she'll need to round up to the nearest whole number. Therefore, she should buy 5 stuffed goats.\nThe answer is 5"]}
+null
+null
+null
+{"version": "fail_grading_match", "details": [["66"], "70", ["66"], "Let's reason step by step.\nOut of 500 third-graders, 340 passed, so the pass rate for third-graders is 340/500 = 0.68 or 68%.\nOut of 100 fourth-graders, 40 passed, so the pass rate for fourth-graders is 40/100 = 0.4 or 40%.\nThe pass rate for fifth-graders is twice the pass rate for fourth-graders, so it is 2 * 0.4 = 0.8 or 80%.\nTo find the overall pass rate, we need to calculate the weighted average of the pass rates for each grade.\nThe number of third-graders is 500, so their contribution to the overall pass rate is 0.68 * 500 = 340.\nThe number of fourth-graders is 100, so their contribution to the overall pass rate is 0.4 * 100 = 40.\nThe number of fifth-graders is 400, so their contribution to the overall pass rate is 0.8 * 400 = 320.\nThe total number of students is 500 + 100 + 400 = 1000.\nThe overall pass rate is (340 + 40 + 320) / 1000 = 660 / 1000 = 0.66 or 66%.\nThe answer is 66"]}
+{"version": "fail_grading_match", "details": [["12"], "4", ["12"], "Let's reason step by step.\nEach square inch of the mosaic requires 12 glass chips, so for a mosaic that is 3 inches tall, Milo will need 3 x 12 = 36 glass chips.\nMilo has two bags of glass chips, and each bag holds 72 chips, so he has a total of 2 x 72 = 144 glass chips.\nSince each square inch requires 12 chips, Milo can make a mosaic that is 144 / 12 = 12 square inches long.\nTherefore, Milo can make his mosaic 12 inches long.\nThe answer is 12"]}
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["17"], "11", ["17"], "Let's reason step by step.\nJack can play for 20 minutes with 1 quarter, so in 4 hours, he can play for 4 x 60 = 240 minutes.\nIf he can play for 20 minutes with 1 quarter, then in 240 minutes, he can play for 240 / 20 = 12 quarters.\nTwo of his friends can only play half as long as him, so they can play for 20 / 2 = 10 minutes each.\nIn 4 hours, they can play for 4 x 60 = 240 minutes.\nIf they can play for 10 minutes each, then in 240 minutes, they can play for 240 / 10 = 24 quarters each.\nOne of his friends is significantly better and can play for 1.5 times as long as him, so he can play for 20 x 1.5 = 30 minutes.\nIn 4 hours, he can play for 4 x 60 = 240 minutes.\nIf he can play for 30 minutes, then in 240 minutes, he can play for 240 / 30 = 8 quarters.\nIn total, Jack and his friends used 12 + 24 + 24 + 8 = 68 quarters.\nSince each quarter is worth $0.25, they used 68 x $0.25 = $17.\nThe answer is 17"]}
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["18"], "14", ["18"], "Let's reason step by step.\nIn the first game, Sasha scored 14 points.\nJulie scored 4 fewer points than Sasha, so she scored 14 - 4 = 10 points.\nIn the second game, Sasha scored 6 fewer points than Julie's score in the first game, so he scored 10 - 6 = 4 points.\nTherefore, Sasha scored a total of 14 + 4 = 18 points during both games.\nThe answer is 18"]}
+null
+null
+null
+{"version": "fail_grading_match", "details": [["21"], "11", ["21"], "Let's reason step by step.\nFirst find the weight-based cost: 4 pounds * $0.35/pound = $1.40\nThen find the distance-based cost: 20 miles * $0.08/mile = $1.60\nThen add the two costs to find the total cost: $1.40 + $1.60 = $3.00\nThen multiply the purchase price by Amazon's refund percentage to find the refund amount: $32 * 75% = $24.00\nThen subtract the refund amount from the total cost to find the amount Milly loses: $3.00 - $24.00 = -$21.00\nThe answer is 21"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["14"], "13", ["14"], "Let's reason step by step.\nLet's assume my age is x.\nSince I am three years younger than my brother, my brother's age is x + 3.\nSince I am 2 years older than my sister, my sister's age is x - 2.\nSince my mom's age is one less than three times my brother's age, my mom's age is 3(x + 3) - 1.\nAdding all our ages, we get x + (x + 3) + (x - 2) + (3(x + 3) - 1) = 87.\nSimplifying the equation, we get 5x + 13 = 87.\nSubtracting 13 from both sides, we get 5x = 74.\nDividing both sides by 5, we get x = 14.8.\nSince we can't have a fraction of a year, we round down to the nearest whole number.\nTherefore, I am 14 years old.\nThe answer is 14"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["29"], "41", ["29"], "Let's reason step by step.\nFor the multiple-choice questions, Amy correctly answers 80% of the 10 questions, so she gets 80/100 * 10 = 8 points.\nFor the true/false questions, Amy correctly answers 90% of the 20 questions, so she gets 90/100 * 20 = 18 points.\nFor the long-answer questions, Amy correctly answers 60% of the 5 questions, so she gets 60/100 * 5 = 3 points.\nIn total, Amy scores 8 + 18 + 3 = 29 points.\nThe answer is 29"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["5"], "1", ["5"], "Let's reason step by step.\nIf Martha bought 5 more notebooks for a total of 7 notebooks, then she had 7-5 = 2 notebooks before buying more.\nSince Joseph had 3 times as many notebooks as Martha, then Joseph had 3*2 = 6 notebooks.\nMartha now has 7-2 = 5 more notebooks than Joseph.\nThe answer is 5"]}
+null
+null
+null
+{"version": "fail_grading_match", "details": [["2"], "1", ["2"], "Let's reason step by step.\nCalvin has enough soup to fill four adult's bowls or eight child's bowls.\nSince Calvin is an adult and will be eating with his adult wife and their two children, they will need a total of 4 bowls for themselves.\nThis means that there will be 8 - 4 = 4 bowls of soup left for the children.\nSince there are two children, each child will be able to have 4 / 2 = 2 bowls of soup for lunch.\nThe answer is 2"]}
+null
+{"version": "fail_grading_match", "details": [["58"], "16", ["58"], "Let's reason step by step.\nTo make 20 small masks, Jo would need 20 * 2 = 40 yards of material.\nTo make 8 large masks, Jo would need 8 * 2.25 = 18 yards of material.\nTherefore, Jo would need a total of 40 + 18 = 58 yards of material.\nThe answer is 58"]}
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["8"], "6", ["8"], "Let's reason step by step.\nHe drinks 60/30=2 bottles of water per hour\nAn extreme puzzle takes 45*4=180 minutes\nSo he drinks 180/30=6 bottles of water\nSo he drinks 2+6=8 bottles of water\nThe answer is 8"]}
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["15.5", "14", "15.5", "\n# define the cost of each item\ncake_cost = 11\nballoons_cost = 0.5 * 12 # 1 dozen balloons\nice_cream_cost = 7 * 2 # 2 tubs of ice cream\n\n# calculate the total cost\ntotal_cost = cake_cost + balloons_cost + ice_cream_cost\n\n# calculate the amount given to each girl\neach_girls_share = total_cost / 2\n\n# print the result\nprint(each_girls_share)\n", "Let's write a program.\n```python\n# define the cost of each item\ncake_cost = 11\nballoons_cost = 0.5 * 12 # 1 dozen balloons\nice_cream_cost = 7 * 2 # 2 tubs of ice cream\n\n# calculate the total cost\ntotal_cost = cake_cost + balloons_cost + ice_cream_cost\n\n# calculate the amount given to each girl\neach_girls_share = total_cost / 2\n\n# print the result\nprint(each_girls_share)\n```"]}
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["6"], "2", ["6"], "Let's reason step by step.\nThere are 27-15=12 cups of mint and chamomile tea.\nThere are 12/2=6 cups of mint tea in each row.\nThe answer is 6"]}
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["70"], "50", ["70"], "Let's reason step by step.\nLet's assume the age of Jean is J\nSince Paul is 10 years older than Jean, the age of Paul is J + 10\nSince Peter's age is equal to the sum of Paul and Jean's age, the age of Peter is J + (J + 10) = 2J + 10\nThe combined age of Peter, Paul, and Jean is 100 years, so J + (J + 10) + J = 100\nCombining like terms, we get 3J + 10 = 100\nSubtracting 10 from both sides, we get 3J = 90\nDividing both sides by 3, we get J = 30\nTherefore, the age of Peter is 2J + 10 = 2(30) + 10 = 60 + 10 = 70\nThe answer is 70"]}
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["110"], "250", ["110"], "Let's reason step by step.\nIf Cameron stays for 12 hours, he would pay 1000 pesos.\nIf he stays for 24 hours, he would pay 1600 pesos.\nSince Cameron wants to leave at 10 am the next morning, he would be staying for 12 hours + 7 hours = 19 hours in total.\nIf he chooses to add on 70 pesos for every hour after the 12-hour mark, he would pay an additional 70 * 7 = 490 pesos.\nSo in total, Cameron would pay 1000 + 490 = 1490 pesos.\nIf he had chosen to pay for 24 hours, he would have paid 1600 pesos.\nTherefore, Cameron would save 1600 - 1490 = 110 pesos.\nThe answer is 110"]}
+null
+null
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["178.75", "205", "178.75", "\n# define the constants\nvisit_charge = 40\nlabor_charge_per_hour = 35\nparts_charge = 60\n\n# calculate the total charge\ntotal_charge = visit_charge + labor_charge_per_hour * 2.25 + parts_charge\n\n# print the result\nprint(total_charge)\n", "Let's write a program.\n```python\n# define the constants\nvisit_charge = 40\nlabor_charge_per_hour = 35\nparts_charge = 60\n\n# calculate the total charge\ntotal_charge = visit_charge + labor_charge_per_hour * 2.25 + parts_charge\n\n# print the result\nprint(total_charge)\n```"]}
+{"version": "fail_code_result_match", "details": ["-170", "50", "-170.0", "\n# define the variables\ntotal_cds = 10\ncost_per_cd = 15\ndiscount = 0.4\nsold_cds = 5\nsell_price = 40\n\n# calculate the total cost after discount\ntotal_cost = total_cds * cost_per_cd * (1 - discount)\n\n# calculate the total money spent on the CDs he doesn't like\nmoney_spent = sold_cds * cost_per_cd * discount\n\n# calculate the total money he gets from selling the CDs he doesn't like\nmoney_earned = sold_cds * sell_price\n\n# calculate the total money he is out\ntotal_out = money_spent - money_earned\n\nprint(total_out)\n", "Let's write a program.\n```python\n# define the variables\ntotal_cds = 10\ncost_per_cd = 15\ndiscount = 0.4\nsold_cds = 5\nsell_price = 40\n\n# calculate the total cost after discount\ntotal_cost = total_cds * cost_per_cd * (1 - discount)\n\n# calculate the total money spent on the CDs he doesn't like\nmoney_spent = sold_cds * cost_per_cd * discount\n\n# calculate the total money he gets from selling the CDs he doesn't like\nmoney_earned = sold_cds * sell_price\n\n# calculate the total money he is out\ntotal_out = money_spent - money_earned\n\nprint(total_out)\n```"]}
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["1800"], "360", ["1800"], "Let's reason step by step.\nFrom 8:00 AM to 11:00 PM is a total of 15 hours.\nSince Vince can staple 30 reports every 15 minutes, he can staple 30/15 = 2 reports per minute.\nIn 15 hours, there are 15 x 60 = 900 minutes.\nTherefore, Vince can staple 2 x 900 = 1800 reports altogether.\nThe answer is 1800"]}
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["3", "1", "3", "\n# define the total number of emails\ntotal_emails = 16\n\n# define the number of work emails\nwork_emails = 7\n\n# calculate the remaining emails\nremaining_emails = total_emails - work_emails\n\n# calculate the number of emails to family\nfamily_emails = remaining_emails * 2/3\n\n# calculate the number of emails to boyfriend\nboyfriend_emails = remaining_emails - family_emails\n\n# print the result\nprint(int(boyfriend_emails))\n", "Let's write a program.\n```python\n# define the total number of emails\ntotal_emails = 16\n\n# define the number of work emails\nwork_emails = 7\n\n# calculate the remaining emails\nremaining_emails = total_emails - work_emails\n\n# calculate the number of emails to family\nfamily_emails = remaining_emails * 2/3\n\n# calculate the number of emails to boyfriend\nboyfriend_emails = remaining_emails - family_emails\n\n# print the result\nprint(int(boyfriend_emails))\n```"]}
+null
+{"version": "fail_grading_match", "details": [["39"], "40", ["39"], "Let's reason step by step.\nIf Courtney overestimated the number of people by 20%, then the actual number of people is 100% - 20% = 80% of what Courtney reported.\nSo, the actual number of people is 80% of 48, which is 0.8 * 48 = 38.4.\nSince we can't have a fraction of a person, we round up to the nearest whole number.\nTherefore, the actual number of people who attended the concert is 39.\nThe answer is 39"]}
+null
+{"version": "fail_grading_match", "details": [["87"], "11", ["87"], "Let's reason step by step.\nAt the end of the first day, there were 10 holes.\nAt the end of the second day, there were 10 + 13 = 23 holes.\nAt the end of the third day, there were 23 + 8 = 31 holes.\nBut they filled in two holes, so there were 31 - 2 = 29 holes.\nThe island had four times as many holes by the fourth day, so there were 29 x 4 = 116 holes.\nTherefore, the pirates dug 116 - 29 = 87 holes on the fourth day before finding the treasure.\nThe answer is 87"]}
+null
+{"version": "fail_grading_match", "details": [["600"], "1000", ["600"], "Let's reason step by step.\nJen has to pay $400 for the supplies he needs.\nThe tickets for travel cost 50% more than the supplies, so they cost 50/100 * $400 = $200 more.\nTherefore, the total cost of the tickets for travel is $400 + $200 = $600.\nSo, travel costs $600.\nThe answer is 600"]}
+null
+null
+{"version": "fail_grading_match", "details": [["446"], "374", ["446"], "Let's reason step by step.\nIn the first leg of the journey, the bird flies for 10 hours at a speed of 30 miles per hour, so it covers a distance of 10 * 30 = 300 miles.\nIn the second leg of the journey, the bird flies for 2 hours at a speed of 18 miles per hour, so it covers a distance of 2 * 18 = 36 miles.\nIn the third leg of the journey, the bird flies for 5 hours at a speed of 22 miles per hour, so it covers a distance of 5 * 22 = 110 miles.\nTo find the total distance between the bird's northern and southern homes, we add up the distances covered in each leg of the journey: 300 + 36 + 110 = 446 miles.\nThe answer is 446"]}
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["140"], "120", ["140"], "Let's reason step by step.\nMrs. Harrington bought 12 boxes of oranges, and each box contains 20 oranges, so she bought a total of 12 * 20 = 240 oranges.\nShe gave her mom and her sister 2 boxes of oranges each, so she gave away a total of 2 * 20 = 40 oranges.\nShe kept 1/4 of the oranges, which is 1/4 * 240 = 60 oranges.\nSo, Mrs. Harrington sold 240 - 40 - 60 = 140 oranges.\nThe answer is 140"]}
+{"version": "fail_grading_match", "details": [["50"], "79", ["50"], "Let's reason step by step.\nLet's assume the number of states in the USA is x.\nHalf the number of states in the USA is x/2.\nAnd 4 more than half the number of states in the USA is x/2 + 4.\nSo, the number of states in India is x/2 + 4.\nThe total number of states in both countries is x + (x/2 + 4).\nCombining like terms, we get (3x/2) + 4.\nTherefore, the total number of states in both countries is (3x/2) + 4.\nThe answer is 50"]}
+{"version": "fail_grading_match", "details": [["6"], "5", ["6"], "Let's reason step by step.\nTyler needs to earn $18 + $13 + $8 = $40 in total to afford his books.\nHe has already saved $14, so he needs to earn an additional $40 - $14 = $26.\nTyler earns $5 per hour, so he needs to work $26 / $5 = 5.2 hours.\nSince Tyler cannot work a fraction of an hour, he will need to work 6 hours to afford his books.\nThe answer is 6"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["18"], "6", ["18"], "Let's reason step by step.\nShe sets aside 25% of her paycheck so that's .25*2000 = $500.00\nShe makes $2,000.00 a month and sets aside $500.00 a month so that leaves 2000-500 = $1,500.00\nShe has $1,500.00 a month to spend and each pair of shoes costs $1,000.00 so she can buy 1500/1000 = 1.5 pairs of shoes a month\nShe can buy 1.5 pairs of shoes a month and there are 12 months in 1 year so she can buy 1.5*12 = 18 pairs of shoes in 1 year\nThe answer is 18"]}
+{"version": "fail_grading_match", "details": [["10"], "45", ["10"], "Let's reason step by step.\nEmily can cook 30/10=3 shrimp per minute.\nShe can cook 6+3=9 shrimp per minute.\nIt will take her 90/9=10 minutes to cook and peel 90 shrimp.\nThe answer is 10"]}
+null
+null
+null
+{"version": "fail_grading_match", "details": [["29"], "11", ["29"], "Let's reason step by step.\nLet's assume the first plane takes x flights in one day.\nThree-quarters of its flights go to Greece, so it takes 3/4 * x = 3x/4 flights to Greece.\nThe remaining flights are split equally between flights to France and flights to Germany, so each of these destinations gets (1 - 3/4) * x = x/4 flights.\nThe second plane flies exclusively to Poland, and its 44 trips only amount to half the number of trips the first plane makes, so the first plane takes 44 * 2 = 88 flights in one day.\nTherefore, the first plane takes 88 flights in one day, and since 3x/4 flights go to Greece, we have 3x/4 = 88.\nSolving for x, we get x = 88 * 4/3 = 117.3333.\nSince the number of flights must be a whole number, we round down to the nearest whole number, so the first plane takes 117 flights in one day.\nTherefore, the first plane takes x/4 = 117/4 = 29.25 flights to France.\nSince the number of flights must be a whole number, we round down to the nearest whole number, so the first plane takes 29 flights to France in one day.\nThe answer is 29"]}
+null
+null
+{"version": "fail_code_result_match", "details": ["-3", "3", "-3.0", "\n# define the total age of the children\ntotal_age = 20\n\n# define the age of Akbar and Alessandro\nakbar_age = 3\nalessandro_age = 4\n\n# calculate the total age of Akbar and Alessandro\ntotal_akbar_alessandro_age = akbar_age + alessandro_age\n\n# calculate the total age of the other two children\ntotal_other_children_age = total_age - total_akbar_alessandro_age\n\n# since Helene is twice as old as the average age of the group, the average age is total_age / 4\naverage_age = total_age / 4\n\n# calculate the age of Wilfred\nwilfred_age = 2 * average_age - total_other_children_age\n\n# print the age of Wilfred\nprint(wilfred_age)\n", "Let's write a program.\n```python\n# define the total age of the children\ntotal_age = 20\n\n# define the age of Akbar and Alessandro\nakbar_age = 3\nalessandro_age = 4\n\n# calculate the total age of Akbar and Alessandro\ntotal_akbar_alessandro_age = akbar_age + alessandro_age\n\n# calculate the total age of the other two children\ntotal_other_children_age = total_age - total_akbar_alessandro_age\n\n# since Helene is twice as old as the average age of the group, the average age is total_age / 4\naverage_age = total_age / 4\n\n# calculate the age of Wilfred\nwilfred_age = 2 * average_age - total_other_children_age\n\n# print the age of Wilfred\nprint(wilfred_age)\n```"]}
+null
+null
+{"version": "fail_grading_match", "details": [["50"], "25", ["50"], "Let's reason step by step.\nLet's assume that each kid gets a slice of x units of watermelon.\nSince each adult gets a slice that is twice as big as that of each kid, each adult gets a slice of 2x units of watermelon.\nThe total number of slices for the kids is 4x (4 kids x x units each).\nThe total number of slices for the adults is 2 * 2x = 4x (2 adults x 2x units each).\nThe total number of slices for the family is 4x + 4x = 8x.\nTo find the percentage of the watermelon that each adult gets, we need to divide the number of slices for the adults by the total number of slices and multiply by 100.\nPercentage for each adult = (4x / 8x) * 100 = 50%\nEach adult gets 50% of the watermelon.\nThe answer is 50"]}
+null
+null
+null
+{"version": "fail_grading_match", "details": [["80"], "480", ["80"], "Let's reason step by step.\nThere are 10 students and the dance studio is rented 3 days a week, so there are 10 x 3 = 30 student sessions per week.\nThe cost per student per session is $1.50, so the total earnings from student sessions per week is 30 x $1.50 = $45.\nThe cost to rent the studio per week is $25, so the total expenses per week is $25.\nTherefore, the expected earnings of the dance studio per week is $45 - $25 = $20.\nIn a month, there are approximately 4 weeks, so the expected earnings of the dance studio in a month is $20 x 4 = $80.\nThe answer is 80"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["139", "138", "139", "\ninitial_price = 120\nincrease_percentage = 5/100\nyears = 3\n\nfinal_price = initial_price\nfor i in range(years):\n    final_price += final_price * increase_percentage\n\nprint(round(final_price))\n", "Let's write a program.\n```python\ninitial_price = 120\nincrease_percentage = 5/100\nyears = 3\n\nfinal_price = initial_price\nfor i in range(years):\n    final_price += final_price * increase_percentage\n\nprint(round(final_price))\n```"]}
+{"version": "fail_grading_match", "details": [["72"], "45", ["72"], "Let's reason step by step.\nOlivia uploaded 72 pictures to Facebook and put the same number of pictures into 8 albums, so each album has 72/8 = 9 pictures.\nOut of the 8 albums, 3 of them are selfies only, so there are 3 * 9 = 27 selfies.\nThe remaining 5 albums are portraits, so there are 5 * 9 = 45 portraits.\nTherefore, Olivia has a total of 27 + 45 = 72 portraits and selfies.\nThe answer is 72"]}
+null
+null
+null
+{"version": "fail_grading_match", "details": [["70"], "36", ["70"], "Let's reason step by step.\nThere are 60 x 40/100 = 24 easy questions.\nSo, there are 60 - 24 = 36 questions that are either average or difficult.\nHalf of the average and difficult questions is 36/2 = 18 questions.\nAries is sure to get 24 + 18 = 42 questions correctly.\nTherefore, she is sure to get 42 x 100/60 = 70 points.\nThe answer is 70"]}
+null
+null
+null
+{"version": "fail_grading_match", "details": [["40"], "30", ["40"], "Let's reason step by step.\nThere are 100 eggs in total.\nThe Smith twins each found 30 eggs, so together they found 30 + 30 = 60 eggs.\nThe remaining eggs are 100 - 60 = 40 eggs.\nThese 40 eggs were found by their friends.\nTherefore, the friends found 40 eggs.\nThe answer is 40"]}
+null
+null
+null
+{"version": "fail_grading_match", "details": [["42"], "34", ["42"], "Let's reason step by step.\n40% of the 25 red balloons burst, so 40/100 * 25 = 10 red balloons burst.\nSally had 25 - 10 = 15 red balloons remaining.\nShe accidentally released half of the 12 yellow balloons, so 12/2 = 6 yellow balloons were released.\nSally had 12 - 6 = 6 yellow balloons remaining.\nShe found 8 blue balloons in the tree and added 75% of them to her remaining balloons, so she added 75/100 * 8 = 6 blue balloons.\nSally had 8 + 6 = 14 blue balloons in total.\nIn total, Sally had 15 red balloons + 7 green balloons + 6 yellow balloons + 14 blue balloons = 42 balloons.\nTherefore, Sally finally carried 42 balloons into the school.\nThe answer is 42"]}
+{"version": "fail_code_result_match", "details": ["76", "24", "76.0", "\n# define the probabilities\nprob_substitute = 0.5\nprob_no_extension = 0.4\nprob_dog_eat = 0.2\n\n# calculate the probability that Marcus will have to turn in his homework\nprob_turn_in = 1 - prob_substitute * (1 - prob_no_extension) * (1 - prob_dog_eat)\n\n# convert to percentage\nprob_turn_in_percent = prob_turn_in * 100\n\n# print the result\nprint(prob_turn_in_percent)\n", "Let's write a program.\n```python\n# define the probabilities\nprob_substitute = 0.5\nprob_no_extension = 0.4\nprob_dog_eat = 0.2\n\n# calculate the probability that Marcus will have to turn in his homework\nprob_turn_in = 1 - prob_substitute * (1 - prob_no_extension) * (1 - prob_dog_eat)\n\n# convert to percentage\nprob_turn_in_percent = prob_turn_in * 100\n\n# print the result\nprint(prob_turn_in_percent)\n```"]}
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["40"], "35", ["40"], "Let's reason step by step.\nRichard's driveway is 24 feet wide and he wants to put a bottle of soda every 3 feet, so he will need 24/3 = 8 bottles of soda.\nIt will take Richard 5 seconds to go from one soda bottle to the next, so it will take him 5 * 8 = 40 seconds to set off all the soda fountains.\nThe answer is 40"]}
+null
+null
+{"version": "fail_code_result_match", "details": ["1", "4", "1.0", "\n# define the variables\nyears_in_school = 4\nloan_per_year = 50000\nprevious_income = 25000\nnew_income = previous_income * 3\n\n# calculate the total loan amount\ntotal_loan = years_in_school * loan_per_year\n\n# calculate the total income lost while in school\nincome_lost = years_in_school * previous_income\n\n# calculate the total income after college\ntotal_income = years_in_school * new_income\n\n# calculate the number of years it would take to earn back the money\nyears_to_earn_back = (total_loan + income_lost) / total_income\n\n# print the result\nprint(years_to_earn_back)\n", "Let's write a program.\n```python\n# define the variables\nyears_in_school = 4\nloan_per_year = 50000\nprevious_income = 25000\nnew_income = previous_income * 3\n\n# calculate the total loan amount\ntotal_loan = years_in_school * loan_per_year\n\n# calculate the total income lost while in school\nincome_lost = years_in_school * previous_income\n\n# calculate the total income after college\ntotal_income = years_in_school * new_income\n\n# calculate the number of years it would take to earn back the money\nyears_to_earn_back = (total_loan + income_lost) / total_income\n\n# print the result\nprint(years_to_earn_back)\n```"]}
+null
+{"version": "fail_grading_match", "details": [["726"], "736", ["726"], "Let's reason step by step.\nOn Tuesday they delivered 425/5 + 17 = 97 letters.\nOn Wednesday they delivered 2 * 97 + 5 = 204 letters.\nThe total number of letters delivered from Monday to Wednesday is 425 + 97 + 204 = 726 letters.\nThe answer is 726"]}
+null
+{"version": "fail_code_result_match", "details": ["-9.166666666666666", "3", "-9.166666666666666", "\n# define the losses and wins\nfirst_loss = -5\nsecond_win = 2 * first_loss + 1\nthird_loss = 1.5 * second_win\n\n# calculate the total loss\ntotal_loss = first_loss + second_win + third_loss\n\n# calculate the average loss\naverage_loss = total_loss / 3\n\n# print the result\nprint(average_loss)\n", "Let's write a program.\n```python\n# define the losses and wins\nfirst_loss = -5\nsecond_win = 2 * first_loss + 1\nthird_loss = 1.5 * second_win\n\n# calculate the total loss\ntotal_loss = first_loss + second_win + third_loss\n\n# calculate the average loss\naverage_loss = total_loss / 3\n\n# print the result\nprint(average_loss)\n```"]}
+null
+null
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["9860.78", "7400", "9860.78", "\n# define the initial price and the depreciation rate\ninitial_price = 20000\ndepreciation_rate = 0.21\n\n# calculate the price in 2010\nprice_2010 = initial_price * ((1 - depreciation_rate) ** 3)\n\n# print the result\nprint(price_2010)\n", "Let's write a program.\n```python\n# define the initial price and the depreciation rate\ninitial_price = 20000\ndepreciation_rate = 0.21\n\n# calculate the price in 2010\nprice_2010 = initial_price * ((1 - depreciation_rate) ** 3)\n\n# print the result\nprint(price_2010)\n```"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["6"], "2", ["6"], "Let's reason step by step.\nImma feeds her cats twice a day, so she uses 60 grams x 2 = 120 grams of cat food per day.\nIf she has 720 grams of cat food, it will last 720 grams / 120 grams per day = 6 days.\nThe answer is 6"]}
+null
+null
+{"version": "fail_grading_match", "details": [["632"], "482", ["632"], "Let's reason step by step.\nFirst find the total cost of the doctor's visit: $200 + $300/30 minutes * 30 minutes = $200 + $300 = $500\nThen find the total cost of the painkillers: $4/pill * 30 pills = $120\nThen find the total cost of the parking: $6/hour * 2 hours = $12\nThen add the cost of each service to find the total cost: $500 + $120 + $12 = $632\nThe answer is 632"]}
+null
+null
+null
+{"version": "fail_grading_match", "details": [["46"], "14", ["46"], "Let's reason step by step.\nThere are 20 x 70/100 = 14 pizzas left from the glee club.\nThe football team ordered 20 x 2 = 40 pizzas.\nThere are 40 x 80/100 = 32 pizzas left from the football team.\nTherefore, there are 14 + 32 = 46 pizzas left.\nThe answer is 46"]}
+null
+{"version": "fail_grading_match", "details": [["12"], "24", ["12"], "Let's reason step by step.\nTen meatball sub sandwiches contain 10*4=40 meatballs.\nSidney ordered 3 less than ten meatball sub sandwiches, so she ordered 10-3=7 meatball sub sandwiches.\nSidney ordered 7 meatball sub sandwiches, so there were 7*4=28 meatballs in the sub sandwiches.\nMark ate 4 of Sidney's meatball sub sandwiches, so there were 28-4*4=12 meatballs in the sub sandwiches that remained.\nThe answer is 12"]}
+null
+{"version": "fail_code_result_match", "details": ["36", "18", "36.0", "\n# define the cost of butter per pound\ncost_per_pound = 4.00\n# define the discount for the promotion\ndiscount = 0.5\n# calculate the cost for 6 pounds of butter\ntotal_cost = 6 * cost_per_pound * (1 + discount)\nprint(total_cost)\n", "Let's write a program.\n```python\n# define the cost of butter per pound\ncost_per_pound = 4.00\n# define the discount for the promotion\ndiscount = 0.5\n# calculate the cost for 6 pounds of butter\ntotal_cost = 6 * cost_per_pound * (1 + discount)\nprint(total_cost)\n```"]}
+null
+null
+{"version": "fail_code_result_match", "details": ["147", "21", "147", "\n# define the total number of bananas and the number of monkeys\ntotal_bananas = 315\nnum_monkeys = 3\n\n# define the number of bananas eaten by the first monkey\nbananas_monkey1 = 10\n\n# the second monkey eats 4 more bananas than the first monkey\nbananas_monkey2 = bananas_monkey1 + 4\n\n# calculate the number of bananas eaten by the third monkey\nbananas_monkey3 = total_bananas - (bananas_monkey1 + bananas_monkey2) * 7\n\n# print the result\nprint(bananas_monkey3)\n", "Let's write a program.\n```python\n# define the total number of bananas and the number of monkeys\ntotal_bananas = 315\nnum_monkeys = 3\n\n# define the number of bananas eaten by the first monkey\nbananas_monkey1 = 10\n\n# the second monkey eats 4 more bananas than the first monkey\nbananas_monkey2 = bananas_monkey1 + 4\n\n# calculate the number of bananas eaten by the third monkey\nbananas_monkey3 = total_bananas - (bananas_monkey1 + bananas_monkey2) * 7\n\n# print the result\nprint(bananas_monkey3)\n```"]}
+null
+{"version": "fail_code_result_match", "details": ["-20", "16", "-20", "\n# define the cost of roses and the number of roses bought\ncost_per_rose = 2\nnumber_of_roses = 15\n\n# calculate the total cost\ntotal_cost = cost_per_rose * number_of_roses\n\n# define the amount of money Jenny has\nmoney = 5 * 5\n\n# calculate the change\nchange = money - total_cost\n\n# calculate the number of quarters\nquarters = change / 0.25\n\n# print the result\nprint(int(quarters))\n", "Let's write a program.\n```python\n# define the cost of roses and the number of roses bought\ncost_per_rose = 2\nnumber_of_roses = 15\n\n# calculate the total cost\ntotal_cost = cost_per_rose * number_of_roses\n\n# define the amount of money Jenny has\nmoney = 5 * 5\n\n# calculate the change\nchange = money - total_cost\n\n# calculate the number of quarters\nquarters = change / 0.25\n\n# print the result\nprint(int(quarters))\n```"]}
+null
+{"version": "fail_grading_match", "details": [["50"], "145", ["50"], "Let's reason step by step.\nFirst, we need to determine how long the second train stays in the station. We do this by performing 10 minutes * 1/4 = 2.5 minutes.\nNext, we determine how long the third train stays in the station by performing 20 minutes - 2.5 minutes = 17.5 minutes.\nThen, we determine how long the second train stays in the station by performing 30 minutes - 10 minutes = 20 minutes.\nThen, we determine how long the fourth train stays in the station by performing 20 minutes - 17.5 minutes = 2.5 minutes.\nFinally, we add up the time that the first train stays in the station, the time that the second train stays in the station, the time that the third train stays in the station, and the time that the fourth train stays in the station to find the total time Paul waits for his train, performing 10 minutes + 20 minutes + 17.5 minutes + 2.5 minutes = 50 minutes.\nThe answer is 50"]}
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["1"], "2", ["1"], "Let's reason step by step.\nJames walked halfway to the store, which is 4 miles / 2 = 2 miles.\nHe then walked back home, which is another 2 miles.\nSo in total, he walked 2 miles + 2 miles = 4 miles.\nIf he walks at a speed of 4 miles per hour, it would take him 4 miles / 4 miles per hour = 1 hour to reach the store.\nThe answer is 1"]}
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["28"], "30", ["28"], "Let's reason step by step.\nJohn has 6 periods in a day, but he has to take 2 extra classes, so he has a total of 6 + 2 = 8 classes in a day.\nEach class is 40 minutes long, so he spends 40 minutes x 8 classes = 320 minutes in a day.\nThere are 5 days in a week, so he spends 320 minutes x 5 days = 1600 minutes in a week.\nHe spends 1/16 of his weekly minutes on Saturday and Sunday, so he spends 1600 minutes x 1/16 = 100 minutes on Saturday and Sunday.\nIn total, he spends 1600 minutes + 100 minutes = 1700 minutes in a week.\nTo convert minutes to hours, we divide by 60, so he spends 1700 minutes / 60 = 28.33 hours in a week.\nThe answer is 28"]}
+null
+null
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["22.22222222222222", "25", "22.22222222222222", "\n# define the total number of sodas and the number of shaken sodas\ntotal_sodas = 12\nshaken_sodas = 3\n\n# calculate the number of unshaken sodas\nunshaken_sodas = total_sodas - shaken_sodas\n\n# calculate the number of sodas Ellen's brother took\nbrother_sodas = 1 + 2\n\n# calculate the number of sodas left\nsodas_left = total_sodas - brother_sodas\n\n# calculate the number of shaken sodas left\nshaken_sodas_left = shaken_sodas - 1\n\n# calculate the likelihood that Ellen's friend gets sprayed with soda from a shaken can\nlikelihood = (shaken_sodas_left / sodas_left) * 100\n\n# print the result\nprint(likelihood)\n", "Let's write a program.\n```python\n# define the total number of sodas and the number of shaken sodas\ntotal_sodas = 12\nshaken_sodas = 3\n\n# calculate the number of unshaken sodas\nunshaken_sodas = total_sodas - shaken_sodas\n\n# calculate the number of sodas Ellen's brother took\nbrother_sodas = 1 + 2\n\n# calculate the number of sodas left\nsodas_left = total_sodas - brother_sodas\n\n# calculate the number of shaken sodas left\nshaken_sodas_left = shaken_sodas - 1\n\n# calculate the likelihood that Ellen's friend gets sprayed with soda from a shaken can\nlikelihood = (shaken_sodas_left / sodas_left) * 100\n\n# print the result\nprint(likelihood)\n```"]}
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["4"], "5", ["4"], "Let's reason step by step.\nHe takes a 30 min lunch per day for 5 days for a total of 30*5 = 150 minutes\nHe takes a 15 min break per day for 5 days for a total of 15*5 = 75 minutes\nTogether, his lunch and breaks last 150+75 = 225 minutes\n60 minutes are in 1 hour so 225 minutes are in 225/60 = 3.75 hours\nThe answer is 4"]}
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["1"], "40", ["1"], "Let's reason step by step.\nLauren plans to save 20% of every paycheck, so she saves 20/100 * $100,000 = $20,000 per year.\nShe wants to save for a retirement period of 20 years, so she needs to save a total of $20,000 * 20 = $400,000.\nShe plans to live with 40% of her current annual salary, so she will spend 40/100 * $100,000 = $40,000 per year.\nTo calculate how many more years she needs to work, we need to subtract her annual expenses from her annual savings: $20,000 - $40,000 = -$20,000.\nSince her annual savings are less than her annual expenses, she will need to work for an additional -$20,000 / $20,000 = -1 year.\nHowever, since she cannot work for a negative number of years, she will need to work for an additional 1 year.\nThe answer is 1"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["6"], "5", ["6"], "Let's reason step by step.\nAnna had a budget of $16 and has already spent $4, so she has $16 - $4 = $12 left in her budget.\nShe bought 2 books today, and both books cost her the same amount of money, so each book cost $12 / 2 = $6.\nTherefore, each of the books cost $6.\nThe answer is 6"]}
+null
+null
+{"version": "fail_grading_match", "details": [["17"], "5", ["17"], "Let's reason step by step.\nBefore buying new fish, Tate has 4 male guppies + 7 female guppies = 11 female guppies.\nHe also has 3 male goldfishes + 5 female goldfishes = 8 female goldfishes.\nSo in total, Tate has 11 + 8 = 19 female fishes.\nBefore buying new fish, Tate has 4 male guppies + 3 male goldfishes = 7 male fishes.\nHe also has 7 female guppies + 5 female goldfishes = 12 female fishes.\nSo in total, Tate has 7 + 12 = 19 male fishes.\nAfter buying new fish, Tate has 19 + 2 = 21 female guppies.\nHe also has 19 + 1 = 20 female goldfishes.\nSo in total, Tate has 21 + 20 = 41 female fishes.\nAfter buying new fish, Tate has 7 + 2 = 9 male guppies.\nHe also has 12 + 3 = 15 male goldfishes.\nSo in total, Tate has 9 + 15 = 24 male fishes.\nTherefore, Tate has 41 - 24 = 17 more female fishes than male fishes.\nThe answer is 17"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["19"], "8", ["19"], "Let's reason step by step.\nLet's assume that Arnold and Madeline painted x eggs each.\nSo, Camden and Sarah painted a total of 30 eggs, and Camden painted 12 more than Sarah, meaning Camden painted (30/2) + 12 = 27 eggs.\nSince Arnold and Madeline painted the same number of eggs, Arnold painted x eggs.\nTherefore, the total number of eggs painted is x + x + 27 + 12 = 56.\nCombining like terms, we get 2x + 39 = 56.\nSubtracting 39 from both sides, we get 2x = 17.\nDividing both sides by 2, we get x = 8.5.\nSince we can't have half an egg, we know that Arnold and Madeline painted 8 eggs each.\nTherefore, Camden painted 27 eggs, and Arnold painted 8 eggs.\nCamden painted 27 - 8 = 19 more eggs than Arnold.\nThe answer is 19"]}
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["11", "68", "11", "\n# define the variables\ntotal_water = 4 + 1  # total water poured into the bottle\nwater_bottle_min_temp = 40  # minimum temperature for drinking\n\n# calculate the temperature of the second bottle\nsecond_bottle_temp = water_bottle_min_temp - (33 - 4)\n\n# print the result\nprint(second_bottle_temp)\n", "Let's write a program.\n```python\n# define the variables\ntotal_water = 4 + 1  # total water poured into the bottle\nwater_bottle_min_temp = 40  # minimum temperature for drinking\n\n# calculate the temperature of the second bottle\nsecond_bottle_temp = water_bottle_min_temp - (33 - 4)\n\n# print the result\nprint(second_bottle_temp)\n```"]}
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["252"], "291", ["252"], "Let's reason step by step.\nFaraday earned $26 from the sunflower per day, so in 3 days, he earned $26 x 3 = $78 from the sunflower.\nFaraday earned $56 from the bouquet per day, so in 3 days, he earned $56 x 3 = $168 from the bouquet.\nEach bouquet has 12 sunflowers, so in 3 days, Faraday sold $168 / $8 = 21 bouquets.\nSince each bouquet has 12 sunflowers, Faraday sold 21 x 12 = 252 sunflowers in total.\nTherefore, Faraday was able to sell 252 sunflowers after 3 days.\nThe answer is 252"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["1"], "2", ["1"], "Let's reason step by step.\nRonnie was given $5 while Rissa was given 3*$5 = $15\nRissa is left with 4/5*$15 = $12\nSince they both gave an equal amount of money to their little sister, then they each gave $12/2 = $6\nThe amount left in Ronnie's money is $5-$6 = $1\nThe answer is 1"]}
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["300"], "240", ["300"], "Let's reason step by step.\nThomas withdraws $1000 in 20 dollar bills, so he has 1000/20 = 50 bills.\nHe loses 10 bills, so he has 50 - 10 = 40 bills remaining.\nHe uses half of the remaining bills to pay for a bill, so he uses 40/2 = 20 bills.\nAfter paying the bill, he has 40 - 20 = 20 bills remaining.\nHe then triples his money, so he has 20 * 3 = 60 bills.\nHe converts all his bills to 5 dollar bills, so he has 60 * 5 = 300 5 dollar bills.\nThe answer is 300"]}
+null
+{"version": "fail_grading_match", "details": [["3"], "2", ["3"], "Let's reason step by step.\nIf the teacher used 45% of the chalk on Monday, then he has 100% - 45% = 55% of the chalk left.\nSince the teacher recycles the chalk when it is smaller than 2 inches, he can only use 20% of the chalk each day.\nTo find out how many days he has before he has to recycle this piece, we need to divide the remaining chalk (55%) by the amount of chalk he can use each day (20%).\n55% / 20% = 2.75\nSince the teacher cannot use a fraction of a day, he will have to recycle the chalk after 3 days.\nThe answer is 3"]}
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["7"], "11", ["7"], "Let's reason step by step.\nHe threw one apple into the tree and that caused 5 more to fall so he had 1+5 = 6 apples\nHe threw one of those apples at the tree and that caused 6 more to fall so he had 1+6 = 7 apples\nHe threw one of those apples at the tree and that caused 6 more to fall so he had 1+6 = 7 apples\nHe picked up the remaining 7 apples and went home to make a pie\nThe answer is 7"]}
+null
+null
+null
+{"version": "fail_grading_match", "details": [["144"], "5", ["144"], "Let's reason step by step.\nEvery hour, Jay builds 20 snowballs.\nBut 2 snowballs melt every 15 minutes, so in an hour, 2 x 4 = 8 snowballs melt.\nTherefore, Jay has 20 - 8 = 12 snowballs remaining after an hour.\nTo reach 60 snowballs, Jay needs to build 60 - 12 = 48 more snowballs.\nSince Jay builds 20 snowballs in an hour, it will take him 48 / 20 = 2.4 hours to build the remaining snowballs.\nSince there are 60 minutes in an hour, 2.4 hours is equal to 2.4 x 60 = 144 minutes.\nTherefore, it will take Jay 144 minutes to have 60 snowballs.\nThe answer is 144"]}
+{"version": "fail_grading_match", "details": [["34"], "24", ["34"], "Let's reason step by step.\nIf John is 28 now, and he was twice as old as Jim when Digimon came out, then Jim was 28/2 = 14 years old when Digimon came out.\nSince it's now 20 years later, Jim is now 14 + 20 = 34 years old.\nThe answer is 34"]}
+null
+{"version": "fail_code_result_match", "details": ["169", "19", "169.0", "\n# define the variables\nbulk_pack = 50\nfirst_day_used = 38\nsecond_day_used = first_day_used - 10\nthird_day_used = bulk_pack / 2\nleftover = 78\n\n# calculate the total bandages used\ntotal_used = first_day_used + second_day_used + third_day_used\n\n# calculate the starting amount\nstarting_amount = total_used + leftover\n\n# print the result\nprint(starting_amount)\n", "Let's write a program.\n```python\n# define the variables\nbulk_pack = 50\nfirst_day_used = 38\nsecond_day_used = first_day_used - 10\nthird_day_used = bulk_pack / 2\nleftover = 78\n\n# calculate the total bandages used\ntotal_used = first_day_used + second_day_used + third_day_used\n\n# calculate the starting amount\nstarting_amount = total_used + leftover\n\n# print the result\nprint(starting_amount)\n```"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["180", "36", "180.0", "\n# calculate the volume of the jar\njar_volume = 6 * 6 * 15\n\n# calculate the number of jelly beans that can fit in the jar\ntotal_jelly_beans = jar_volume / 0.15\n\n# calculate the number of red jelly beans\nred_jelly_beans = total_jelly_beans * 0.3\n\n# calculate the percentage of red jelly beans\nred_percentage = 900 / total_jelly_beans\n\n# calculate the difference between the estimated and true number of red jelly beans\ndifference = abs(red_jelly_beans - 900)\n\nprint(difference)\n", "Let's write a program.\n```python\n# calculate the volume of the jar\njar_volume = 6 * 6 * 15\n\n# calculate the number of jelly beans that can fit in the jar\ntotal_jelly_beans = jar_volume / 0.15\n\n# calculate the number of red jelly beans\nred_jelly_beans = total_jelly_beans * 0.3\n\n# calculate the percentage of red jelly beans\nred_percentage = 900 / total_jelly_beans\n\n# calculate the difference between the estimated and true number of red jelly beans\ndifference = abs(red_jelly_beans - 900)\n\nprint(difference)\n```"]}
+{"version": "fail_grading_match", "details": [["60"], "20", ["60"], "Let's reason step by step.\nWhen the bus started from Chengli city, 20 people entered, and 40 people entered at the first station, a total of 20+40 = 60 people entered the bus.\nAt the second station, 3/4 of the people who entered the bus at the first station entered again, a total of 3/4*40 = 30 people.\nThe total number of people who entered the bus at the first and second stations is 40+30 = 70\nIf the number of passengers on the bus doubled at the third station, the total number of people on the bus became 2*70 = 140\nSince the capacity of the bus is 200, the number of people required to fill the remaining spaces on the bus is 200-140 = 60\nThe answer is 60"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["64.8", "90", "64.8", "\n# define the costs\nmanicure_cost = 35\npedicure_cost = 40\nnail_art_cost = 3\n\n# calculate the total cost without discount\ntotal_cost = manicure_cost + pedicure_cost + 2*nail_art_cost\n\n# apply the discount\ndiscount = 0.20\ntotal_cost_after_discount = total_cost * (1 - discount)\n\n# print the total cost\nprint(total_cost_after_discount)\n", "Let's write a program.\n```python\n# define the costs\nmanicure_cost = 35\npedicure_cost = 40\nnail_art_cost = 3\n\n# calculate the total cost without discount\ntotal_cost = manicure_cost + pedicure_cost + 2*nail_art_cost\n\n# apply the discount\ndiscount = 0.20\ntotal_cost_after_discount = total_cost * (1 - discount)\n\n# print the total cost\nprint(total_cost_after_discount)\n```"]}
+{"version": "fail_grading_match", "details": [["5"], "66", ["5"], "Let's reason step by step.\nShe gets 3*12=36 issues from the first 3 magazines\nThe last magazine gives her 6*4=24 issues\nSo she gets 36+24+6=66 issues\nSo she gets 66/12=5.5 magazines a year\nThe answer is 5"]}
+null
+null
+null
+{"version": "fail_grading_match", "details": [["74"], "70", ["74"], "Let's reason step by step.\nTo find the mean score, we need to add up all the scores and then divide by the number of scores.\nThe sum of Sally's scores is 50 + 80 + 80 + 60 + 40 + 90 + 100 + 70 + 60 = 670.\nSince there are 9 scores, we divide the sum by 9: 670 / 9 = 74.44.\nTherefore, Sally's mean score is 74.44.\nThe answer is 74"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["188"], "750", ["188"], "Let's reason step by step.\nFor every 25 telephone calls, Jason gets one person to come into the car dealership.\nSo, to get 15 cars sold, Jason would need to make 15 * 25 = 375 telephone calls.\nFor every two customers that come into the car dealership, one will buy a car.\nSo, Jason would need 375 / 2 = 187.5 customers to come into the car dealership.\nSince Jason cannot make half a call, he would need to make 188 telephone calls to sell 15 cars and earn his bonus.\nThe answer is 188"]}
+{"version": "fail_grading_match", "details": [["52"], "56", ["52"], "Let's reason step by step.\nThere are 8 rooms in the house and 4 people living there, including Brianna.\nThere is a flashlight for every person to carry, so there are 4 flashlights.\nThere are two flashlights for each room, so there are 2 flashlights x 8 rooms = 16 flashlights.\nThey have a variety of candles available; 4 small candles each for half the rooms, so there are 4 small candles x 4 rooms = 16 small candles.\nThey also have 5 medium candles each for the other half of the rooms, so there are 5 medium candles x 4 rooms = 20 medium candles.\nIn total, they have 16 small candles + 20 medium candles = 36 candles.\nIncluding the flashlights, they have 36 candles + 16 flashlights = 52 candles and flashlights.\nThe answer is 52"]}
+null
+null
+{"version": "fail_grading_match", "details": [["50"], "70", ["50"], "Let's reason step by step.\nIf there were 20 helmets, then there were 20/2 = 10 robots.\nAnd there were 20/1 = 20 footballs.\nSo, the total number of items Dominick saw is 20 + 10 + 20 = 50.\nThe answer is 50"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["6"], "34", ["6"], "Let's reason step by step.\nCharisma meditates for 15 minutes in the morning and 15 minutes before she goes to sleep, so she spends 15 + 15 = 30 minutes on meditation each day.\nIn a week, she practices 1 hour of yoga, which is equal to 60 minutes.\nSo in a week, she spends 30 minutes on meditation + 60 minutes on yoga = 90 minutes on practice.\nIn 4 weeks, she spends 90 minutes x 4 weeks = 360 minutes on practice.\nSince there are 60 minutes in an hour, Charisma spends 360 minutes / 60 minutes = 6 hours on practice.\nThe answer is 6"]}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{"version": "fail_code_result_match", "details": ["2180", "2280", "2180", "\n# define the amounts raised by each person\nalexandra = 430\nkim = alexandra + 320\nmaryam = 300 + 400\nsarah = 300\n\n# calculate the total amount raised\ntotal = alexandra + kim + maryam + sarah\n\n# print the result\nprint(total)\n", "Let's write a program.\n```python\n# define the amounts raised by each person\nalexandra = 430\nkim = alexandra + 320\nmaryam = 300 + 400\nsarah = 300\n\n# calculate the total amount raised\ntotal = alexandra + kim + maryam + sarah\n\n# print the result\nprint(total)\n```"]}
+{"version": "fail_code_result_match", "details": ["32", "64", "32", "\n# define the variables\nvanessa_distance = 4  # miles\naaron_time = 16  # minutes\n\n# calculate the time it took for Vanessa to run her part\nvanessa_time = aaron_time * 2\n\n# print the result\nprint(vanessa_time)\n", "Let's write a program.\n```python\n# define the variables\nvanessa_distance = 4  # miles\naaron_time = 16  # minutes\n\n# calculate the time it took for Vanessa to run her part\nvanessa_time = aaron_time * 2\n\n# print the result\nprint(vanessa_time)\n```"]}
+null
+{"version": "fail_grading_match", "details": [["360"], "180", ["360"], "Let's reason step by step.\nThey get 6*2=12 meals a night\nEach meal is 5*2=$10\nSo they make 10*12=$120 from the meals\nThey also make 5*12=$60 from the wine\nSo they make 120+60=$180 per night\nThat means they make 180*2=$360 per week\nThe answer is 360"]}
+null
+null
+null
+null
+{"version": "fail_grading_match", "details": [["15"], "5", ["15"], "Let's reason step by step.\nLet's assume that all the animals are chickens. Since chickens have 2 legs each, there would be a total of 20 * 2 = 40 legs.\nHowever, we know that there are actually 70 legs in total. This means that there must be some cows on the farm.\nSince cows have 4 legs each, we can subtract the number of legs from the chickens from the total number of legs to find the number of legs from the cows.\n70 - 40 = 30\nSince each cow has 4 legs, we can divide the number of legs from the cows by 4 to find the number of cows.\n30 / 4 = 7.5\nHowever, we cannot have half a cow, so we know that our initial assumption that all the animals are chickens is incorrect.\nLet's try assuming that all the animals are cows. Since cows have 4 legs each, there would be a total of 20 * 4 = 80 legs.\nHowever, we know that there are actually 70 legs in total. This means that there must be some chickens on the farm.\nSince chickens have 2 legs each, we can subtract the number of legs from the cows from the total number of legs to find the number of legs from the chickens.\n70 - 80 = -10\nSince we cannot have a negative number of legs, we know that our initial assumption that all the animals are cows is incorrect.\nTherefore, we can conclude that there are 15 chickens on the farm.\nThe answer is 15"]}
+null

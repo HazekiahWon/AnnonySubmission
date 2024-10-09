@@ -7,7 +7,7 @@ def read_data(dataset):
     questions, answers = [], []
     if dataset == 'math':
         with open(
-                'evaluation/MATH.json',
+                'MATH.json',
                 'r') as f:
             loaded = json.load(f)
         if num_total > 0:
@@ -19,7 +19,7 @@ def read_data(dataset):
 
     elif dataset == "gsm8k":
         with open(
-                'evaluation/gsm8k.jsonl'
+                'gsm8k.jsonl'
         ) as f:
             lines = f.readlines()
             if num_total > 0:
@@ -30,13 +30,14 @@ def read_data(dataset):
                 for x in range(1):
                     questions.append(json_res["question"].strip())
                     answers.append(delete_extra_zero(json_res["answer"].split("#### ")[-1].replace(",", "")))
+    else: raise Expection(f"{dataset} not supported for now.")
     return questions, answers
 
 
 class BatchDatasetLoader:
 
     def __init__(self, dataset: str, batch_size: int, num_total=0, rank=0, data_path='', repeat=0):
-        inp, out = data_reader(dataset, num_total, rank, data_path=data_path)
+        inp, out = read_data(dataset)
 
 
         self.inputs, self.outputs = [],[]

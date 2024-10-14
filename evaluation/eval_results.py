@@ -1214,24 +1214,20 @@ def eval_func(eval_path):
     match_info_list = []
     all_failures = []
     save_details = True 
-    # p = f"{eval_path}_tmp.pkl"
-    # p = eval_path
-    data = []
-    for p in glob(f"{eval_path}/*.jsonl"):
-        with open(p,"r") as f:
-            for line in f.readlines():
-                data.append(process_raw_data(line, taskname))
+    p = f"{eval_path}_tmp.pkl"
+    try:
+        data = pkl.load(open(p,"rb"))
+        print('data length', len(data))
+    except:
+        print(f"cannot read {p}, exit")
+        return 
                 
-    
     if do_ray: ray.init(num_cpus=12)
     tqdm_len = 10
     files_len = len(data)//tqdm_len
     files_len = 1
     finalall = []
-    # ret = [func_to_parallel(item) for item in data[:10]]
-    # for x in ret:
-    #     print(x)
-    # exit(0)
+    
     for i in tqdm(range(0, len(data), files_len)):
         ret = [func_to_parallel.remote(item) for item in data[i:i+files_len]]
         real = ray.get(ret)

@@ -9,4 +9,4 @@ We provide the vllm inference and evaluation scripts in the `evaluation` folder.
 - [x] evaluation results of the trained models 
 - [x] annonymize evaluation scripts 
 - [ ] annonymize and publicize trained models
-- [ ] annonymize training scripts
+- [ ] annonymize training scripts: logp, offpolicy-pg

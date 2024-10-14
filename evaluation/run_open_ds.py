@@ -34,7 +34,7 @@ parser.add_argument("--output", default='', type=str)
 parser.add_argument("--stem_flan_type", default='', choices=['cot_prompt', 'cot_prompt2','pot_prompt', 'cot_trigger', 'pot_trigger', 'reflection','mix_trigger','ds_cot_trigger','ds_pot_trigger','qwen25_math_cot','qwen25_math_pot'], type=str)
 parser.add_argument("--dtype", default='bfloat16', type=str)
 parser.add_argument("--dataset", required=True, choices=[
-    'gsm8k', 'svamp', 'math', 'numglue', 'gsm-hard', 'deepmind', 'simuleq','mawps', 'asdiv', 'mammoth_train'], type=str)
+    'gsm8k', 'svamp', 'math', 'numglue', 'gsm-hard', 'deepmind', 'simuleq','mawps', 'asdiv', 'train'], type=str)
 parser.add_argument("--data_path", type=str, default='')
 parser.add_argument("--use_vllm", action='store_true', default=False)
 parser.add_argument("--load_8bit", action='store_true', default=False)
@@ -45,7 +45,7 @@ parser.add_argument("--print", action='store_true', default=False)
 parser.add_argument("--model_max_length", default=1024, type=int)
 parser.add_argument("--cot_backup", action='store_true', default=False)
 parser.add_argument("--prev_data_path", default="")
-parser.add_argument("--use_logp", default=1, type=int)
+parser.add_argument("--use_logp", default=0, type=int)
 parser.add_argument("--suffix", default="")
 parser.add_argument(
     "--out_path",
@@ -116,51 +116,28 @@ def run_question_only(questions: list, logp: bool):
             prompt_no_input += "Problem:\n{query}\nSolution:\n{answer}\n".format(query=q,answer=a)
             prefix = "Problem:\n{query}\nSolution:"
         input_strs = [prompt_no_input+prefix.format(query=q) for q in questions]
-    elif args.deepseek_templ==1:
-        prompt_no_input = ''
-        prefix = "User:{query}\n\nAssistant:"
-        input_strs = [prefix.format(query=q) for q in questions]
-    elif args.deepseek_templ==2: # do rerun 
-        input_strs = [concat_tool_return(q,a,r) for q,a,r in questions]
-    elif args.deepseek_templ==3: # qwen 2.5 math 
-        input_strs = questions[:10]
-    else: input_strs = [prompt_no_input+ prefix.format(query=q) for q in questions]
-    # import pdb; pdb.set_trace()
+    elif args.deepseek_templ==1: # templ==1: fill in query
+        input_strs = questions
+    else: # templ==0: append trigger
+        input_strs = [prompt_no_input+ prefix.format(query=q) for q in questions]
+    
     input_strs_ = input_strs 
-    if args.deepseek_templ==2: # some inputs have certain results after round 1, we fix it 
-        input_strs = []
-        # forward_idx = []
-        for idx, (q,a,r) in enumerate(questions):
-            if '```python' not in a: continue
-            input_strs.append(concat_tool_return(q,a,r)) 
-            # forward_idx.append(idx)
+    
     print('*'*10, 'final input')
     print(input_strs[0])
     
     response_outputs = llm.generate(input_strs, sampling_params)
 
-    # if logp: output_logp = [[[id,probs[id].logprob] for id,probs in zip(output.outputs[0].token_ids,output.outputs[0].logprobs)] for output in response_outputs]
-    # else: output_logp = None
-    output_logp = None
+    if logp: output_logp = [[[id,probs[id].logprob] for id,probs in zip(output.outputs[0].token_ids,output.outputs[0].logprobs)] for output in response_outputs]
+    else: output_logp = None
+    # output_logp = None
     outputs = [output.outputs[0].text for output in response_outputs]
     #pdb.set_trace()
     outputs_ = outputs
     outputs = [x.split("Problem")[0] for x in outputs]
     
     matches_ = [None for _ in range(len(outputs))]
-    if args.deepseek_templ==2: 
-        outputs_  = []
-        matches_ = []
-        counter = 0
-        for (q,a,r), inp in zip(questions, input_strs_):
-            if '```python' not in a: 
-                outputs_.append(a) # when solution not include program, directly save it
-                matches_.append(r)
-            else: 
-                aa = inp.split('Assistant:')[-1]
-                outputs_.append(aa+outputs[counter])
-                matches_.append(None)
-                counter += 1
+    
     print('*'*10, 'final output')
     print(outputs_[0])
     
@@ -176,31 +153,10 @@ def run_question_loop(questions: list, logp: bool):
     prompt_no_input = ''
     prefix = "User:{query}\n\nAssistant:"
     input_strs = [prefix.format(query=q) for q in questions]
-    # if args.shots == 8:
-    #     raise Exception("fewshot not supported in multi-round function calling")
-    #     # prompt_no_input = ''
-    #     # for q,a in used_examples:
-    #     #     prompt_no_input += "Problem:\n{query}\nSolution:\n{answer}\n".format(query=q,answer=a)
-    #     #     prefix = "Problem:\n{query}\nSolution:"
-    #     # input_strs = [prompt_no_input+prefix.format(query=q) for q in questions]
-    # elif args.deepseek_templ==1:
-        
-    # # elif args.deepseek_templ==2: # do rerun 
-    # #     input_strs = [concat_tool_return(q,a,r) for q,a,r in questions]
-    # # elif args.deepseek_templ==3: # qwen 2.5 math 
-    # #     input_strs = questions[:10]
-    # else: input_strs = [prompt_no_input+ prefix.format(query=q) for q in questions]
-    # import pdb; pdb.set_trace()
+    
     results = {idx:dict(q=q,req=[rq]) for idx,(rq,q) in enumerate(zip(input_strs,questions))}
-    # if args.deepseek_templ==2: # some inputs have certain results after round 1, we fix it 
-    #     input_strs = []
-    #     # forward_idx = []
-    #     for idx, (q,a,r) in enumerate(questions):
-    #         if '```python' not in a: continue
-    #         input_strs.append(concat_tool_return(q,a,r)) 
-    #         # forward_idx.append(idx)
+    
     print('*'*10, 'final input')
-    # print(input_strs[0])
     
     remaining = {k:d['req'][-1] for k,d in results.items()}
     nround = 0
@@ -277,7 +233,7 @@ if __name__ == "__main__":
         return flag
     
     all_results = []
-    if args.dataset.endswith("_train"):
+    if args.dataset.endswith("train"):
         tmp = args.data_path.split(os.path.sep)[-1]
         real_dataset_name = 'train_' + tmp.split('.')[0]
         loader_name = args.dataset
@@ -315,12 +271,9 @@ if __name__ == "__main__":
             ok_to_eval = True 
         except:
             ok_to_eval = False
-    if args.deepseek_templ==2:
-        ok_to_eval = False
+    
     tmp_path2 = f"{args.out_path}/{args.suffix}{modelname}_s{args.sampling}_round1/{real_dataset_name}_{suffix}/{args.num_total}_{args.rank}.json_matchlog.pkl"
-    if args.deepseek_templ==2:
-        args.data_path = tmp_path2
-        assert os.path.exists(args.data_path), f"{args.data_path} must exist"
+    
     if ok_to_eval:
         print("directly evaluating")
         eval_func(args.output)

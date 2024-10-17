@@ -10,6 +10,10 @@ qwen25_math_cot=("<|im_start|>system\nPlease reason step by step, and put your f
         "<|im_start|>user\n{query}<|im_end|>\n"
         "<|im_start|>assistant\n"
 )
+qwen25_math_none=("<|im_start|>system\n<|im_end|>\n"
+        "<|im_start|>user\n{query}<|im_end|>\n"
+        "<|im_start|>assistant\n"
+)
 qwen25_math_pot=(
         "<|im_start|>system\nPlease integrate natural language reasoning with programs to solve the problem above, and put your final answer within \\boxed{{}}.<|im_end|>\n"
         "<|im_start|>user\n{query}<|im_end|>\n"
@@ -22,6 +26,7 @@ trigger_libs = dict(pot_trigger=pot_trigger,
                     ds_pot_trigger=ds_pot_trigger,
                     qwen25_math_cot=qwen25_math_cot,
                     qwen25_math_pot=qwen25_math_pot,
+                    qwen25_math_none=qwen25_math_none,
                     reflection="")
 
 def process_question_with_flan_tag(questions: list, stem_flan_type: str):
@@ -33,7 +38,7 @@ def process_question_with_flan_tag(questions: list, stem_flan_type: str):
         elif stem_flan_type == "cot_prompt":
             prefix = ""
     
-    questions = [prefix.format(query=q) if stem_flan_type.startswith('qwen') else q + prefix for q in questions]
+    questions = [prefix.format(query=q) if stem_flan_type.startswith('qwen') or stem_flan_type.startswith('ds') else q + prefix for q in questions]
     return questions
 
 def get_prompt(qas: list, form: str):

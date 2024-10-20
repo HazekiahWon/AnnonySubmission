@@ -14,5 +14,6 @@ We provide the vllm inference and evaluation scripts in the `evaluation` folder.
 ## ToDo
 - [x] evaluation results of the trained models 
 - [x] annonymize evaluation scripts 
+- [x] annonymize the collected query set
 - [ ] annonymize and publicize trained models
 - [x] annonymize training scripts: logp, offpolicy-pg

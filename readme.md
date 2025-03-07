@@ -19,11 +19,12 @@ We provide the vllm inference and evaluation scripts in the `evaluation` folder.
 ## Evaluation Results
 We provide inference results and detailed matching logs of the trained models. Please see `evaluation_results` folder, and check the readme for details.
 
-
+# Trained Models
+Uploaded [here](https://modelscope.cn/models/jasperhaozhe/qwen25-base-autocode/).
 
 ## ToDo
 - [x] evaluation results of the trained models 
 - [x] annonymize evaluation scripts 
 - [x] annonymize the collected query set
-- [ ] annonymize and publicize trained models
+- [x] annonymize and publicize trained models
 - [x] annonymize training scripts: logp, offpolicy-pg

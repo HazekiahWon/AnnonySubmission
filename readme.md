@@ -20,7 +20,7 @@ We provide the vllm inference and evaluation scripts in the `evaluation` folder.
 We provide inference results and detailed matching logs of the trained models. Please see `evaluation_results` folder, and check the readme for details.
 
 # Trained Models
-Uploaded [here](https://modelscope.cn/models/jasperhaozhe/qwen25-base-autocode/).
+Uploaded [here](https://www.modelscope.cn/models/annonySubm/qwen25_base_autocode).
 
 ## ToDo
 - [x] evaluation results of the trained models 
